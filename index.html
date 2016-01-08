@@ -34,7 +34,7 @@
         $.each(data.staff, function(i,f) {
           currow = 0
           var col = "<div class='large-3 columns'><p>" + f.name + "</p></div>"
-          $('#staff'+currow).append(col)
+          $('#staff_'+currow).append(col)
           if (i%3===0){
             currow = i/3
             $('#staff').append("<div class='row' id='staff_"+currow+"'></div>")
