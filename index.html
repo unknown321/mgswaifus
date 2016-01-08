@@ -12,15 +12,20 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <h4>This is a page with all unique staff obtainable in the game with pics, names and missions where you can get them.</h4>
+        <h3>This is a page with all unique staff obtainable in the game with pics, names and missions where you can get them.</h3>
         <p><a data-open="exampleModal1">Click here for notes</a></p>
       </div>
     </div>
 
     <div class="reveal" id="exampleModal1" data-reveal>
       <h1>Notes</h1>
-      <p>There are 177 unique staff members including Snake, your avatar, Miller, Ocelot etc. However some of them don't have attached pics (see \master\data1\Assets\tpp\motherbase\script\MbmCommonSetting.lua). Best example is Silent Basilisk (staff_name_99_056) without faceId property. <br>Some of them have missionId property, which shows where you can extract them. This propeety also means that these soldiers have to be rescued as prisoners. Soldiers like Malak don't have missionId because you must extract them to finish the mission. <br>There is no info about prisoners in side missions (or at least I haven't found it yet).<br> Pics are available <a href="https://mega.nz/#!AhQyRZgL!XkBHYgMLTI81leta4r8YrhteMRpRV6Nh1bF3SqrVSvY
-">here</a> without proper names; you can also extract them yourself by using <a href="https://www.dropbox.com/s/0rtpumx2mxsjaby/MGSV_QAR_Tool.rar?dl=0">MGSV QAR Tool v1.3 by Sergeanur</a> (and convert with <a href="https://github.com/Atvaark/FtexTool">FtexTool</a>).<br>Any help would be appreciated.</p>
+      <p>There are 177 unique staff members including Snake, your avatar, Miller, Ocelot etc. However some of them don't have attached pics (see \master\data1\Assets\tpp\motherbase\script\MbmCommonSetting.lua). Best example is Silent Basilisk (staff_name_99_056) without faceId property.</p>
+      <p>Some of them have missionId property, which shows where you can extract them. This property also means that these soldiers have to be rescued as prisoners. Soldiers like Malak don't have missionId because you must extract them to finish the mission.</p>
+      <p>There is no info about prisoners in side missions (or at least I haven't found it yet).</p>
+      <p>Every soldier has his unique ID, which you can use for modding; for example replace Silent Basilisk with Ivory Skull to get her almost legally.</p>
+      <p>You can get pics by extracting them using <a href="https://www.dropbox.com/s/0rtpumx2mxsjaby/MGSV_QAR_Tool.rar?dl=0">MGSV QAR Tool v1.3 by Sergeanur</a> (and convert with <a href="https://github.com/Atvaark/FtexTool">FtexTool</a>) (there was a MEGA link, but github doesn't like it).</p>
+      <p>Any help finding remaining portraits and info about sidemissions would be appreciated.</p>
+      <p><a href="http://steamcommunity.com/profiles/76561197990954868/">Contact me</a></p>
       <button class="close-button" data-close aria-label="Close reveal" type="button">
         <span aria-hidden="true">&times;</span>
       </button>
@@ -48,114 +53,107 @@
     <script src="js/app.js"></script>
     <script src="js/jquery.lazyload.js"></script>
     <script type="text/javascript">
+      //javascript is gross
       function clear(){
+        //function for testing
         $('#staff').html("<div class='row' id='staff_0'></div>")
-        $('#faceless_staff').html("      <h4>These characters don't have faces attached to them (they are still unique)</h4>\
+        $('#faceless_staff').html("<h4>These characters don't have faces attached to them (they are still unique)</h4>\
       <div class='large-12 columns' id='faceless_staff_1'></div>")
       }
-    </script>
-    <script>
 
-    function get_best_unit(f)
-    {
-      keys = ['combat','develop','baseDev',
-              'support','spy','medical']
-      names = ['Combat','Develop','BaseDevelopment',
-              'Support','Intel','Medical']
-      var max = 0
-      var best_unit = 'combat'
-      $(keys).each(function(i,k)
+      function get_best_unit(f)
       {
-        if (f[k] > max)
+        keys = ['combat','develop','baseDev',
+                'support','spy','medical']
+        names = ['Combat','Develop','BaseDevelopment',
+                'Support','Intel','Medical']
+        var max = 0
+        var best_unit = 'combat'
+        $(keys).each(function(i,k)
         {
-          max = f[k]
-          best_unit = k
-        }
-      })
-
-      return names[keys.indexOf(best_unit)]
-    }
-
-    function append_info(f)
-    //create column with info and pic
-    {
-      var col = "\
-      <div class='large-3 medium-3 small-3 columns'>\
-        <div class='media-object'>\
-          <div class='media-object-section bottom'>\
-            <div class='thumbnail'>\
-              <img height=250 width=250 class='lazy' data-original='img/ui_face_"
-      if ('faceId' in f)
-        var column = col + f.faceId + "_0.png'>\</div><center>"
-      else 
-        var column = col + "unknown_0.png'>\</div><center>"
-
-      column = column + "<b>Name:</b> " + f.name
-        + "<br>ID: " + f.uniqueId
-      if ('lang' in f)
-        column = column + "<br>Lang: " + f.lang 
-      if (f.skill != 'None')
-        column = column + "<br>Skill: " + f.skill 
-      if ('missionId' in f)
-      {
-        if (f.missionId != 0 )
-          column = column + "<br>Mission: " + f.missionName   
+          if (f[k] > max)
+          {
+            max = f[k]
+            best_unit = k
+          }
+        })
+        return names[keys.indexOf(best_unit)]
       }
-      column = column + "<br>Unit: " + get_best_unit(f)
 
-      column = column + "</center></div></div>"
-      return column
-    }
-
-    function fix_last_row(row_type, row_number)
-    //add empty columns if we need
-    {
-      last_row_len = $('#'+row_type+"_" + row_number).length
-      if (last_row_len != 4)
+      function append_info(f)
+      //create column with info and pic
       {
-        count = 4 - last_row_len
-        while (count != 0) {
-          $('#'+row_type+row_number).append("<div class='large-3 columns'></div>")
-          count = count -1
-        }
-      }
-    }
-
-    $.getJSON('js/staff.json', function(data) {
-      var current_row = 0
-      $.each(data.staff, function(i,f) {
-        var column = append_info(f)
-
-
-
-
-
-
-
+        var col = "\
+        <div class='large-3 medium-3 small-3 columns'>\
+          <div class='media-object'>\
+            <div class='media-object-section bottom'>\
+              <div class='thumbnail'>\
+                <img height=250 width=250 class='lazy' data-original='img/ui_face_"
         if ('faceId' in f)
-        {
-          if ((i%4===0)&&(i!=0))
-          {
-            current_row = i/4
-            $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
-          }
-          $('#staff_'+current_row).append(column)
-        } 
+          var column = col + f.faceId + "_0.png'>\</div><center>"
         else 
-        {
-          if ((i%4===0)&&(i!=0))
-          {
-            current_row = i/4
-            $('#faceless_staff').append("<div class='row' id='faceless_staff_"+current_row+"'></div>")
-          }
-          $('#faceless_staff_'+current_row).append(column)
-        }
-      })
-      fix_last_row('staff',current_row)
-      fix_last_row('faceless_staff',current_row)
+          var column = col + "unknown_0.png'>\</div><center>"
 
-      $("img.lazy").lazyload();
-    })
+        column = column + "<b>Name:</b> " + f.name
+          + "<br>ID: " + f.uniqueId
+        if ('lang' in f)
+          column = column + "<br>Lang: " + f.lang 
+        if (f.skill != 'None')
+          column = column + "<br>Skill: " + f.skill 
+        if ('missionId' in f)
+        {
+          if (f.missionId != 0 )
+            column = column + "<br>Mission: " + f.missionName   
+        }
+        column = column + "<br>Unit: " + get_best_unit(f)
+
+        column = column + "</center></div></div>"
+        return column
+      }
+
+      function fix_last_row(row_type, row_number)
+      //add empty columns if we need
+      {
+        last_row_len = $('#'+row_type+"_" + row_number).length
+        if (last_row_len != 4)
+        {
+          count = 4 - last_row_len
+          while (count != 0) {
+            $('#'+row_type+row_number).append("<div class='large-3 columns'></div>")
+            count = count -1
+          }
+        }
+      }
+
+      $.getJSON('js/staff.json', function(data) {
+        var current_row = 0
+        $.each(data.staff, function(i,f) {
+          var column = append_info(f)
+          if ('faceId' in f)
+          {
+            if ((i%4===0)&&(i!=0))
+            {
+              current_row = i/4
+              $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
+            }
+            $('#staff_'+current_row).append(column)
+          } 
+          else 
+          {
+            if ((i%4===0)&&(i!=0))
+            {
+              current_row = i/4
+              $('#faceless_staff').append("<div class='row' id='faceless_staff_"+current_row+"'></div>")
+            }
+            $('#faceless_staff_'+current_row).append(column)
+          }
+        })
+        //fix_last_row('staff',current_row)
+        //todo - last raw of staff with faces won't fix itself because current_row is wrong
+        fix_last_row('faceless_staff',current_row)
+
+        $("img.lazy").lazyload();
+      })
 
     </script>
   </body>
