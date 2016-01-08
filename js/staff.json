@@ -101,6 +101,7 @@
 			"uniqueId":188,
 			"nameId":"staff_name_11_188",
 			"faceId":"361",
+			"facenote":1,
 			"combat":300,
 			"develop":80,
 			"baseDev":20,
@@ -114,12 +115,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Flaming Buffalo"
+			"name":"Flaming Buffalo",
+			"notes":"Unique volunteer (mission 31)"
 		},
 		{
 			"uniqueId":189,
 			"nameId":"staff_name_11_189",
 			"faceId":"209",
+			"facenote":1,
 			"combat":130,
 			"develop":300,
 			"baseDev":80,
@@ -133,12 +136,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Running Mongoose"
+			"name":"Running Mongoose",
+			"notes":"Unique volunteer (missions 13, 31)"
 		},
 		{
 			"uniqueId":190,
 			"nameId":"staff_name_11_190",
 			"faceId":"342",
+			"facenote":1,
 			"combat":185,
 			"develop":130,
 			"baseDev":300,
@@ -152,12 +157,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Frantic Squirrel"
+			"name":"Frantic Squirrel",
+			"notes":"Unique volunteer (mission 31)"
 		},
 		{
 			"uniqueId":191,
 			"nameId":"staff_name_11_191",
 			"faceId":"188",
+			"facenote":1,
 			"combat":10,
 			"develop":185,
 			"baseDev":130,
@@ -171,12 +178,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Blazing Mastodon"
+			"name":"Blazing Mastodon",
+			"notes":"Unique volunteer (mission 31)"
 		},
 		{
 			"uniqueId":192,
 			"nameId":"staff_name_11_192",
 			"faceId":"467",
+			"facenote":1,
 			"combat":20,
 			"develop":10,
 			"baseDev":185,
@@ -190,12 +199,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Biting Tree Frog"
+			"name":"Biting Tree Frog",
+			"notes":"Unique volunteer (mission 31)"
 		},
 		{
 			"uniqueId":193,
 			"nameId":"staff_name_11_193",
 			"faceId":"515",
+			"facenote":1,
 			"combat":80,
 			"develop":20,
 			"baseDev":10,
@@ -209,12 +220,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Gray Chameleon"
+			"name":"Gray Chameleon",
+			"notes":"Unique volunteer (mission 31)"
 		},
 		{
 			"uniqueId":194,
 			"nameId":"staff_name_11_194",
 			"faceId":"192",
+			"facenote":1,
 			"combat":490,
 			"develop":310,
 			"baseDev":10,
@@ -228,12 +241,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Razor Hedgehog"
+			"name":"Razor Hedgehog",
+			"notes":"Unique volunteer (mission 46)"
 		},
 		{
 			"uniqueId":195,
 			"nameId":"staff_name_11_195",
 			"faceId":"288",
+			"facenote":1,
 			"combat":50,
 			"develop":490,
 			"baseDev":310,
@@ -247,12 +262,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Howling Platypus"
+			"name":"Howling Platypus",
+			"notes":"Unique volunteer (mission 46)"
 		},
 		{
 			"uniqueId":196,
 			"nameId":"staff_name_11_196",
 			"faceId":"075",
+			"facenote":1,
 			"combat":10,
 			"develop":50,
 			"baseDev":490,
@@ -266,12 +283,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Blue Salamander"
+			"name":"Blue Salamander",
+			"notes":"Unique volunteer (mission 46)"
 		},
 		{
 			"uniqueId":197,
 			"nameId":"staff_name_11_197",
 			"faceId":"372",
+			"facenote":1,
 			"combat":20,
 			"develop":10,
 			"baseDev":50,
@@ -285,12 +304,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Creeping Buzzard"
+			"name":"Creeping Buzzard",
+			"notes":"Unique volunteer (mission 46)"
 		},
 		{
 			"uniqueId":198,
 			"nameId":"staff_name_11_198",
 			"faceId":"507",
+			"facenote":1,
 			"combat":10,
 			"develop":20,
 			"baseDev":10,
@@ -304,12 +325,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Glacier Mongoose"
+			"name":"Glacier Mongoose",
+			"notes":"Unique volunteer (mission 46)"
 		},
 		{
 			"uniqueId":199,
 			"nameId":"staff_name_11_199",
 			"faceId":"129",
+			"facenote":1,
 			"combat":310,
 			"develop":10,
 			"baseDev":20,
@@ -323,12 +346,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Spunky Platypus"
+			"name":"Spunky Platypus",
+			"notes":"Unique volunteer (mission 46)"
 		},
 		{
 			"uniqueId":34,
 			"nameId":"staff_name_99_002",
 			"faceId":"222",
+			"facenote":1,
 			"combat":10,
 			"develop":15,
 			"baseDev":18,
@@ -343,12 +368,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Stone Mastodon"
+			"name":"Stone Mastodon",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":5,
 			"nameId":"staff_name_99_003",
 			"faceId":"283",
+			"facenote":1,
 			"combat":8,
 			"develop":15,
 			"baseDev":10,
@@ -363,12 +390,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Dire Barracuda"
+			"name":"Dire Barracuda",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":36,
 			"nameId":"staff_name_99_004",
 			"faceId":"264",
+			"facenote":1,
 			"combat":21,
 			"develop":18,
 			"baseDev":13,
@@ -383,12 +412,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Roaring Stallion"
+			"name":"Roaring Stallion",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":1,
 			"nameId":"staff_name_99_007",
 			"faceId":"252",
+			"facenote":1,
 			"combat":10,
 			"develop":7,
 			"baseDev":8,
@@ -402,12 +433,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Sly Harrier"
+			"name":"Sly Harrier",
+			"notes": "Initial staff member"
 		},
 		{
 			"uniqueId":45,
 			"nameId":"staff_name_99_012",
 			"faceId":"293",
+			"facenote":1,
 			"combat":11,
 			"develop":19,
 			"baseDev":11,
@@ -422,12 +455,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Hunting Harrier"
+			"name":"Hunting Harrier",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":46,
 			"nameId":"staff_name_99_013",
 			"faceId":"322",
+			"facenote":1,
 			"combat":5,
 			"develop":15,
 			"baseDev":20,
@@ -442,12 +477,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Growling Harrier"
+			"name":"Growling Harrier",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":8,
 			"nameId":"staff_name_99_016",
 			"faceId":"124",
+			"facenote":1,
 			"combat":7,
 			"develop":15,
 			"baseDev":11,
@@ -462,12 +499,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Night Crocodile"
+			"name":"Night Crocodile",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":7,
 			"nameId":"staff_name_99_022",
 			"faceId":"088",
+			"facenote":1,
 			"combat":5,
 			"develop":16,
 			"baseDev":5,
@@ -482,12 +521,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Roaring Hedgehog"
+			"name":"Roaring Hedgehog",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":3,
 			"nameId":"staff_name_99_023",
 			"faceId":"078",
+			"facenote":1,
 			"combat":5,
 			"develop":17,
 			"baseDev":5,
@@ -502,12 +543,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Brass Armadillo"
+			"name":"Brass Armadillo",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":4,
 			"nameId":"staff_name_99_045",
 			"faceId":"200",
+			"facenote":1,
 			"combat":5,
 			"develop":20,
 			"baseDev":7,
@@ -522,12 +565,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Pouncing Wallaby"
+			"name":"Pouncing Wallaby",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":9,
 			"nameId":"staff_name_99_052",
 			"faceId":"138",
+			"facenote":1,
 			"combat":7,
 			"develop":15,
 			"baseDev":10,
@@ -542,12 +587,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Jumping Harrier"
+			"name":"Jumping Harrier",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":0,
 			"nameId":"staff_name_99_063",
 			"faceId":"093",
+			"facenote":1,
 			"combat":5,
 			"develop":5,
 			"baseDev":5,
@@ -561,12 +608,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Jade Tree Frog"
+			"name":"Jade Tree Frog",
+			"notes": "Initial staff member"
 		},
 		{
 			"uniqueId":10,
 			"nameId":"staff_name_99_077",
 			"faceId":"169",
+			"facenote":1,
 			"combat":9,
 			"develop":15,
 			"baseDev":9,
@@ -581,12 +630,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Blue Mastodon"
+			"name":"Blue Mastodon",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":6,
 			"nameId":"staff_name_99_080",
 			"faceId":"030",
+			"facenote":1,
 			"combat":5,
 			"develop":15,
 			"baseDev":8,
@@ -601,12 +652,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Sadistic Mastiff"
+			"name":"Sadistic Mastiff",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":185,
 			"nameId":"staff_name_99_083",
 			"faceId":"132",
+			"facenote":1,
 			"combat":45,
 			"develop":92,
 			"baseDev":70,
@@ -621,12 +674,14 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":0,
-			"name":"Lonely Buffalo"
+			"name":"Lonely Buffalo",
+			"notes":"Unique volunteer (mission 16)"
 		},
 		{
 			"uniqueId":187,
 			"nameId":"staff_name_99_085",
 			"faceId":"167",
+			"facenote":1,
 			"combat":21,
 			"develop":66,
 			"baseDev":11,
@@ -641,12 +696,14 @@
 			"lang":"English",
 			"lang":"Russian",
 			"missionId":0,
-			"name":"Hungry Squirrel"
+			"name":"Hungry Squirrel",
+			"notes":"Unique volunteer (mission 12)"
 		},
 		{
 			"uniqueId":209,
 			"nameId":"staff_name_99_086",
 			"faceId":"204",
+			"facenote":1,
 			"combat":30,
 			"develop":66,
 			"baseDev":48,
@@ -668,6 +725,7 @@
 			"uniqueId":210,
 			"nameId":"staff_name_99_087",
 			"faceId":"230",
+			"facenote":1,
 			"combat":50,
 			"develop":30,
 			"baseDev":10,
@@ -683,12 +741,14 @@
 			"lang":"Afrikaans",
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
-			"name":"Night Sturgeon"
+			"name":"Night Sturgeon",
+			"notes":"Unique volunteer (mission 14)"
 		},
 		{
 			"uniqueId":211,
 			"nameId":"staff_name_99_088",
 			"faceId":"290",
+			"facenote":1,
 			"combat":30,
 			"develop":10,
 			"baseDev":25,
@@ -704,12 +764,14 @@
 			"lang":"Afrikaans",
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
-			"name":"Raging Buzzard"
+			"name":"Raging Buzzard",
+			"notes":"Unique volunteer (mission 14)"
 		},
 		{
 			"uniqueId":212,
 			"nameId":"staff_name_99_089",
 			"faceId":"278",
+			"facenote":1,
 			"combat":50,
 			"develop":28,
 			"baseDev":48,
@@ -725,12 +787,14 @@
 			"lang":"Afrikaans",
 			"missionId":10082,
 			"missionName":"15 Footprints of Phantoms",
-			"name":"Killer Stallion"
+			"name":"Killer Stallion",
+			"notes":"Unique volunteer (mission 15)"
 		},
 		{
 			"uniqueId":213,
 			"nameId":"staff_name_99_090",
 			"faceId":"214",
+			"facenote":1,
 			"combat":47,
 			"develop":47,
 			"baseDev":81,
@@ -746,12 +810,14 @@
 			"lang":"Afrikaans",
 			"missionId":10091,
 			"missionName":"17 Rescue the Intel Agents",
-			"name":"Brutal Tree Frog"
+			"name":"Brutal Tree Frog",
+			"notes":"Unique volunteer (mission 17)"
 		},
 		{
 			"uniqueId":214,
 			"nameId":"staff_name_99_091",
 			"faceId":"277",
+			"facenote":1,
 			"combat":67,
 			"develop":56,
 			"baseDev":45,
@@ -767,12 +833,14 @@
 			"lang":"Afrikaans",
 			"missionId":10195,
 			"missionName":"19 On the Trail",
-			"name":"Bastard Harrier"
+			"name":"Bastard Harrier",
+			"notes":"Unique volunteer (mission 19)"
 		},
 		{
 			"uniqueId":215,
 			"nameId":"staff_name_99_092",
 			"faceId":"157",
+			"facenote":1,
 			"combat":45,
 			"develop":56,
 			"baseDev":67,
@@ -788,12 +856,14 @@
 			"lang":"Afrikaans",
 			"missionId":10100,
 			"missionName":"18 Blood Runs Deep",
-			"name":"Green Sturgeon"
+			"name":"Green Sturgeon",
+			"notes":"Unique volunteer (mission 18)"
 		},
 		{
 			"uniqueId":217,
 			"nameId":"staff_name_99_094",
 			"faceId":"234",
+			"facenote":1,
 			"combat":88,
 			"develop":34,
 			"baseDev":45,
@@ -809,12 +879,14 @@
 			"lang":"Afrikaans",
 			"missionId":10110,
 			"missionName":"20 Voices",
-			"name":"Green Tree Frog"
+			"name":"Green Tree Frog",
+			"notes":"Unique volunteer (mission 20)"
 		},
 		{
 			"uniqueId":2,
 			"nameId":"staff_name_99_095",
 			"faceId":"332",
+			"facenote":1,
 			"combat":7,
 			"develop":10,
 			"baseDev":20,
@@ -828,12 +900,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"White Mastodon"
+			"name":"White Mastodon",
+			"notes": "Initial staff member"
 		},
 		{
 			"uniqueId":33,
 			"nameId":"staff_name_99_102",
 			"faceId":"213",
+			"facenote":1,
 			"combat":6,
 			"develop":17,
 			"baseDev":6,
@@ -848,12 +922,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Rumble Tarantula"
+			"name":"Rumble Tarantula",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":35,
 			"nameId":"staff_name_99_104",
 			"faceId":"243",
+			"facenote":1,
 			"combat":5,
 			"develop":19,
 			"baseDev":13,
@@ -868,12 +944,14 @@
 			"lang":"English",
 			"missionId":10030,
 			"missionName":"2 Flashback Diamond Dogs",
-			"name":"Dire Crocodile"
+			"name":"Dire Crocodile",
+			"notes": "Fulton lesson"
 		},
 		{
 			"uniqueId":224,
 			"nameId":"staff_name_99_112",
 			"faceId":"014",
+			"facenote":1,
 			"combat":10,
 			"develop":35,
 			"baseDev":35,
@@ -887,12 +965,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Gray Wallaby"
+			"name":"Gray Wallaby",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":219,
 			"nameId":"staff_name_99_113",
 			"faceId":"115",
+			"facenote":1,
 			"combat":10,
 			"develop":10,
 			"baseDev":10,
@@ -906,12 +986,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Ochre Chameleon"
+			"name":"Ochre Chameleon",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":220,
 			"nameId":"staff_name_99_114",
 			"faceId":"142",
+			"facenote":1,
 			"combat":10,
 			"develop":10,
 			"baseDev":10,
@@ -925,12 +1007,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Grizzly Hedgehog"
+			"name":"Grizzly Hedgehog",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":221,
 			"nameId":"staff_name_99_115",
 			"faceId":"334",
+			"facenote":1,
 			"combat":10,
 			"develop":10,
 			"baseDev":33,
@@ -944,12 +1028,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Hungry Crocodile"
+			"name":"Hungry Crocodile",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":222,
 			"nameId":"staff_name_99_119",
 			"faceId":"050",
+			"facenote":1,
 			"combat":10,
 			"develop":20,
 			"baseDev":20,
@@ -963,7 +1049,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Wild Harrier"
+			"name":"Wild Harrier",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":32,
@@ -984,12 +1071,14 @@
 			"lang":"Russian",
 			"missionId":10033,
 			"missionName":"5 Over the Fence",
-			"name":"Spying Harrier"
+			"name":"Spying Harrier",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":234,
 			"nameId":"staff_name_99_120",
 			"faceId":"063",
+			"facenote":1,
 			"combat":48,
 			"develop":76,
 			"baseDev":38,
@@ -1003,12 +1092,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Night Tree Frog"
+			"name":"Night Tree Frog",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":235,
 			"nameId":"staff_name_99_121",
 			"faceId":"099",
+			"facenote":1,
 			"combat":10,
 			"develop":48,
 			"baseDev":38,
@@ -1022,12 +1113,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Pirate Capybara"
+			"name":"Pirate Capybara",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":236,
 			"nameId":"staff_name_99_122",
 			"faceId":"078",
+			"facenote":1,
 			"combat":44,
 			"develop":38,
 			"baseDev":72,
@@ -1041,12 +1134,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Roaring Capybara"
+			"name":"Roaring Capybara",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":237,
 			"nameId":"staff_name_99_123",
 			"faceId":"036",
+			"facenote":1,
 			"combat":38,
 			"develop":10,
 			"baseDev":38,
@@ -1060,12 +1155,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Bitter Centipede"
+			"name":"Bitter Centipede",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":225,
 			"nameId":"staff_name_99_124",
 			"faceId":"017",
+			"facenote":1,
 			"combat":10,
 			"develop":51,
 			"baseDev":35,
@@ -1079,12 +1176,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Blue Chameleon"
+			"name":"Blue Chameleon",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":226,
 			"nameId":"staff_name_99_125",
 			"faceId":"174",
+			"facenote":1,
 			"combat":10,
 			"develop":35,
 			"baseDev":35,
@@ -1098,12 +1197,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Midnight Mastiff"
+			"name":"Midnight Mastiff",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":229,
 			"nameId":"staff_name_99_126",
 			"faceId":"320",
+			"facenote":1,
 			"combat":10,
 			"develop":64,
 			"baseDev":30,
@@ -1117,12 +1218,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Frigid Mongoose"
+			"name":"Frigid Mongoose",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":230,
 			"nameId":"staff_name_99_127",
 			"faceId":"033",
+			"facenote":1,
 			"combat":30,
 			"develop":48,
 			"baseDev":48,
@@ -1136,12 +1239,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Hunting Stallion"
+			"name":"Hunting Stallion",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":231,
 			"nameId":"staff_name_99_128",
 			"faceId":"332",
+			"facenote":1,
 			"combat":10,
 			"develop":30,
 			"baseDev":68,
@@ -1155,7 +1260,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Assassin Harrier"
+			"name":"Assassin Harrier",
+			"notes":"(?) Hostage / Volunteer"
 		},
 		{
 			"uniqueId":232,
@@ -1174,7 +1280,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Mad Wallaby"
+			"name":"Mad Wallaby",
+			"notes":"(?)Marked as traitor"
 		},
 		{
 			"uniqueId":233,
@@ -1193,12 +1300,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Wild Stallion"
+			"name":"Wild Stallion",
+			"notes":"(?)Marked as mastermind"
 		},
 		{
 			"uniqueId":238,
 			"nameId":"staff_name_99_134",
 			"faceId":"008",
+			"facenote":1,
 			"combat":77,
 			"develop":38,
 			"baseDev":48,
@@ -1212,12 +1321,14 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Crying Sturgeon"
+			"name":"Crying Sturgeon",
+			"notes":"(?) Marked as genome soldier"
 		},
 		{
 			"uniqueId":216,
 			"nameId":"staff_name_99_145",
 			"faceId":"221",
+			"facenote":1,
 			"combat":88,
 			"develop":45,
 			"baseDev":56,
@@ -1233,12 +1344,14 @@
 			"lang":"Afrikaans",
 			"missionId":10110,
 			"missionName":"20 Voices",
-			"name":"Scowling Wallaby"
+			"name":"Scowling Wallaby",
+			"notes":"Unique volunteer (mission 20)"
 		},
 		{
 			"uniqueId":218,
 			"nameId":"staff_name_99_146",
 			"faceId":"262",
+			"facenote":1,
 			"combat":88,
 			"develop":67,
 			"baseDev":23,
@@ -1254,7 +1367,8 @@
 			"lang":"Afrikaans",
 			"missionId":10121,
 			"missionName":"21 The War Economy",
-			"name":"Fire Kangaroo"
+			"name":"Fire Kangaroo",
+			"notes":"Unique volunteer (mission 21)"
 		},
 		{
 			"uniqueId":227,
@@ -1273,7 +1387,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Eye"
+			"name":"Eye",
+			"notes":"Volunteer after mission 6"
 		},
 		{
 			"uniqueId":244,
@@ -1292,7 +1407,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Garnet Canine"
+			"name":"Garnet Canine",
+			"notes": "Phantom Pain Pre-order"
 		},
 		{
 			"uniqueId":246,
@@ -1311,7 +1427,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Emerald Hound"
+			"name":"Emerald Hound",
+			"notes": "XBONE Pre-order, DLC"
 		},
 		{
 			"uniqueId":240,
@@ -1330,7 +1447,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Amber Fox"
+			"name":"Amber Fox",
+			"notes": "Ground Zeroes Day One Pre-order"
 		},
 		{
 			"uniqueId":228,
@@ -1349,7 +1467,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Finger"
+			"name":"Finger",
+			"notes":"Volunteer after mission 6"
 		},
 		{
 			"uniqueId":242,
@@ -1368,7 +1487,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Ivory Skull"
+			"name":"Ivory Skull",
+			"notes": "Ground Zeroes Jap Pre-order"
 		},
 		{
 			"uniqueId":110,
@@ -1387,7 +1507,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Hideo"
+			"name":"Hideo",
+			"notes":"Hostage directed by Hideo Kojima"
 		},
 		{
 			"uniqueId":243,
@@ -1406,7 +1527,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Crimson Canine"
+			"name":"Crimson Canine",
+			"notes": "Phantom Pain Pre-order"
 		},
 		{
 			"uniqueId":245,
@@ -1425,7 +1547,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Viridian Hound"
+			"name":"Viridian Hound",
+			"notes": "XBONE Pre-order, DLC"
 		},
 		{
 			"uniqueId":239,
@@ -1444,7 +1567,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Gold Fox"
+			"name":"Gold Fox",
+			"notes": "Ground Zeroes Day One Pre-order"
 		},
 		{
 			"uniqueId":241,
@@ -1463,7 +1587,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Silver Skull"
+			"name":"Silver Skull",
+			"notes": "Ground Zeroes Jap Pre-order"
 		},
 		{
 			"uniqueId":15,
@@ -1503,7 +1628,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Panzer Buffalo"
+			"name":"Panzer Buffalo",
+			"notes":"Gun trafficker"
 		},
 		{
 			"uniqueId":38,
@@ -1523,7 +1649,8 @@
 			"lang":"Russian",
 			"missionId":10045,
 			"missionName":"32 To Know Too Much",
-			"name":"Rampant Buzzard"
+			"name":"Rampant Buzzard",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":41,
@@ -1544,7 +1671,8 @@
 			"lang":"Afrikaans",
 			"missionId":10195,
 			"missionName":"19 On the Trail",
-			"name":"Mad Centipede"
+			"name":"Mad Centipede",
+			"notes":"Major (target)"
 		},
 		{
 			"uniqueId":42,
@@ -1563,7 +1691,8 @@
 			"lang":"Afrikaans",
 			"missionId":10195,
 			"missionName":"19 On the Trail",
-			"name":"Panzer Mongoose"
+			"name":"Panzer Mongoose",
+			"notes":"Subordinate"
 		},
 		{
 			"uniqueId":25,
@@ -1582,7 +1711,8 @@
 			"lang":"English",
 			"missionId":10200,
 			"missionName":"25 Aim True Ye Vengeful",
-			"name":"Howling Capybara"
+			"name":"Howling Capybara",
+			"notes":"Child commander"
 		},
 		{
 			"uniqueId":26,
@@ -1602,7 +1732,8 @@
 			"lang":"Afrikaans",
 			"missionId":10100,
 			"missionName":"18 Blood Runs Deep",
-			"name":"Sunny Buzzard"
+			"name":"Sunny Buzzard",
+			"notes":"(?) Banana target"
 		},
 		{
 			"uniqueId":47,
@@ -1621,7 +1752,8 @@
 			"lang":"Russian",
 			"missionId":10041,
 			"missionName":"7 Red Brass",
-			"name":"Hungry Barracuda"
+			"name":"Hungry Barracuda",
+			"notes":"Driver"
 		},
 		{
 			"uniqueId":48,
@@ -1640,7 +1772,8 @@
 			"lang":"Russian",
 			"missionId":10041,
 			"missionName":"7 Red Brass",
-			"name":"Sadistic Buzzard"
+			"name":"Sadistic Buzzard",
+			"notes":"Field com bodyguard"
 		},
 		{
 			"uniqueId":50,
@@ -1659,7 +1792,8 @@
 			"lang":"Russian",
 			"missionId":10041,
 			"missionName":"7 Red Brass",
-			"name":"Flaming Basilisk"
+			"name":"Flaming Basilisk",
+			"notes":"Base com bodyguard"
 		},
 		{
 			"uniqueId":51,
@@ -1678,7 +1812,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Green Tarantula"
+			"name":"Green Tarantula",
+			"notes":"Bodyguard"
 		},
 		{
 			"uniqueId":52,
@@ -1698,7 +1833,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Bullet Platypus"
+			"name":"Bullet Platypus",
+			"notes":"Bodyguard"
 		},
 		{
 			"uniqueId":53,
@@ -1718,7 +1854,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Devil Squirrel"
+			"name":"Devil Squirrel",
+			"notes":"Bodyguard"
 		},
 		{
 			"uniqueId":54,
@@ -1737,7 +1874,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Sly Mastodon"
+			"name":"Sly Mastodon",
+			"notes":"Bodyguard"
 		},
 		{
 			"uniqueId":57,
@@ -1756,7 +1894,8 @@
 			"lang":"Russian",
 			"missionId":10020,
 			"missionName":"1 Phantom Limbs",
-			"name":"Gray Salamander"
+			"name":"Gray Salamander",
+			"notes":"Driver"
 		},
 		{
 			"uniqueId":58,
@@ -1776,7 +1915,8 @@
 			"lang":"Russian",
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
-			"name":"Vile Buffalo"
+			"name":"Vile Buffalo",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":59,
@@ -1796,7 +1936,8 @@
 			"lang":"Pashto",
 			"missionId":10040,
 			"missionName":"6 Where Do the Bees Sleep",
-			"name":"Copper Stallion"
+			"name":"Copper Stallion",
+			"notes":"(?) Marked as enemy"
 		},
 		{
 			"uniqueId":60,
@@ -1815,7 +1956,8 @@
 			"lang":"Russian",
 			"missionId":10040,
 			"missionName":"6 Where Do the Bees Sleep",
-			"name":"Blue Kangaroo"
+			"name":"Blue Kangaroo",
+			"notes":"(?) Marked as enemy"
 		},
 		{
 			"uniqueId":61,
@@ -1834,7 +1976,8 @@
 			"lang":"Russian",
 			"missionId":10040,
 			"missionName":"6 Where Do the Bees Sleep",
-			"name":"Dire Capybara"
+			"name":"Dire Capybara",
+			"notes":"(?) Marked as enemy"
 		},
 		{
 			"uniqueId":20,
@@ -1855,7 +1998,8 @@
 			"lang":"Afrikaans",
 			"missionId":10085,
 			"missionName":"24 Close Contact",
-			"name":"Silent Crocodile"
+			"name":"Silent Crocodile",
+			"notes":"Female Hostage"
 		},
 		{
 			"uniqueId":63,
@@ -1874,7 +2018,8 @@
 			"lang":"English",
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
-			"name":"Crystal Squirrel"
+			"name":"Crystal Squirrel",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":65,
@@ -1893,7 +2038,8 @@
 			"lang":"English",
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
-			"name":"Laughing Wallaby"
+			"name":"Laughing Wallaby",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":64,
@@ -1912,7 +2058,8 @@
 			"lang":"English",
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
-			"name":"Cunning Stallion"
+			"name":"Cunning Stallion",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":66,
@@ -1932,7 +2079,8 @@
 			"lang":"Afrikaans",
 			"missionId":10091,
 			"missionName":"17 Rescue the Intel Agents",
-			"name":"Night Wallaby"
+			"name":"Night Wallaby",
+			"notes":"(?) Agent A (or executioner)"
 		},
 		{
 			"uniqueId":67,
@@ -1952,7 +2100,8 @@
 			"lang":"Afrikaans",
 			"missionId":10091,
 			"missionName":"17 Rescue the Intel Agents",
-			"name":"Bullet Armadillo"
+			"name":"Bullet Armadillo",
+			"notes":"(?) Agent B (or executioner)"
 		},
 		{
 			"uniqueId":68,
@@ -1971,7 +2120,8 @@
 			"lang":"Afrikaans",
 			"missionId":10093,
 			"missionName":"35 Cursed Legacy",
-			"name":"Jade Capybara"
+			"name":"Jade Capybara",
+			"notes":"Captain"
 		},
 		{
 			"uniqueId":69,
@@ -1989,7 +2139,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Komodo Dragon"
+			"name":"Komodo Dragon",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":70,
@@ -2007,7 +2158,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Jackal"
+			"name":"Jackal",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":71,
@@ -2025,7 +2177,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Parrot"
+			"name":"Parrot",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":21,
@@ -2045,7 +2198,8 @@
 			"lang":"Afrikaans",
 			"missionId":10121,
 			"missionName":"21 The War Economy",
-			"name":"Doom Kangaroo"
+			"name":"Doom Kangaroo",
+			"notes":"PF Commander"
 		},
 		{
 			"uniqueId":22,
@@ -2066,7 +2220,8 @@
 			"lang":"Afrikaans",
 			"missionId":10121,
 			"missionName":"21 The War Economy",
-			"name":"Grizzly Squirrel"
+			"name":"Grizzly Squirrel",
+			"notes":"Weapon dealer"
 		},
 		{
 			"uniqueId":74,
@@ -2084,7 +2239,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Raven"
+			"name":"Raven",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":75,
@@ -2102,7 +2258,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Eagle Ray"
+			"name":"Eagle Ray",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":76,
@@ -2120,7 +2277,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Viper"
+			"name":"Viper",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":77,
@@ -2138,7 +2296,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Elephant"
+			"name":"Elephant",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":79,
@@ -2158,7 +2317,8 @@
 			"lang":"Pashto",
 			"lang":"Afrikaans",
 			"missionId":0,
-			"name":"Gray Mongoose"
+			"name":"Gray Mongoose",
+			"notes":"Gunsmith Sideops"
 		},
 		{
 			"uniqueId":80,
@@ -2177,7 +2337,8 @@
 			"lang":"English",
 			"lang":"Pashto",
 			"missionId":0,
-			"name":"Steel Mongoose"
+			"name":"Steel Mongoose",
+			"notes":"Sideops Pashto translator"
 		},
 		{
 			"uniqueId":81,
@@ -2196,7 +2357,8 @@
 			"lang":"English",
 			"lang":"Kikongo",
 			"missionId":0,
-			"name":"Greedy Barracuda"
+			"name":"Greedy Barracuda",
+			"notes":"Sideops Kikongo translator"
 		},
 		{
 			"uniqueId":82,
@@ -2294,7 +2456,8 @@
 			"lang":"Pashto",
 			"missionId":10043,
 			"missionName":"4 C2W",
-			"name":"Howling Stallion"
+			"name":"Howling Stallion",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":88,
@@ -2313,7 +2476,8 @@
 			"lang":"Pashto",
 			"missionId":10043,
 			"missionName":"4 C2W",
-			"name":"Steel Kangaroo"
+			"name":"Steel Kangaroo",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":17,
@@ -2331,7 +2495,8 @@
 			"badConditionWeight":3,
 			"missionId":10040,
 			"missionName":"6 Where Do the Bees Sleep",
-			"name":"Silent Basilisk"
+			"name":"Silent Basilisk",
+			"notes":"Mute hostage"
 		},
 		{
 			"uniqueId":90,
@@ -2350,7 +2515,8 @@
 			"lang":"Pashto",
 			"missionId":10041,
 			"missionName":"7 Red Brass",
-			"name":"Bitter Platypus"
+			"name":"Bitter Platypus",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":91,
@@ -2369,7 +2535,8 @@
 			"lang":"Pashto",
 			"missionId":10041,
 			"missionName":"7 Red Brass",
-			"name":"Ochre Harrier"
+			"name":"Ochre Harrier",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":92,
@@ -2388,7 +2555,8 @@
 			"lang":"Pashto",
 			"missionId":10044,
 			"missionName":"8 Occupation Forces",
-			"name":"Bullet Harrier"
+			"name":"Bullet Harrier",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":93,
@@ -2407,7 +2575,8 @@
 			"lang":"Pashto",
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
-			"name":"Blazing Stallion"
+			"name":"Blazing Stallion",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":94,
@@ -2426,7 +2595,8 @@
 			"lang":"Pashto",
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
-			"name":"Black Harrier"
+			"name":"Black Harrier",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":95,
@@ -2445,7 +2615,8 @@
 			"lang":"Pashto",
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
-			"name":"Spunky Crocodile"
+			"name":"Spunky Crocodile",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":31,
@@ -2464,7 +2635,8 @@
 			"lang":"Russian",
 			"missionId":10041,
 			"missionName":"7 Red Brass",
-			"name":"Greedy Armadillo"
+			"name":"Greedy Armadillo",
+			"notes":"Base commander"
 		},
 		{
 			"uniqueId":98,
@@ -2483,7 +2655,8 @@
 			"lang":"Afrikaans",
 			"missionId":10082,
 			"missionName":"15 Footprints of Phantoms",
-			"name":"Pouncing Buzzard"
+			"name":"Pouncing Buzzard",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":99,
@@ -2503,7 +2676,8 @@
 			"lang":"Afrikaans",
 			"missionId":10082,
 			"missionName":"15 Footprints of Phantoms",
-			"name":"Killer Squirrel"
+			"name":"Killer Squirrel",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":100,
@@ -2522,7 +2696,8 @@
 			"lang":"Afrikaans",
 			"missionId":10091,
 			"missionName":"17 Rescue the Intel Agents",
-			"name":"Poison Buffalo"
+			"name":"Poison Buffalo",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":101,
@@ -2542,7 +2717,8 @@
 			"lang":"Afrikaans",
 			"missionId":10091,
 			"missionName":"17 Rescue the Intel Agents",
-			"name":"Bloody Crocodile"
+			"name":"Bloody Crocodile",
+			"notes":"Truck driver"
 		},
 		{
 			"uniqueId":102,
@@ -2561,7 +2737,8 @@
 			"lang":"Afrikaans",
 			"missionId":10120,
 			"missionName":"23 The White Mamba",
-			"name":"Pouncing Harrier"
+			"name":"Pouncing Harrier",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":103,
@@ -2581,7 +2758,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Dizzy Capybara"
+			"name":"Dizzy Capybara",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":104,
@@ -2600,7 +2778,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Brutal Centipede"
+			"name":"Brutal Centipede",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":105,
@@ -2620,7 +2799,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Doom Centipede"
+			"name":"Doom Centipede",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":19,
@@ -2639,7 +2819,8 @@
 			"lang":"Russian",
 			"missionId":10052,
 			"missionName":"10 Angel With Broken Wings",
-			"name":"Wild Chameleon"
+			"name":"Wild Chameleon",
+			"notes":"Car driver"
 		},
 		{
 			"uniqueId":107,
@@ -2658,7 +2839,8 @@
 			"lang":"Pashto",
 			"missionId":10045,
 			"missionName":"32 To Know Too Much",
-			"name":"Goblin Squirrel"
+			"name":"Goblin Squirrel",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":108,
@@ -2677,7 +2859,8 @@
 			"lang":"Pashto",
 			"missionId":10045,
 			"missionName":"32 To Know Too Much",
-			"name":"Vampire Platypus"
+			"name":"Vampire Platypus",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":109,
@@ -2697,7 +2880,8 @@
 			"lang":"Pashto",
 			"missionId":10156,
 			"missionName":"38 Extraordinary",
-			"name":"Sky Centipede"
+			"name":"Sky Centipede",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":156,
@@ -2715,7 +2899,8 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":0,
-			"name":"Doom Squirrel"
+			"name":"Doom Squirrel",
+			"notes":"(?) Hostage"
 		},
 		{
 			"uniqueId":177,
@@ -2733,7 +2918,8 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":0,
-			"name":"Cunning Mongoose"
+			"name":"Cunning Mongoose",
+			"notes":"(?) Hostage"
 		},
 		{
 			"uniqueId":179,
@@ -2751,7 +2937,8 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":0,
-			"name":"Dancing Mongoose"
+			"name":"Dancing Mongoose",
+			"notes":"(?) Hostage"
 		},
 		{
 			"uniqueId":186,
@@ -2769,7 +2956,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Dizzy Centipede"
+			"name":"Dizzy Centipede",
+			"notes":"Unique volunteer (missions 3, 4, 5)"
 		},
 		{
 			"uniqueId":23,
@@ -2789,7 +2977,8 @@
 			"lang":"Afrikaans",
 			"missionId":10200,
 			"missionName":"25 Aim True Ye Vengeful",
-			"name":"Ashen Stallion"
+			"name":"Ashen Stallion",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":16,
@@ -2846,7 +3035,8 @@
 			"lang":"Russian",
 			"missionId":10045,
 			"missionName":"32 To Know Too Much",
-			"name":"Gray Stallion"
+			"name":"Gray Stallion",
+			"notes":"Executioner"
 		},
 		{
 			"uniqueId":43,
@@ -2866,7 +3056,8 @@
 			"lang":"Afrikaans",
 			"missionId":10195,
 			"missionName":"19 On the Trail",
-			"name":"Raving Harrier"
+			"name":"Raving Harrier",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":14,
@@ -2904,7 +3095,8 @@
 			"lang":"Russian",
 			"missionId":10041,
 			"missionName":"7 Red Brass",
-			"name":"Death Platypus"
+			"name":"Death Platypus",
+			"notes":"Base driver"
 		},
 		{
 			"uniqueId":13,
@@ -2922,7 +3114,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Shining Kangaroo"
+			"name":"Shining Kangaroo",
+			"notes":"Gunsmith Sideops"
 		},
 		{
 			"uniqueId":55,
@@ -2942,7 +3135,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Sunny Mongoose"
+			"name":"Sunny Mongoose",
+			"notes":"Bodyguard"
 		},
 		{
 			"uniqueId":56,
@@ -2961,7 +3155,8 @@
 			"lang":"Russian",
 			"missionId":10020,
 			"missionName":"1 Phantom Limbs",
-			"name":"Wild Platypus"
+			"name":"Wild Platypus",
+			"notes":"Base commander"
 		},
 		{
 			"uniqueId":27,
@@ -2981,7 +3176,8 @@
 			"lang":"Afrikaans",
 			"missionId":10171,
 			"missionName":"41 Proxy War Without End",
-			"name":"Sunny Platypus"
+			"name":"Sunny Platypus",
+			"notes":"(?) Bonus soldier / volunteer"
 		},
 		{
 			"uniqueId":28,
@@ -3000,7 +3196,8 @@
 			"lang":"English",
 			"missionId":10085,
 			"missionName":"24 Close Contact",
-			"name":"Crying Harrier"
+			"name":"Crying Harrier",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":62,
@@ -3019,7 +3216,8 @@
 			"lang":"Russian",
 			"missionId":10044,
 			"missionName":"8 Occupation Forces",
-			"name":"Crimson Kangaroo"
+			"name":"Crimson Kangaroo",
+			"notes":"VIP"
 		},
 		{
 			"uniqueId":72,
@@ -3037,7 +3235,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Falcon"
+			"name":"Falcon",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":73,
@@ -3055,7 +3254,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Ostrich"
+			"name":"Ostrich",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":223,
@@ -3091,7 +3291,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Rat"
+			"name":"Rat",
+			"notes":"Sideops MSF staff"
 		},
 		{
 			"uniqueId":85,
@@ -3129,7 +3330,8 @@
 			"lang":"Russian",
 			"missionId":10041,
 			"missionName":"7 Red Brass",
-			"name":"Biting Barracuda"
+			"name":"Biting Barracuda",
+			"notes":"Village commander"
 		},
 		{
 			"uniqueId":89,
@@ -3148,7 +3350,8 @@
 			"lang":"Pashto",
 			"missionId":10033,
 			"missionName":"5 Over the Fence",
-			"name":"Spunky Sturgeon"
+			"name":"Spunky Sturgeon",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":96,
@@ -3167,7 +3370,8 @@
 			"lang":"Pashto",
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
-			"name":"Killer Hedgehog"
+			"name":"Killer Hedgehog",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":97,
@@ -3186,7 +3390,8 @@
 			"lang":"Pashto",
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
-			"name":"Ashen Platypus"
+			"name":"Ashen Platypus",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":106,
@@ -3206,7 +3411,8 @@
 			"lang":"Afrikaans",
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
-			"name":"Running Basilisk"
+			"name":"Running Basilisk",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":184,
@@ -3225,7 +3431,8 @@
 			"lang":"English",
 			"lang":"Afrikaans",
 			"missionId":0,
-			"name":"Iron Harrier"
+			"name":"Iron Harrier",
+			"notes":"Sideops Afrikaans translator"
 		},
 		{
 			"uniqueId":12,
@@ -3262,7 +3469,8 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":0,
-			"name":"Dire Armadillo"
+			"name":"Dire Armadillo",
+			"notes": "Commander"
 		},
 		{
 			"uniqueId":24,
@@ -3282,7 +3490,8 @@
 			"lang":"Afrikaans",
 			"missionId":10200,
 			"missionName":"25 Aim True Ye Vengeful",
-			"name":"Brass Squirrel"
+			"name":"Brass Squirrel",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":29,
@@ -3301,7 +3510,8 @@
 			"lang":"Russian",
 			"missionId":10041,
 			"missionName":"7 Red Brass",
-			"name":"Cunning Mastiff"
+			"name":"Cunning Mastiff",
+			"notes":"Commander"
 		},
 		{
 			"uniqueId":18,
@@ -3339,11 +3549,13 @@
 			"lang":"English",
 			"missionId":10115,
 			"missionName":"22 Retake the Platform",
-			"name":"Mosquito"
+			"name":"Mosquito",
+			"notes":"Leader"
 		},
 		{
 			"uniqueId":111,
 			"nameId":"unique_staff_tan",
+			"faceId":621,
 			"combat":64,
 			"develop":42,
 			"baseDev":32,
@@ -3357,7 +3569,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Ziang Tan"
+			"name":"Ziang Tan",
+			"notes":"Hostage from E3 of whatever, google him"
 		},
 		{
 			"uniqueId":44,
@@ -3376,7 +3589,8 @@
 			"lang":"English",
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
-			"name":"Viscount"
+			"name":"Viscount",
+			"notes":"Hostage"
 		},
 		{
 			"uniqueId":252,

@@ -8,6 +8,10 @@ Some of them have missionId property, which shows where you can extract them. Th
 There is no info about prisoners in side missions (or at least I haven't found it yet).
 Every soldier has his unique ID, which you can use for modding; for example replace Silent Basilisk with Ivory Skull to get her almost legally.
 
+Some faces are unique and some may change; for example your Flaming Buffalo can have a slightly different face, while Hideo has only one portrait.
+
+Notes are based on ingame scripts and can be inaccurate
+
 You can get pics by extracting them using <a href="https://www.dropbox.com/s/0rtpumx2mxsjaby/MGSV_QAR_Tool.rar?dl=0">MGSV QAR Tool v1.3 by Sergeanur</a> (and convert with <a href="https://github.com/Atvaark/FtexTool">FtexTool</a>) (there was a MEGA link, but github doesn't like it).
 
 Any help finding remaining portraits and info about sidemissions would be appreciated.
