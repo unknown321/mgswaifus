@@ -31,12 +31,14 @@
       $.getJSON('js/staff.json', function(data) {
         var current_row = 0
         $.each(data.staff, function(i,f) {
-          var col = "<div class='large-3 columns'><img class='lazy' data-original='img/ui_face_" + f.faceId + "_0.png'></div>"
-          if ((i%4===0)&&(i!=0)){
-            current_row = i/4
-            $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
+          if ('faceId' in f){
+            var col = "<div class='large-3 columns'><img class='lazy' data-original='img/ui_face_" + f.faceId + "_0.png'></div>"
+            if ((i%4===0)&&(i!=0)){
+              current_row = i/4
+              $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
+            }
+            $('#staff_'+current_row).append(col)
           }
-          $('#staff_'+current_row).append(col)
         })
 
         last_row_len = $('#staff'+current_row).length
