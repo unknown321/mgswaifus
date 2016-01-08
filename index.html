@@ -12,7 +12,7 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <h3>This is a list of all unique staff obtainable in the game with pics, names and missions where you can get them.</h3>
+        <h4>This is a list of all unique staff obtainable in the game with pics, names and missions where you can get them.</h4>
       </div>
     </div>
 
@@ -41,7 +41,7 @@
       $.getJSON('js/staff.json', function(data) {
         $.each(data.staff, function(i,f) {
           var col = "<div class='large-3 columns'><p>" + f.name + "</p></div>"
-          $('id=staff').append(col)  
+          $('[id=staff]').append(col)  
         })
         
       })
