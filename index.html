@@ -12,19 +12,19 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <p>This is a list of all unique staff obtainable in the game with pics, names and missions where you can get them.</p>
+        <h3>This is a list of all unique staff obtainable in the game with pics, names and missions where you can get them.</h3>
       </div>
     </div>
 
-    <div class="row">
+    <div class="row" id='staff'>
       <div class="large-3 columns">
-        <img class="lazy" data-original="/img/s1.png">
+        <img class="lazy" data-original="img/s1.png">
       </div>
       <div class="large-3 columns">
-        <img class="lazy" data-original="/img/s1.png">
+        <img class="lazy" data-original="img/s1.png">
       </div>
       <div class="large-3 columns">
-        <img class="lazy" data-original="/img/s1.png">
+        <img class="lazy" data-original="img/s1.png">
       </div>
     </div>
 
@@ -37,6 +37,14 @@
       $(function() {
         $("img.lazy").lazyload();
       });
+
+      $.getJSON('js/staff.json', function(data) {
+        $.each(data.staff, function(i,f) {
+          var col = "<div class='large-3 columns'><p>" + f.name + "</p></div>"
+          $('id=staff').append(col)  
+        })
+        
+      })
     </script>
   </body>
 </html>
