@@ -12,12 +12,17 @@
 
     <div class="row">
       <div class="large-12 columns">
-        <h4>This is a list of all unique staff obtainable in the game with pics, names and missions where you can get them.</h4>
+        <h4>This is a page with all unique staff obtainable in the game with pics, names and missions where you can get them.</h4>
       </div>
     </div>
 
     <div class='row' id='staff'>
-      <div class='row' id='staff_0'></div>
+      <div class='row' id='staff_1'></div>
+    </div>
+
+    <div class='row' id='faceless_staff'>
+      <h4>These characters don't have faces attached to them (they are still unique)</h4>
+      <div class='large-12 columns' id='faceless_staff_1'></div>
     </div>
 
     <script src="js/vendor/jquery.min.js"></script>
@@ -29,7 +34,7 @@
 
 
       $.getJSON('js/staff.json', function(data) {
-        var current_row = 0
+        var current_row = 1
         $.each(data.staff, function(i,f) {
           if ('faceId' in f){
             var col = "<div class='large-3 columns'><img class='lazy' data-original='img/ui_face_" + f.faceId + "_0.png'></div>"
@@ -38,6 +43,10 @@
               $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
             }
             $('#staff_'+current_row).append(col)
+          } else {
+            var col = "<p>" + f.name + "</p>"
+            $('#faceless_staff_1').append(col)
+
           }
         })
 
