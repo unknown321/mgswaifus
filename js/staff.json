@@ -283,7 +283,7 @@
 		{
 			"uniqueId":196,
 			"nameId":"staff_name_11_196",
-			"faceId":75,
+			"faceId":075,
 			"combat":10,
 			"develop":50,
 			"baseDev":490,
@@ -492,7 +492,7 @@
 		{
 			"uniqueId":7,
 			"nameId":"staff_name_99_022",
-			"faceId":88,
+			"faceId":088,
 			"combat":5,
 			"develop":16,
 			"baseDev":5,
@@ -511,7 +511,7 @@
 		{
 			"uniqueId":3,
 			"nameId":"staff_name_99_023",
-			"faceId":78,
+			"faceId":078,
 			"combat":5,
 			"develop":17,
 			"baseDev":5,
@@ -568,7 +568,7 @@
 		{
 			"uniqueId":0,
 			"nameId":"staff_name_99_063",
-			"faceId":93,
+			"faceId":093,
 			"combat":5,
 			"develop":5,
 			"baseDev":5,
@@ -606,7 +606,7 @@
 		{
 			"uniqueId":6,
 			"nameId":"staff_name_99_080",
-			"faceId":30,
+			"faceId":030,
 			"combat":5,
 			"develop":15,
 			"baseDev":8,
@@ -882,7 +882,7 @@
 		{
 			"uniqueId":224,
 			"nameId":"staff_name_99_112",
-			"faceId":14,
+			"faceId":014,
 			"combat":10,
 			"develop":35,
 			"baseDev":35,
@@ -958,7 +958,7 @@
 		{
 			"uniqueId":222,
 			"nameId":"staff_name_99_119",
-			"faceId":50,
+			"faceId":050,
 			"combat":10,
 			"develop":20,
 			"baseDev":20,
@@ -977,7 +977,7 @@
 		{
 			"uniqueId":234,
 			"nameId":"staff_name_99_120",
-			"faceId":63,
+			"faceId":063,
 			"combat":48,
 			"develop":76,
 			"baseDev":38,
@@ -996,7 +996,7 @@
 		{
 			"uniqueId":235,
 			"nameId":"staff_name_99_121",
-			"faceId":99,
+			"faceId":099,
 			"combat":10,
 			"develop":48,
 			"baseDev":38,
@@ -1015,7 +1015,7 @@
 		{
 			"uniqueId":236,
 			"nameId":"staff_name_99_122",
-			"faceId":78,
+			"faceId":078,
 			"combat":44,
 			"develop":38,
 			"baseDev":72,
@@ -1034,7 +1034,7 @@
 		{
 			"uniqueId":237,
 			"nameId":"staff_name_99_123",
-			"faceId":36,
+			"faceId":036,
 			"combat":38,
 			"develop":10,
 			"baseDev":38,
@@ -1053,7 +1053,7 @@
 		{
 			"uniqueId":225,
 			"nameId":"staff_name_99_124",
-			"faceId":17,
+			"faceId":017,
 			"combat":10,
 			"develop":51,
 			"baseDev":35,
@@ -1110,7 +1110,7 @@
 		{
 			"uniqueId":230,
 			"nameId":"staff_name_99_127",
-			"faceId":33,
+			"faceId":033,
 			"combat":30,
 			"develop":48,
 			"baseDev":48,
@@ -1186,7 +1186,7 @@
 		{
 			"uniqueId":238,
 			"nameId":"staff_name_99_134",
-			"faceId":8,
+			"faceId":008,
 			"combat":77,
 			"develop":38,
 			"baseDev":48,
