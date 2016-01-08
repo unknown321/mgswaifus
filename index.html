@@ -13,7 +13,17 @@
     <div class="row">
       <div class="large-12 columns">
         <h4>This is a page with all unique staff obtainable in the game with pics, names and missions where you can get them.</h4>
+        <p><a data-open="exampleModal1">Click here for notes</a></p>
       </div>
+    </div>
+
+    <div class="reveal" id="exampleModal1" data-reveal>
+      <h1>Notes</h1>
+      <p>There are 177 unique staff members including Snake, your avatar, Miller, Ocelot etc. However some of them don't have attached pics (see \master\data1\Assets\tpp\motherbase\script\MbmCommonSetting.lua). Best example is Silent Basilisk (staff_name_99_056) without faceId property. <br>Some of them have missionId property, which shows where you can extract them. This propeety also means that these soldiers have to be rescued as prisoners. Soldiers like Malak don't have missionId because you must extract them to finish the mission. <br>There is no info about prisoners in side missions (or at least I haven't found it yet).<br> Pics are available <a href="https://mega.nz/#!AhQyRZgL!XkBHYgMLTI81leta4r8YrhteMRpRV6Nh1bF3SqrVSvY
+">here</a> without proper names; you can also extract them yourself by using <a href="https://www.dropbox.com/s/0rtpumx2mxsjaby/MGSV_QAR_Tool.rar?dl=0">MGSV QAR Tool v1.3 by Sergeanur</a> (and convert with <a href="https://github.com/Atvaark/FtexTool">FtexTool</a>).<br>Any help would be appreciated.</p>
+      <button class="close-button" data-close aria-label="Close reveal" type="button">
+        <span aria-hidden="true">&times;</span>
+      </button>
     </div>
 
     <div class='row' id='staff'>
@@ -23,6 +33,13 @@
     <div class='row' id='faceless_staff'>
       <h4>These characters don't have faces attached to them (they are still unique)</h4>
       <div class='large-12 columns' id='faceless_staff_1'></div>
+    </div>
+
+    <div class='row' id='names'>
+      <div class='large-12 columns'>
+        <h4>Names used for name generation</h4>
+        <p>Sadistic, Osprey, Twilight, Iron, Panzer, Growling, Dizzy, Piranha, Octopus, Greedy Wallaby, Bloody, Ox, Lonely, Spying, Copper, Hissing, Spitting, Jumping, Silent, Falcon, Hyena, Swan, Smiling, Mad, Dizzy, Jade, Green, Sly, Razor, Greedy, Hungry, Shark, Ferret, Wombat, Whale, Bull, Raging, Glacier, Onyx, Buzzard, Griffon, Rhino, Tigress, Flaming Stallion, Brass, Worm, Wild, Pouncing, Dark, Dancing, Unicorn, Pouncing, Hungry, Rampant, Python, Smoking, Vile, Dark, Sinister, Frantic, Biting, Gator, Mole, Vengeful, Pirate, Rabid, Mad, Hulking, Bastard, Sparrow, Goat, Cunning, Ashen, Cat, Mammoth, Bullet, Rooster, Rancid, Cobra, Running, Shining, Assassin, Phoenix, Doom, Crow, Bear, Boa, Wild, Thunder, Crying, Steel, Husky, Marmot, Roach, Poison, Zebra, Black, Bat, Frigid, Tiger, Kitten, Panther, Echidna, Serpent, Flaming, Lion, Gopher, Punching, Hissing, Turkey, Growling, Bison, Hippo, Wombat, Buffalo, Hornet, Wolf, Sunny, Running, Sinister, Crab, Otter, Frantic, Spider, Lizard, Goblin, Blazing, Punching, Badger, Gibbon, Ashen Mongoose, Ice, Eel, Sky, Gray, Crystal, Bitter, Cunning, Devil, Adder, Dingo, Razor, Rumble, Boa, Armored, Howling, Laughing, Moth, Panzer, Dhole, Hound, Whale, Jackal, Howling, Eel, Raging, Weevil, Serpent, Ochre, Moose, Weasel, Devil, Grizzly, Rumble, Beetle, Night, Marlin, Scowling, Python, Husky, Gazelle, Wasp, Leopard, Vengeful, Blazing, Viper, Owl, Boar, Blue, Panda, Vampire, Coyote, Midnight, Elk, Mustang, Glacier, Charging, Macaw, Prowling, Brutal, Jaguar, Vile, Stubborn, Marlin, Hippo, Cannibal Harrier, Mouse, Roach, Stalking, Agama, Smoking, Death, Golden, Creeping, Slug, Harrier, Death, Rogue, Jackal, Gecko, Osprey, Mastiff, Ram, Rabid, Bloody, Brass, Rampant, Crawling, Raccoon, Titanium, Killer, Spunky, Roaring, Striker, Lynx, Sloth, Creeping, Raptor, Wasp, Cannibal, Flaming, Prowling Wallaby, Frigid, Iguana, Stalking, Llama, Crimson, Scowling, Bullet, Crawling, Wallaby, Armored, Killer, Prowling, Sly, Mantis, Lonely, Sly Sturgeon, Silver, Koala, Charging, Wallaby, Bitter, Stone, Greedy, Raving, Buzzard, Eagle, Obsidian, Dire, Hawk, White, Raving, Thunder, Roaring, Hog, Spitting, Cheetah, Sadistic, Seething, Heron, Agama, Rancid, Dragon, Hunting, Seething, Orca, Vulture, Spying, Hunting, Fire, Harrier</p>
+      </div>
     </div>
 
     <script src="js/vendor/jquery.min.js"></script>
