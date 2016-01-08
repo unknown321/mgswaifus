@@ -3189,6 +3189,7 @@
 		{
 			"uniqueId":32,
 			"nameId":"staff_name_99_149",
+			"faceId":602,
 			"combat":10,
 			"develop":48,
 			"baseDev":20,
@@ -3284,6 +3285,7 @@
 		{
 			"uniqueId":251,
 			"nameId":"name_buddy_q",
+			"faceId":"quiet",
 			"combat":112,
 			"develop":31,
 			"baseDev":10,
@@ -3301,6 +3303,7 @@
 		{
 			"uniqueId":253,
 			"nameId":"name_chara_code_talker_e",
+			"faceId":"code_talker",
 			"combat":10,
 			"develop":80,
 			"baseDev":90,
@@ -3355,6 +3358,7 @@
 		{
 			"uniqueId":249,
 			"nameId":"name_chara_ocelot_e",
+			"faceId":"ocelot",
 			"combat":97,
 			"develop":15,
 			"baseDev":20,
@@ -3375,6 +3379,7 @@
 		{
 			"uniqueId":247,
 			"nameId":"name_chara_snake_e",
+			"faceId":"big_boss",
 			"combat":10,
 			"develop":10,
 			"baseDev":10,
@@ -3393,6 +3398,7 @@
 		{
 			"uniqueId":248,
 			"nameId":"name_chara_snake_e",
+			"faceId":"big_boss",
 			"combat":130,
 			"develop":110,
 			"baseDev":110,

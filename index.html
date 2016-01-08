@@ -37,55 +37,103 @@
     </script>
     <script>
 
-
-
-      $.getJSON('js/staff.json', function(data) {
-        var current_row = 0
-        $.each(data.staff, function(i,f) {
-          if ('faceId' in f){
-            var col = "\
-            <div class='large-3 medium-3 small-3 columns'>\
-              <div class='media-object'>\
-                <div class='media-object-section bottom'>\
-                  <div class='thumbnail'>\
-                    <img height=250 width=250 class='lazy' data-original='img/ui_face_" + f.faceId + "_0.png'>\
-                  </div><center>"
-                  + "<b>Name:</b> " + f.name
-                  + "<br>Lang: " + f.lang
-                  + "<br>ID: " + f.uniqueId
-            if (f.skill != 'None'){
-              col = col + "<br>Skill: " + f.skill 
-            }
-            if ('missionId' in f){
-              if (f.missionId != 0 ){
-                col = col + "<br>Mission: " + f.missionName   
-              }
-              
-            }
-            col = col + "</center></div></div>"
-            if ((i%4===0)&&(i!=0)){
-              current_row = i/4
-              $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
-            }
-            $('#staff_'+current_row).append(col)
-          } else {
-            var col = "<p>" + f.name + "</p>"
-            $('#faceless_staff_1').append(col)
-
-          }
-        })
-
-        last_row_len = $('#staff'+current_row).length
-        if (last_row_len != 4)
+    function get_best_unit(f)
+    {
+      keys = ['combat','develop','baseDev',
+              'support','spy','medical']
+      var max = 0
+      var best_unit = 'combat'
+      keys.each(function(k)
+      {
+        if (f[k] > max)
         {
-          count = 4 - last_row_len
-          while (count != 0) {
-            $('#staff'+current_row).append("<div class='large-3 columns'></div>")
-            count = count -1
-          }
+          max = f[k]
+          best_unit = k
         }
-        $("img.lazy").lazyload();
       })
+      return best_unit
+    }
+
+    function append_info(f)
+    //create column with info and pic
+    {
+      var col = "\
+      <div class='large-3 medium-3 small-3 columns'>\
+        <div class='media-object'>\
+          <div class='media-object-section bottom'>\
+            <div class='thumbnail'>\
+              <img height=250 width=250 class='lazy' data-original='img/ui_face_"
+      if ('faceId' in f)
+        var column = col + f.faceId + "_0.png'>\</div><center>"
+      else 
+        var column = col + "unknown_0.png'>\</div><center>"
+
+      column = column + "<b>Name:</b> " + f.name
+        + "<br>ID: " + f.uniqueId
+      if ('lang' in f)
+        column = column + "<br>Lang: " + f.lang 
+      if (f.skill != 'None')
+        column = column + "<br>Skill: " + f.skill 
+      if ('missionId' in f)
+      {
+        if (f.missionId != 0 )
+          column = column + "<br>Mission: " + f.missionName   
+      }
+      column = column + "<br>Unit: " + get_best_unit(f)
+
+      column = column + "</center></div></div>"
+      return column
+    }
+
+    function fix_last_row(row_type, row_number)
+    //add empty columns if we need
+    {
+      last_row_len = $('#'+row_type+"_" + row_number).length
+      if (last_row_len != 4)
+      {
+        count = 4 - last_row_len
+        while (count != 0) {
+          $('#'+row_type+row_number).append("<div class='large-3 columns'></div>")
+          count = count -1
+        }
+      }
+    }
+
+    $.getJSON('js/staff.json', function(data) {
+      var current_row = 0
+      $.each(data.staff, function(i,f) {
+        var column = append_info(f)
+
+
+
+
+
+
+
+        if ('faceId' in f)
+        {
+          if ((i%4===0)&&(i!=0))
+          {
+            current_row = i/4
+            $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
+          }
+          $('#staff_'+current_row).append(column)
+        } 
+        else 
+        {
+          if ((i%4===0)&&(i!=0))
+          {
+            current_row = i/4
+            $('#faceless_staff').append("<div class='row' id='faceless_staff_"+current_row+"'></div>")
+          }
+          $('#faceless_staff_'+current_row).append(column)
+        }
+      })
+      fix_last_row('staff',current_row)
+      fix_last_row('faceless_staff',current_row)
+
+      $("img.lazy").lazyload();
+    })
 
     </script>
   </body>
