@@ -49,20 +49,20 @@
                 <div class='media-object-section bottom'>\
                   <div class='thumbnail'>\
                     <img height=250 width=250 class='lazy' data-original='img/ui_face_" + f.faceId + "_0.png'>\
-                  </div>"
+                  </div><center>"
                   + "<b>Name:</b> " + f.name
                   + "<br>Lang: " + f.lang
-                  + "<br>ID :" + f.uniqueId
+                  + "<br>ID: " + f.uniqueId
             if (f.skill != 'None'){
-              col = col + "<br>Skill:" + f.skill 
+              col = col + "<br>Skill: " + f.skill 
             }
             if ('missionId' in f){
               if (f.missionId != 0 ){
-                col = col + "<br>Mission:" + f.missionName   
+                col = col + "<br>Mission: " + f.missionName   
               }
               
             }
-            col = col + "</div></div>"
+            col = col + "</center></div></div>"
             if ((i%4===0)&&(i!=0)){
               current_row = i/4
               $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
