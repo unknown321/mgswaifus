@@ -33,6 +33,8 @@
     <script type="text/javascript">
       function clear(){
         $('#staff').html("<div class='row' id='staff_0'></div>")
+        $('#faceless_staff').html("      <h4>These characters don't have faces attached to them (they are still unique)</h4>\
+      <div class='large-12 columns' id='faceless_staff_1'></div>")
       }
     </script>
     <script>
@@ -41,9 +43,11 @@
     {
       keys = ['combat','develop','baseDev',
               'support','spy','medical']
+      names = ['Combat','Develop','BaseDevelopment',
+              'Support','Intel','Medical']
       var max = 0
       var best_unit = 'combat'
-      $(keys).each(function(k)
+      $(keys).each(function(i,k)
       {
         if (f[k] > max)
         {
@@ -51,7 +55,8 @@
           best_unit = k
         }
       })
-      return best_unit
+
+      return names[keys.indexOf(best_unit)]
     }
 
     function append_info(f)
