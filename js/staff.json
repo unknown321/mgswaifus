@@ -131,7 +131,7 @@
 		{
 			"uniqueId":188,
 			"nameId":"staff_name_11_188",
-			"faceId":361,
+			"faceId":"361",
 			"combat":300,
 			"develop":80,
 			"baseDev":20,
@@ -150,7 +150,7 @@
 		{
 			"uniqueId":189,
 			"nameId":"staff_name_11_189",
-			"faceId":209,
+			"faceId":"209",
 			"combat":130,
 			"develop":300,
 			"baseDev":80,
@@ -169,7 +169,7 @@
 		{
 			"uniqueId":190,
 			"nameId":"staff_name_11_190",
-			"faceId":342,
+			"faceId":"342",
 			"combat":185,
 			"develop":130,
 			"baseDev":300,
@@ -188,7 +188,7 @@
 		{
 			"uniqueId":191,
 			"nameId":"staff_name_11_191",
-			"faceId":188,
+			"faceId":"188",
 			"combat":10,
 			"develop":185,
 			"baseDev":130,
@@ -207,7 +207,7 @@
 		{
 			"uniqueId":192,
 			"nameId":"staff_name_11_192",
-			"faceId":467,
+			"faceId":"467",
 			"combat":20,
 			"develop":10,
 			"baseDev":185,
@@ -226,7 +226,7 @@
 		{
 			"uniqueId":193,
 			"nameId":"staff_name_11_193",
-			"faceId":515,
+			"faceId":"515",
 			"combat":80,
 			"develop":20,
 			"baseDev":10,
@@ -245,7 +245,7 @@
 		{
 			"uniqueId":194,
 			"nameId":"staff_name_11_194",
-			"faceId":192,
+			"faceId":"192",
 			"combat":490,
 			"develop":310,
 			"baseDev":10,
@@ -264,7 +264,7 @@
 		{
 			"uniqueId":195,
 			"nameId":"staff_name_11_195",
-			"faceId":288,
+			"faceId":"288",
 			"combat":50,
 			"develop":490,
 			"baseDev":310,
@@ -283,7 +283,7 @@
 		{
 			"uniqueId":196,
 			"nameId":"staff_name_11_196",
-			"faceId":075,
+			"faceId":"075",
 			"combat":10,
 			"develop":50,
 			"baseDev":490,
@@ -302,7 +302,7 @@
 		{
 			"uniqueId":197,
 			"nameId":"staff_name_11_197",
-			"faceId":372,
+			"faceId":"372",
 			"combat":20,
 			"develop":10,
 			"baseDev":50,
@@ -321,7 +321,7 @@
 		{
 			"uniqueId":198,
 			"nameId":"staff_name_11_198",
-			"faceId":507,
+			"faceId":"507",
 			"combat":10,
 			"develop":20,
 			"baseDev":10,
@@ -340,7 +340,7 @@
 		{
 			"uniqueId":199,
 			"nameId":"staff_name_11_199",
-			"faceId":129,
+			"faceId":"129",
 			"combat":310,
 			"develop":10,
 			"baseDev":20,
@@ -359,7 +359,7 @@
 		{
 			"uniqueId":34,
 			"nameId":"staff_name_99_002",
-			"faceId":222,
+			"faceId":"222",
 			"combat":10,
 			"develop":15,
 			"baseDev":18,
@@ -378,7 +378,7 @@
 		{
 			"uniqueId":5,
 			"nameId":"staff_name_99_003",
-			"faceId":283,
+			"faceId":"283",
 			"combat":8,
 			"develop":15,
 			"baseDev":10,
@@ -397,7 +397,7 @@
 		{
 			"uniqueId":36,
 			"nameId":"staff_name_99_004",
-			"faceId":264,
+			"faceId":"264",
 			"combat":21,
 			"develop":18,
 			"baseDev":13,
@@ -416,7 +416,7 @@
 		{
 			"uniqueId":1,
 			"nameId":"staff_name_99_007",
-			"faceId":252,
+			"faceId":"252",
 			"combat":10,
 			"develop":7,
 			"baseDev":8,
@@ -435,7 +435,7 @@
 		{
 			"uniqueId":45,
 			"nameId":"staff_name_99_012",
-			"faceId":293,
+			"faceId":"293",
 			"combat":11,
 			"develop":19,
 			"baseDev":11,
@@ -454,7 +454,7 @@
 		{
 			"uniqueId":46,
 			"nameId":"staff_name_99_013",
-			"faceId":322,
+			"faceId":"322",
 			"combat":5,
 			"develop":15,
 			"baseDev":20,
@@ -473,7 +473,7 @@
 		{
 			"uniqueId":8,
 			"nameId":"staff_name_99_016",
-			"faceId":124,
+			"faceId":"124",
 			"combat":7,
 			"develop":15,
 			"baseDev":11,
@@ -492,7 +492,7 @@
 		{
 			"uniqueId":7,
 			"nameId":"staff_name_99_022",
-			"faceId":088,
+			"faceId":"088",
 			"combat":5,
 			"develop":16,
 			"baseDev":5,
@@ -511,7 +511,7 @@
 		{
 			"uniqueId":3,
 			"nameId":"staff_name_99_023",
-			"faceId":078,
+			"faceId":"078",
 			"combat":5,
 			"develop":17,
 			"baseDev":5,
@@ -530,7 +530,7 @@
 		{
 			"uniqueId":4,
 			"nameId":"staff_name_99_045",
-			"faceId":200,
+			"faceId":"200",
 			"combat":5,
 			"develop":20,
 			"baseDev":7,
@@ -549,7 +549,7 @@
 		{
 			"uniqueId":9,
 			"nameId":"staff_name_99_052",
-			"faceId":138,
+			"faceId":"138",
 			"combat":7,
 			"develop":15,
 			"baseDev":10,
@@ -568,7 +568,7 @@
 		{
 			"uniqueId":0,
 			"nameId":"staff_name_99_063",
-			"faceId":093,
+			"faceId":"093",
 			"combat":5,
 			"develop":5,
 			"baseDev":5,
@@ -587,7 +587,7 @@
 		{
 			"uniqueId":10,
 			"nameId":"staff_name_99_077",
-			"faceId":169,
+			"faceId":"169",
 			"combat":9,
 			"develop":15,
 			"baseDev":9,
@@ -606,7 +606,7 @@
 		{
 			"uniqueId":6,
 			"nameId":"staff_name_99_080",
-			"faceId":030,
+			"faceId":"030",
 			"combat":5,
 			"develop":15,
 			"baseDev":8,
@@ -625,7 +625,7 @@
 		{
 			"uniqueId":185,
 			"nameId":"staff_name_99_083",
-			"faceId":132,
+			"faceId":"132",
 			"combat":45,
 			"develop":92,
 			"baseDev":70,
@@ -645,7 +645,7 @@
 		{
 			"uniqueId":187,
 			"nameId":"staff_name_99_085",
-			"faceId":167,
+			"faceId":"167",
 			"combat":21,
 			"develop":66,
 			"baseDev":11,
@@ -665,7 +665,7 @@
 		{
 			"uniqueId":209,
 			"nameId":"staff_name_99_086",
-			"faceId":204,
+			"faceId":"204",
 			"combat":30,
 			"develop":66,
 			"baseDev":48,
@@ -685,7 +685,7 @@
 		{
 			"uniqueId":210,
 			"nameId":"staff_name_99_087",
-			"faceId":230,
+			"faceId":"230",
 			"combat":50,
 			"develop":30,
 			"baseDev":10,
@@ -705,7 +705,7 @@
 		{
 			"uniqueId":211,
 			"nameId":"staff_name_99_088",
-			"faceId":290,
+			"faceId":"290",
 			"combat":30,
 			"develop":10,
 			"baseDev":25,
@@ -725,7 +725,7 @@
 		{
 			"uniqueId":212,
 			"nameId":"staff_name_99_089",
-			"faceId":278,
+			"faceId":"278",
 			"combat":50,
 			"develop":28,
 			"baseDev":48,
@@ -745,7 +745,7 @@
 		{
 			"uniqueId":213,
 			"nameId":"staff_name_99_090",
-			"faceId":214,
+			"faceId":"214",
 			"combat":47,
 			"develop":47,
 			"baseDev":81,
@@ -765,7 +765,7 @@
 		{
 			"uniqueId":214,
 			"nameId":"staff_name_99_091",
-			"faceId":277,
+			"faceId":"277",
 			"combat":67,
 			"develop":56,
 			"baseDev":45,
@@ -785,7 +785,7 @@
 		{
 			"uniqueId":215,
 			"nameId":"staff_name_99_092",
-			"faceId":157,
+			"faceId":"157",
 			"combat":45,
 			"develop":56,
 			"baseDev":67,
@@ -805,7 +805,7 @@
 		{
 			"uniqueId":217,
 			"nameId":"staff_name_99_094",
-			"faceId":234,
+			"faceId":"234",
 			"combat":88,
 			"develop":34,
 			"baseDev":45,
@@ -825,7 +825,7 @@
 		{
 			"uniqueId":2,
 			"nameId":"staff_name_99_095",
-			"faceId":332,
+			"faceId":"332",
 			"combat":7,
 			"develop":10,
 			"baseDev":20,
@@ -844,7 +844,7 @@
 		{
 			"uniqueId":33,
 			"nameId":"staff_name_99_102",
-			"faceId":213,
+			"faceId":"213",
 			"combat":6,
 			"develop":17,
 			"baseDev":6,
@@ -863,7 +863,7 @@
 		{
 			"uniqueId":35,
 			"nameId":"staff_name_99_104",
-			"faceId":243,
+			"faceId":"243",
 			"combat":5,
 			"develop":19,
 			"baseDev":13,
@@ -882,7 +882,7 @@
 		{
 			"uniqueId":224,
 			"nameId":"staff_name_99_112",
-			"faceId":014,
+			"faceId":"014",
 			"combat":10,
 			"develop":35,
 			"baseDev":35,
@@ -901,7 +901,7 @@
 		{
 			"uniqueId":219,
 			"nameId":"staff_name_99_113",
-			"faceId":115,
+			"faceId":"115",
 			"combat":10,
 			"develop":10,
 			"baseDev":10,
@@ -920,7 +920,7 @@
 		{
 			"uniqueId":220,
 			"nameId":"staff_name_99_114",
-			"faceId":142,
+			"faceId":"142",
 			"combat":10,
 			"develop":10,
 			"baseDev":10,
@@ -939,7 +939,7 @@
 		{
 			"uniqueId":221,
 			"nameId":"staff_name_99_115",
-			"faceId":334,
+			"faceId":"334",
 			"combat":10,
 			"develop":10,
 			"baseDev":33,
@@ -958,7 +958,7 @@
 		{
 			"uniqueId":222,
 			"nameId":"staff_name_99_119",
-			"faceId":050,
+			"faceId":"050",
 			"combat":10,
 			"develop":20,
 			"baseDev":20,
@@ -977,7 +977,7 @@
 		{
 			"uniqueId":234,
 			"nameId":"staff_name_99_120",
-			"faceId":063,
+			"faceId":"063",
 			"combat":48,
 			"develop":76,
 			"baseDev":38,
@@ -996,7 +996,7 @@
 		{
 			"uniqueId":235,
 			"nameId":"staff_name_99_121",
-			"faceId":099,
+			"faceId":"099",
 			"combat":10,
 			"develop":48,
 			"baseDev":38,
@@ -1015,7 +1015,7 @@
 		{
 			"uniqueId":236,
 			"nameId":"staff_name_99_122",
-			"faceId":078,
+			"faceId":"078",
 			"combat":44,
 			"develop":38,
 			"baseDev":72,
@@ -1034,7 +1034,7 @@
 		{
 			"uniqueId":237,
 			"nameId":"staff_name_99_123",
-			"faceId":036,
+			"faceId":"036",
 			"combat":38,
 			"develop":10,
 			"baseDev":38,
@@ -1053,7 +1053,7 @@
 		{
 			"uniqueId":225,
 			"nameId":"staff_name_99_124",
-			"faceId":017,
+			"faceId":"017",
 			"combat":10,
 			"develop":51,
 			"baseDev":35,
@@ -1072,7 +1072,7 @@
 		{
 			"uniqueId":226,
 			"nameId":"staff_name_99_125",
-			"faceId":174,
+			"faceId":"174",
 			"combat":10,
 			"develop":35,
 			"baseDev":35,
@@ -1091,7 +1091,7 @@
 		{
 			"uniqueId":229,
 			"nameId":"staff_name_99_126",
-			"faceId":320,
+			"faceId":"320",
 			"combat":10,
 			"develop":64,
 			"baseDev":30,
@@ -1110,7 +1110,7 @@
 		{
 			"uniqueId":230,
 			"nameId":"staff_name_99_127",
-			"faceId":033,
+			"faceId":"033",
 			"combat":30,
 			"develop":48,
 			"baseDev":48,
@@ -1129,7 +1129,7 @@
 		{
 			"uniqueId":231,
 			"nameId":"staff_name_99_128",
-			"faceId":332,
+			"faceId":"332",
 			"combat":10,
 			"develop":30,
 			"baseDev":68,
@@ -1148,7 +1148,7 @@
 		{
 			"uniqueId":232,
 			"nameId":"staff_name_99_131",
-			"faceId":625,
+			"faceId":"625",
 			"combat":55,
 			"develop":48,
 			"baseDev":30,
@@ -1167,7 +1167,7 @@
 		{
 			"uniqueId":233,
 			"nameId":"staff_name_99_132",
-			"faceId":626,
+			"faceId":"626",
 			"combat":65,
 			"develop":48,
 			"baseDev":48,
@@ -1186,7 +1186,7 @@
 		{
 			"uniqueId":238,
 			"nameId":"staff_name_99_134",
-			"faceId":008,
+			"faceId":"008",
 			"combat":77,
 			"develop":38,
 			"baseDev":48,
@@ -1205,7 +1205,7 @@
 		{
 			"uniqueId":216,
 			"nameId":"staff_name_99_145",
-			"faceId":221,
+			"faceId":"221",
 			"combat":88,
 			"develop":45,
 			"baseDev":56,
@@ -1225,7 +1225,7 @@
 		{
 			"uniqueId":218,
 			"nameId":"staff_name_99_146",
-			"faceId":262,
+			"faceId":"262",
 			"combat":88,
 			"develop":67,
 			"baseDev":23,
@@ -1245,7 +1245,7 @@
 		{
 			"uniqueId":227,
 			"nameId":"unique_staff_eye",
-			"faceId":627,
+			"faceId":"627",
 			"combat":40,
 			"develop":35,
 			"baseDev":35,
@@ -1264,7 +1264,7 @@
 		{
 			"uniqueId":244,
 			"nameId":"unique_staff_f_dd",
-			"faceId":682,
+			"faceId":"682",
 			"combat":30,
 			"develop":48,
 			"baseDev":48,
@@ -1283,7 +1283,7 @@
 		{
 			"uniqueId":246,
 			"nameId":"unique_staff_f_fh",
-			"faceId":681,
+			"faceId":"681",
 			"combat":80,
 			"develop":44,
 			"baseDev":48,
@@ -1302,7 +1302,7 @@
 		{
 			"uniqueId":240,
 			"nameId":"unique_staff_f_fx",
-			"faceId":685,
+			"faceId":"685",
 			"combat":40,
 			"develop":47,
 			"baseDev":40,
@@ -1321,7 +1321,7 @@
 		{
 			"uniqueId":228,
 			"nameId":"unique_staff_finger",
-			"faceId":628,
+			"faceId":"628",
 			"combat":61,
 			"develop":35,
 			"baseDev":35,
@@ -1340,7 +1340,7 @@
 		{
 			"uniqueId":242,
 			"nameId":"unique_staff_f_msf",
-			"faceId":686,
+			"faceId":"686",
 			"combat":54,
 			"develop":32,
 			"baseDev":64,
@@ -1359,7 +1359,7 @@
 		{
 			"uniqueId":110,
 			"nameId":"unique_staff_hideo",
-			"faceId":622,
+			"faceId":"622",
 			"combat":32,
 			"develop":80,
 			"baseDev":64,
@@ -1378,7 +1378,7 @@
 		{
 			"uniqueId":243,
 			"nameId":"unique_staff_m_dd",
-			"faceId":683,
+			"faceId":"683",
 			"combat":48,
 			"develop":30,
 			"baseDev":80,
@@ -1397,7 +1397,7 @@
 		{
 			"uniqueId":245,
 			"nameId":"unique_staff_m_fh",
-			"faceId":680,
+			"faceId":"680",
 			"combat":44,
 			"develop":48,
 			"baseDev":44,
@@ -1416,7 +1416,7 @@
 		{
 			"uniqueId":239,
 			"nameId":"unique_staff_m_fx",
-			"faceId":684,
+			"faceId":"684",
 			"combat":47,
 			"develop":48,
 			"baseDev":45,
@@ -1435,7 +1435,7 @@
 		{
 			"uniqueId":241,
 			"nameId":"unique_staff_m_msf",
-			"faceId":687,
+			"faceId":"687",
 			"combat":55,
 			"develop":32,
 			"baseDev":32,
