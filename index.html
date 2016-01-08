@@ -26,22 +26,31 @@
     <script src="js/app.js"></script>
     <script src="js/jquery.lazyload.js"></script>
     <script>
-      $(function() {
-        $("img.lazy").lazyload();
-      });
+
 
       $.getJSON('js/staff.json', function(data) {
+        var current_row = 0
         $.each(data.staff, function(i,f) {
-          currow = 0
-          var col = "<div class='large-3 columns'><p>" + f.name + "</p></div>"
-          $('#staff_'+currow).append(col)
-          if ((i%3===0)&&(i!=0){
-            currow = i/3
-            $('#staff').append("<div class='row' id='staff_"+currow+"'></div>")
+          var col = "<div class='large-3 columns'><img class='lazy' data-original='img/ui_face_" + f.faceId + "_0.png'></div>"
+          if ((i%4===0)&&(i!=0)){
+            current_row = i/4
+            $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
           }
+          $('#staff_'+current_row).append(col)
         })
-        
+
+        last_row_len = $('#staff'+current_row).length
+        if (last_row_len != 4)
+        {
+          count = 4 - last_row_len
+          while (count != 0) {
+            $('#staff'+current_row).append("<div class='large-3 columns'></div>")
+            count = count -1
+          }
+        }
+        $("img.lazy").lazyload();
       })
+
     </script>
   </body>
 </html>
