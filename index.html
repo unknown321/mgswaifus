@@ -37,6 +37,7 @@
 
     <div class='row' id='faceless_staff'>
       <h4>These characters don't have faces attached to them (they are still unique)</h4>
+      <p id='faceless_count'></p>
       <div class='large-12 columns' id='faceless_staff_1'></div>
     </div>
 
@@ -131,6 +132,7 @@
 
       $.getJSON('js/staff.json', function(data) {
         var current_row = 0
+        var faceless_total = 0
         $.each(data.staff, function(i,f) {
           var column = append_info(f)
           if ('faceId' in f)
@@ -144,6 +146,7 @@
           } 
           else 
           {
+            faceless_total = faceless_total + 1
             if ((i%4===0)&&(i!=0))
             {
               current_row = i/4
@@ -157,6 +160,7 @@
         fix_last_row('faceless_staff',current_row)
 
         $("img.lazy").lazyload();
+        $('#faceless_count').html('Faceless staff members: ' + faceless_total)
       })
 
     </script>
