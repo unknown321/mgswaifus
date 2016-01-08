@@ -2183,6 +2183,7 @@
 		{
 			"uniqueId":21,
 			"nameId":"staff_name_99_039",
+			"faceId":"617",
 			"combat":95,
 			"develop":13,
 			"baseDev":10,
@@ -2204,6 +2205,7 @@
 		{
 			"uniqueId":22,
 			"nameId":"staff_name_99_040",
+			"faceId":"618",
 			"combat":40,
 			"develop":80,
 			"baseDev":32,
@@ -2221,7 +2223,7 @@
 			"missionId":10121,
 			"missionName":"21 The War Economy",
 			"name":"Grizzly Squirrel",
-			"notes":"Weapon dealer"
+			"notes":"Arms dealer"
 		},
 		{
 			"uniqueId":74,
