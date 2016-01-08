@@ -15,7 +15,8 @@
 			"moraleEnmity":7,
 			"condition":"Normal",
 			"badConditionWeight":3,
-			"missionId":0
+			"missionId":0,
+			"name":"Quiet"
 		},
 		{
 			"uniqueId":253,
@@ -32,7 +33,8 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0
+			"missionId":0,
+			"name":"Code Talker"
 		},
 		{
 			"uniqueId":252,
@@ -49,7 +51,8 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0
+			"missionId":0,
+			"name":"Huey"
 		},
 		{
 			"uniqueId":250,
@@ -66,7 +69,8 @@
 			"condition":"Damaged",
 			"badConditionWeight":7,
 			"lang":"English",
-			"missionId":0
+			"missionId":0,
+			"name":"Miller"
 		},
 		{
 			"uniqueId":249,
@@ -85,7 +89,8 @@
 			"lang":"English",
 			"lang":"Russian",
 			"lang":"Pashto",
-			"missionId":0
+			"missionId":0,
+			"name":"Revolver Ocelot"
 		},
 		{
 			"uniqueId":247,
@@ -102,7 +107,8 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0
+			"missionId":0,
+			"name":"Big Boss"
 		},
 		{
 			"uniqueId":248,
@@ -119,7 +125,8 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0
+			"missionId":0,
+			"name":"Big Boss"
 		},
 		{
 			"uniqueId":188,

@@ -16,16 +16,8 @@
       </div>
     </div>
 
-    <div class="row" id='staff'>
-      <div class="large-3 columns">
-        <img class="lazy" data-original="img/s1.png">
-      </div>
-      <div class="large-3 columns">
-        <img class="lazy" data-original="img/s1.png">
-      </div>
-      <div class="large-3 columns">
-        <img class="lazy" data-original="img/s1.png">
-      </div>
+    <div id='staff'>
+      <div class='row' id='staff_0'></div>
     </div>
 
     <script src="js/vendor/jquery.min.js"></script>
@@ -40,8 +32,13 @@
 
       $.getJSON('js/staff.json', function(data) {
         $.each(data.staff, function(i,f) {
+          currow = 0
           var col = "<div class='large-3 columns'><p>" + f.name + "</p></div>"
-          $('[id=staff]').append(col)  
+          $('#staff'+currow).append(col)
+          if (i%3===0){
+            currow = i/3
+            $('#staff').append("<div class='row' id='staff_"+currow+"'></div>")
+          }
         })
         
       })
