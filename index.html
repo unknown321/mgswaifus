@@ -31,6 +31,12 @@
       </button>
     </div>
 
+    <div class='row'>
+      <div class='large-12 columns'>
+        <a href="#" class='button' onclick='females_only'>Females only</a>
+      </div>
+    </div>
+
     <div class='row' id='staff'>
       <div class='row' id='staff_0'></div>
     </div>
@@ -81,11 +87,21 @@
         return names[keys.indexOf(best_unit)]
       }
 
+      function females_only()
+      {
+        $('.soldier-male').toggle()
+      }
+
       function append_info(f)
       //create column with info and pic
       {
         var col = "\
-        <div class='large-3 medium-3 small-3 columns'>\
+        <div class='large-3 medium-3 small-3 columns "
+        if ('gender' in f)
+          col = col + 'soldier-female'
+        else
+          col = col + 'soldier-male'
+        col = col + "'>\
           <div class='media-object'>\
             <div class='media-object-section bottom'>\
               <div class='thumbnail'>\

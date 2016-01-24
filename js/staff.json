@@ -17,7 +17,8 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"missionId":0,
-			"name":"Quiet"
+			"name":"Quiet",
+			"gender":0
 		},
 		{
 			"uniqueId":253,
@@ -95,7 +96,7 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":0,
-			"name":"Big Boss"
+			"name":"Big Boss (your avatar)"
 		},
 		{
 			"uniqueId":188,
@@ -116,7 +117,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Flaming Buffalo",
-			"notes":"Unique volunteer (mission 31)"
+			"notes":"Unique volunteer (mission 31)",
+			"gender":0
 		},
 		{
 			"uniqueId":189,
@@ -200,7 +202,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Biting Tree Frog",
-			"notes":"Unique volunteer (mission 31)"
+			"notes":"Unique volunteer (mission 31)",
+			"gender":0
 		},
 		{
 			"uniqueId":193,
@@ -221,7 +224,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Gray Chameleon",
-			"notes":"Unique volunteer (mission 31)"
+			"notes":"Unique volunteer (mission 31)",
+			"gender":0
 		},
 		{
 			"uniqueId":194,
@@ -305,7 +309,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Creeping Buzzard",
-			"notes":"Unique volunteer (mission 46)"
+			"notes":"Unique volunteer (mission 46)",
+			"gender":0
 		},
 		{
 			"uniqueId":198,
@@ -326,7 +331,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Glacier Mongoose",
-			"notes":"Unique volunteer (mission 46)"
+			"notes":"Unique volunteer (mission 46)",
+			"gender":0
 		},
 		{
 			"uniqueId":199,
@@ -1448,7 +1454,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Garnet Canine",
-			"notes": "Phantom Pain Pre-order"
+			"notes": "Phantom Pain Pre-order",
+			"gender":0
 		},
 		{
 			"uniqueId":246,
@@ -1468,7 +1475,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Emerald Hound",
-			"notes": "XBONE Pre-order, DLC"
+			"notes": "XBONE Pre-order, DLC",
+			"gender":0
 		},
 		{
 			"uniqueId":240,
@@ -1488,7 +1496,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Amber Fox",
-			"notes": "Ground Zeroes Day One Pre-order"
+			"notes": "Ground Zeroes Day One Pre-order",
+			"gender":0
 		},
 		{
 			"uniqueId":228,
@@ -1529,7 +1538,8 @@
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
 			"name":"Laughing Wallaby",
-			"notes":"Hostage"
+			"notes":"Hostage",
+			"gender":0
 		},
 		{
 			"uniqueId":242,
@@ -1549,7 +1559,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Ivory Skull",
-			"notes": "Ground Zeroes Jap Pre-order"
+			"notes": "Ground Zeroes Jap Pre-order",
+			"gender":0
 		},
 		{
 			"uniqueId":110,
