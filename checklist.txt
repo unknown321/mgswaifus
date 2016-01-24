@@ -1,0 +1,97 @@
+list of faceless staff with attached `missionId`
+
+1 Phantom Limbs.............Gray Salamander
+							Wild Platypus
+
+3 A Heros Way...............Silent Mastodon
+
+4 C2W.......................Howling Stallion
+							Steel Kangaroo
+
+5 Over the Fence............Spunky Sturgeon
+
+6 Where Do the Bees Sleep...Copper Stallion
+							Blue Kangaroo
+							Dire Capybara
+
+7 Red Brass.................Hungry Barracuda
+							Sadistic Buzzard
+							Flaming Basilisk
+							Bitter Platypus
+							Ochre Harrier
+							Greedy Armadillo
+							Death Platypus
+							Biting Barracuda
+							Cunning Mastiff
+
+8 Occupation Forces.........Bullet Harrier
+							Crimson Kangaroo
+
+9 Backup Back Down..........Vile Buffalo
+							Blazing Stallion
+							Black Harrier
+							Spunky Crocodile
+							Killer Hedgehog
+							Ashen Platypus
+
+10 Angel With Broken Wings..Blazing Buzzard
+							Hungry Stallion
+							Copper Buzzard
+							Stalking Wallaby
+							Wild Chameleon
+							Running Harrier
+							Malak
+
+13 Pitch Dark...............Jade Centipede
+
+14 Lingua Franca............Raving Mongoose
+							Crystal Squirrel
+							Cunning Stallion
+							Viscount
+
+15 Footprints of Phantoms...Pouncing Buzzard
+							Killer Squirrel
+
+17 Rescue the Intel Agents..Night Wallaby
+							Bullet Armadillo
+							Poison Buffalo
+							Bloody Crocodile
+
+18 Blood Runs Deep..........Sunny Buzzard
+
+19 On the Trail.............Mad Centipede
+							Panzer Mongoose
+							Raving Harrier
+
+22 Retake the Platform......Mosquito
+
+23 The White Mamba..........Pouncing Harrier
+
+24 Close Contact............Silent Crocodile
+							Crying Harrier
+
+25 Aim True Ye Vengeful.....Howling Capybara
+							Ashen Stallion
+							Brass Squirrel
+
+26 Hunting Down.............Panzer Buffalo
+							Green Tarantula
+							Bullet Platypus
+							Devil Squirrel
+							Sly Mastodon
+							Dizzy Capybara
+							Brutal Centipede
+							Doom Centipede
+							Sunny Mongoose
+							Running Basilisk
+
+32 To Know Too Much.........Rampant Buzzard
+							Goblin Squirrel
+							Vampire Platypus
+							Gray Stallion
+
+35 Cursed Legacy............Jade Capybara
+
+38 Extraordinary............Sky Centipede
+
+41 Proxy War Without End....Sunny Platypus
