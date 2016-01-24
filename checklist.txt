@@ -1,6 +1,6 @@
 list of faceless staff with attached `missionId`
 tab-width: 4
-staff total: 72
+staff total: 71
 
 1 Phantom Limbs.............Gray Salamander
 							Wild Platypus
@@ -34,7 +34,7 @@ staff total: 72
 							Black Harrier
 							Spunky Crocodile
 							Killer Hedgehog
-							Ashen Platypus
+							Ashen Platypus		✔
 
 10 Angel With Broken Wings..Blazing Buzzard
 							Hungry Stallion
