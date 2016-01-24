@@ -3411,6 +3411,7 @@
 		{
 			"uniqueId":97,
 			"nameId":"staff_name_99_140",
+			"faceId":"368",
 			"combat":36,
 			"develop":48,
 			"baseDev":40,
@@ -3426,7 +3427,8 @@
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
 			"name":"Ashen Platypus",
-			"notes":"Hostage"
+			"notes":"Hostage",
+			"gender":0
 		},
 		{
 			"uniqueId":106,
