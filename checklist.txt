@@ -1,5 +1,6 @@
 list of faceless staff with attached `missionId`
 tab-width: 4
+staff total: 72
 
 1 Phantom Limbs.............Gray Salamander
 							Wild Platypus
