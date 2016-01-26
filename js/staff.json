@@ -2576,6 +2576,7 @@
 		{
 			"uniqueId":88,
 			"nameId":"staff_name_99_055",
+			"faceId":"040",
 			"combat":20,
 			"develop":32,
 			"baseDev":15,
@@ -2591,7 +2592,7 @@
 			"missionId":10043,
 			"missionName":"4 C2W",
 			"name":"Steel Kangaroo",
-			"notes":"Hostage"
+			"notes":"Hostage; face can be inaccurate"
 		},
 		{
 			"uniqueId":90,
