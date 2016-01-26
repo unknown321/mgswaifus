@@ -3,14 +3,14 @@ tab-width: 4
 staff total: 71
 
 1 Phantom Limbs.............Gray Salamander
-							Wild Platypus
+							Wild Platypus		✔
 
-3 A Heros Way...............Silent Mastodon
+3 A Heros Way...............Silent Mastodon	✔
 
 4 C2W.......................Howling Stallion
-							Steel Kangaroo
+							Steel Kangaroo	✔
 
-5 Over the Fence............Spunky Sturgeon
+5 Over the Fence............Spunky Sturgeon	✔
 
 6 Where Do the Bees Sleep...Copper Stallion
 							Blue Kangaroo
