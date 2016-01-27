@@ -1010,7 +1010,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Gray Wallaby",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":219,
@@ -1031,7 +1031,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Ochre Chameleon",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":220,
@@ -1052,7 +1052,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Grizzly Hedgehog",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":221,
@@ -1073,7 +1073,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Hungry Crocodile",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":222,
@@ -1094,7 +1094,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Wild Harrier",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":97,
@@ -1115,7 +1115,7 @@
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
 			"name":"Ashen Platypus",
-			"notes":"Hostage",
+			"notes":"Prisoner",
 			"gender":0
 		},
 		{
@@ -1138,7 +1138,7 @@
 			"missionId":10033,
 			"missionName":"5 Over the Fence",
 			"name":"Spying Harrier",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":234,
@@ -1159,7 +1159,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Night Tree Frog",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":235,
@@ -1180,7 +1180,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Pirate Capybara",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":236,
@@ -1201,7 +1201,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Roaring Capybara",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":237,
@@ -1222,7 +1222,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Bitter Centipede",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":225,
@@ -1243,7 +1243,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Blue Chameleon",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":111,
@@ -1263,7 +1263,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Ziang Tan",
-			"notes":"Hostage from E3 of whatever, google him"
+			"notes":"Prisoner from E3 of whatever, google him"
 		},
 		{
 			"uniqueId":16,
@@ -1304,7 +1304,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Midnight Mastiff",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":229,
@@ -1325,7 +1325,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Frigid Mongoose",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":230,
@@ -1346,7 +1346,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Hunting Stallion",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":231,
@@ -1367,7 +1367,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Assassin Harrier",
-			"notes":"(?) Hostage / Volunteer"
+			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
 			"uniqueId":232,
@@ -1472,7 +1472,7 @@
 			"missionId":10043,
 			"missionName":"4 C2W",
 			"name":"Steel Kangaroo",
-			"notes":"Hostage; face can be inaccurate"
+			"notes":"Prisoner; face can be inaccurate"
 		},
 		{
 			"uniqueId":218,
@@ -1556,7 +1556,7 @@
 			"missionId":10040,
 			"missionName":"6 Where Do the Bees Sleep",
 			"name":"Silent Basilisk",
-			"notes":"Mute hostage"
+			"notes":"Mute Prisoner"
 		},
 		{
 			"uniqueId":244,
@@ -1660,7 +1660,7 @@
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
 			"name":"Laughing Wallaby",
-			"notes":"Hostage",
+			"notes":"Prisoner",
 			"gender":0
 		},
 		{
@@ -1702,7 +1702,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Hideo",
-			"notes":"Hostage directed by Hideo Kojima"
+			"notes":"Prisoner directed by Hideo Kojima"
 		},
 		{
 			"uniqueId":21,
@@ -1808,7 +1808,7 @@
 			"missionId":10033,
 			"missionName":"5 Over the Fence",
 			"name":"Spunky Sturgeon",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":239,
@@ -1910,7 +1910,7 @@
 			"missionId":10045,
 			"missionName":"32 To Know Too Much",
 			"name":"Rampant Buzzard",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":41,
@@ -2176,7 +2176,7 @@
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
 			"name":"Vile Buffalo",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":59,
@@ -2259,7 +2259,7 @@
 			"missionId":10085,
 			"missionName":"24 Close Contact",
 			"name":"Silent Crocodile",
-			"notes":"Female Hostage"
+			"notes":"Female Prisoner"
 		},
 		{
 			"uniqueId":63,
@@ -2279,7 +2279,7 @@
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
 			"name":"Crystal Squirrel",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":64,
@@ -2299,7 +2299,7 @@
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
 			"name":"Cunning Stallion",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":66,
@@ -2654,7 +2654,7 @@
 			"missionId":10043,
 			"missionName":"4 C2W",
 			"name":"Howling Stallion",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":90,
@@ -2674,7 +2674,7 @@
 			"missionId":10041,
 			"missionName":"7 Red Brass",
 			"name":"Bitter Platypus",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":91,
@@ -2694,7 +2694,7 @@
 			"missionId":10041,
 			"missionName":"7 Red Brass",
 			"name":"Ochre Harrier",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":92,
@@ -2714,7 +2714,7 @@
 			"missionId":10044,
 			"missionName":"8 Occupation Forces",
 			"name":"Bullet Harrier",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":93,
@@ -2734,7 +2734,7 @@
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
 			"name":"Blazing Stallion",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":94,
@@ -2754,7 +2754,7 @@
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
 			"name":"Black Harrier",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":95,
@@ -2774,7 +2774,7 @@
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
 			"name":"Spunky Crocodile",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":31,
@@ -2814,7 +2814,7 @@
 			"missionId":10082,
 			"missionName":"15 Footprints of Phantoms",
 			"name":"Pouncing Buzzard",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":99,
@@ -2835,7 +2835,7 @@
 			"missionId":10082,
 			"missionName":"15 Footprints of Phantoms",
 			"name":"Killer Squirrel",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":100,
@@ -2855,7 +2855,7 @@
 			"missionId":10091,
 			"missionName":"17 Rescue the Intel Agents",
 			"name":"Poison Buffalo",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":101,
@@ -2896,7 +2896,7 @@
 			"missionId":10120,
 			"missionName":"23 The White Mamba",
 			"name":"Pouncing Harrier",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":103,
@@ -2917,7 +2917,7 @@
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
 			"name":"Dizzy Capybara",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":104,
@@ -2937,7 +2937,7 @@
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
 			"name":"Brutal Centipede",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":105,
@@ -2958,7 +2958,7 @@
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
 			"name":"Doom Centipede",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":19,
@@ -2998,7 +2998,7 @@
 			"missionId":10045,
 			"missionName":"32 To Know Too Much",
 			"name":"Goblin Squirrel",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":108,
@@ -3018,7 +3018,7 @@
 			"missionId":10045,
 			"missionName":"32 To Know Too Much",
 			"name":"Vampire Platypus",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":109,
@@ -3039,7 +3039,7 @@
 			"missionId":10156,
 			"missionName":"38 Extraordinary",
 			"name":"Sky Centipede",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":156,
@@ -3058,7 +3058,7 @@
 			"lang":"Russian",
 			"missionId":0,
 			"name":"Doom Squirrel",
-			"notes":"(?) Hostage"
+			"notes":"(?) Prisoner"
 		},
 		{
 			"uniqueId":177,
@@ -3077,7 +3077,7 @@
 			"lang":"Afrikaans",
 			"missionId":0,
 			"name":"Cunning Mongoose",
-			"notes":"(?) Hostage"
+			"notes":"(?) Prisoner"
 		},
 		{
 			"uniqueId":179,
@@ -3096,7 +3096,7 @@
 			"lang":"Afrikaans",
 			"missionId":0,
 			"name":"Dancing Mongoose",
-			"notes":"(?) Hostage"
+			"notes":"(?) Prisoner"
 		},
 		{
 			"uniqueId":186,
@@ -3136,7 +3136,7 @@
 			"missionId":10200,
 			"missionName":"25 Aim True Ye Vengeful",
 			"name":"Ashen Stallion",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":11,
@@ -3196,7 +3196,7 @@
 			"missionId":10195,
 			"missionName":"19 On the Trail",
 			"name":"Raving Harrier",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":14,
@@ -3316,7 +3316,7 @@
 			"missionId":10085,
 			"missionName":"24 Close Contact",
 			"name":"Crying Harrier",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":62,
@@ -3470,7 +3470,7 @@
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
 			"name":"Killer Hedgehog",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":106,
@@ -3491,7 +3491,7 @@
 			"missionId":10211,
 			"missionName":"26 Hunting Down",
 			"name":"Running Basilisk",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":184,
@@ -3570,7 +3570,7 @@
 			"missionId":10200,
 			"missionName":"25 Aim True Ye Vengeful",
 			"name":"Brass Squirrel",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		},
 		{
 			"uniqueId":29,
@@ -3649,7 +3649,7 @@
 			"missionId":10086,
 			"missionName":"14 Lingua Franca",
 			"name":"Viscount",
-			"notes":"Hostage"
+			"notes":"Prisoner"
 		}
 	]
 }
