@@ -16,15 +16,15 @@ staff total: 71
 							Blue Kangaroo
 							Dire Capybara
 
-7 Red Brass.................Hungry Barracuda
+7 Red Brass.................Hungry Barracuda	✔
 							Sadistic Buzzard
 							Flaming Basilisk
 							Bitter Platypus
 							Ochre Harrier
-							Greedy Armadillo
+							Greedy Armadillo	✔
 							Death Platypus
-							Biting Barracuda
-							Cunning Mastiff
+							Biting Barracuda	✔
+							Cunning Mastiff	✔
 
 8 Occupation Forces.........Bullet Harrier
 							Crimson Kangaroo
