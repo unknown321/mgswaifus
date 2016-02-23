@@ -2077,7 +2077,7 @@
 			"missionId":10100,
 			"missionName":"18 Blood Runs Deep",
 			"name":"Sunny Buzzard",
-			"notes":"(?) Banana target"
+			"notes":"First assassination target (marked as banana target in scripts, pretty racist)"
 		},
 		{
 			"uniqueId":48,
@@ -2384,7 +2384,7 @@
 			"missionId":10091,
 			"missionName":"17 Rescue the Intel Agents",
 			"name":"Night Wallaby",
-			"notes":"(?) Agent A (or executioner)"
+			"notes":"CFA official"
 		},
 		{
 			"uniqueId":67,
@@ -2405,7 +2405,7 @@
 			"missionId":10091,
 			"missionName":"17 Rescue the Intel Agents",
 			"name":"Bullet Armadillo",
-			"notes":"(?) Agent B (or executioner)"
+			"notes":"CFA official"
 		},
 		{
 			"uniqueId":68,
