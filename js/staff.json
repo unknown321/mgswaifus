@@ -1283,7 +1283,7 @@
 		{
 			"uniqueId":111,
 			"nameId":"unique_staff_tan",
-			"faceId":621,
+			"faceId":"621_0",
 			"combat":64,
 			"develop":42,
 			"baseDev":32,
