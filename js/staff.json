@@ -1227,6 +1227,7 @@
 		{
 			"uniqueId":47,
 			"nameId":"staff_name_99_014",
+			"faceId":"108_2",
 			"combat":25,
 			"develop":33,
 			"baseDev":25,
@@ -1936,6 +1937,7 @@
 		{
 			"uniqueId":15,
 			"nameId":"staff_name_99_001",
+			"faceId":"609",
 			"combat":55,
 			"develop":48,
 			"baseDev":62,
@@ -1956,6 +1958,7 @@
 		{
 			"uniqueId":37,
 			"nameId":"staff_name_99_005",
+			"faceId":"620",
 			"combat":20,
 			"develop":34,
 			"baseDev":75,
@@ -2081,6 +2084,7 @@
 		{
 			"uniqueId":48,
 			"nameId":"staff_name_99_015",
+			"faceId":"145",
 			"combat":64,
 			"develop":11,
 			"baseDev":20,
@@ -2101,6 +2105,7 @@
 		{
 			"uniqueId":50,
 			"nameId":"staff_name_99_017",
+			"faceId":"049_2",
 			"combat":50,
 			"develop":20,
 			"baseDev":25,
@@ -2203,6 +2208,7 @@
 		{
 			"uniqueId":57,
 			"nameId":"staff_name_99_024",
+			"faceId":"168_1",
 			"combat":47,
 			"develop":16,
 			"baseDev":30,
@@ -2223,6 +2229,7 @@
 		{
 			"uniqueId":58,
 			"nameId":"staff_name_99_025",
+			"faceId":"001",
 			"combat":48,
 			"develop":88,
 			"baseDev":20,
@@ -2285,6 +2292,7 @@
 		{
 			"uniqueId":61,
 			"nameId":"staff_name_99_028",
+			"faceId":"605",
 			"combat":40,
 			"develop":20,
 			"baseDev":20,
@@ -2305,6 +2313,7 @@
 		{
 			"uniqueId":20,
 			"nameId":"staff_name_99_029",
+			"faceId":"643",
 			"combat":40,
 			"develop":66,
 			"baseDev":63,
@@ -2322,11 +2331,13 @@
 			"missionId":10085,
 			"missionName":"24 Close Contact",
 			"name":"Silent Crocodile",
-			"notes":"Female Prisoner"
+			"notes":"Female Prisoner",
+			"gender":0
 		},
 		{
 			"uniqueId":63,
 			"nameId":"staff_name_99_030",
+			"faceId":"611",
 			"combat":11,
 			"develop":70,
 			"baseDev":20,
@@ -2347,6 +2358,7 @@
 		{
 			"uniqueId":64,
 			"nameId":"staff_name_99_032",
+			"faceId":"612",
 			"combat":30,
 			"develop":64,
 			"baseDev":38,
@@ -2409,6 +2421,7 @@
 		{
 			"uniqueId":68,
 			"nameId":"staff_name_99_035",
+			"faceId":"649",
 			"combat":110,
 			"develop":38,
 			"baseDev":38,
@@ -2623,6 +2636,7 @@
 		{
 			"uniqueId":82,
 			"nameId":"staff_name_99_049",
+			"faceId":"165_1",
 			"combat":20,
 			"develop":81,
 			"baseDev":20,
@@ -2702,6 +2716,7 @@
 		{
 			"uniqueId":87,
 			"nameId":"staff_name_99_054",
+			"faceId":"015_1",
 			"combat":11,
 			"develop":36,
 			"baseDev":11,
@@ -2722,6 +2737,7 @@
 		{
 			"uniqueId":90,
 			"nameId":"staff_name_99_057",
+			"faceId":"160_1",
 			"combat":18,
 			"develop":11,
 			"baseDev":45,
@@ -2742,6 +2758,7 @@
 		{
 			"uniqueId":91,
 			"nameId":"staff_name_99_058",
+			"faceId":"127_2",
 			"combat":30,
 			"develop":16,
 			"baseDev":44,
@@ -2762,6 +2779,7 @@
 		{
 			"uniqueId":92,
 			"nameId":"staff_name_99_059",
+			"faceId":"148_1",
 			"combat":79,
 			"develop":30,
 			"baseDev":11,
@@ -2782,6 +2800,7 @@
 		{
 			"uniqueId":93,
 			"nameId":"staff_name_99_060",
+			"faceId":"163",
 			"combat":11,
 			"develop":30,
 			"baseDev":26,
@@ -2802,6 +2821,7 @@
 		{
 			"uniqueId":94,
 			"nameId":"staff_name_99_061",
+			"faceId":"374",
 			"combat":30,
 			"develop":35,
 			"baseDev":20,
@@ -2817,11 +2837,13 @@
 			"missionId":10054,
 			"missionName":"9 Backup Back Down",
 			"name":"Black Harrier",
-			"notes":"Prisoner"
+			"notes":"Prisoner",
+			"gender":0
 		},
 		{
 			"uniqueId":95,
 			"nameId":"staff_name_99_062",
+			"faceId":"339_2",
 			"combat":35,
 			"develop":11,
 			"baseDev":35,
@@ -2924,6 +2946,7 @@
 		{
 			"uniqueId":102,
 			"nameId":"staff_name_99_069",
+			"faceId":"507_2",
 			"combat":110,
 			"develop":50,
 			"baseDev":23,
@@ -2939,7 +2962,8 @@
 			"missionId":10120,
 			"missionName":"23 The White Mamba",
 			"name":"Pouncing Harrier",
-			"notes":"Prisoner"
+			"notes":"Prisoner",
+			"gender":0
 		},
 		{
 			"uniqueId":103,
@@ -3006,6 +3030,7 @@
 		{
 			"uniqueId":19,
 			"nameId":"staff_name_99_073",
+			"faceId":"608",
 			"combat":57,
 			"develop":16,
 			"baseDev":47,
@@ -3263,6 +3288,7 @@
 		{
 			"uniqueId":49,
 			"nameId":"staff_name_99_108",
+			"faceId":"183",
 			"combat":32,
 			"develop":80,
 			"baseDev":38,
@@ -3323,6 +3349,7 @@
 		{
 			"uniqueId":27,
 			"nameId":"staff_name_99_116",
+			"faceId":"645",
 			"combat":120,
 			"develop":20,
 			"baseDev":60,
@@ -3339,7 +3366,7 @@
 			"missionId":10171,
 			"missionName":"41 Proxy War Without End",
 			"name":"Sunny Platypus",
-			"notes":"(?) Bonus soldier / volunteer"
+			"notes":"Commander in the GUNSHIP"
 		},
 		{
 			"uniqueId":28,
@@ -3364,6 +3391,7 @@
 		{
 			"uniqueId":62,
 			"nameId":"staff_name_99_118",
+			"faceId":"606",
 			"combat":64,
 			"develop":38,
 			"baseDev":38,
@@ -3459,6 +3487,7 @@
 		{
 			"uniqueId":85,
 			"nameId":"staff_name_99_136",
+			"faceId":"170_2",
 			"combat":56,
 			"develop":11,
 			"baseDev":20,
@@ -3478,6 +3507,7 @@
 		{
 			"uniqueId":96,
 			"nameId":"staff_name_99_139",
+			"faceId":"333",
 			"combat":48,
 			"develop":66,
 			"baseDev":15,
@@ -3539,6 +3569,7 @@
 		{
 			"uniqueId":12,
 			"nameId":"staff_name_99_143",
+			"faceId":"246",
 			"combat":20,
 			"develop":78,
 			"baseDev":52,
@@ -3598,6 +3629,7 @@
 		{
 			"uniqueId":18,
 			"nameId":"unique_staff_Malak",
+			"faceId":"607",
 			"combat":33,
 			"develop":57,
 			"baseDev":15,
@@ -3637,6 +3669,7 @@
 		{
 			"uniqueId":44,
 			"nameId":"unique_staff_Viscount",
+			"faceId":"610",
 			"combat":21,
 			"develop":40,
 			"baseDev":21,
