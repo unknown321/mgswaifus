@@ -107,7 +107,7 @@
               <div class='thumbnail'>\
                 <img height=250 width=250 class='lazy' data-original='img/ui_face_"
         if ('faceId' in f)
-          var column = col + f.faceId + "_0.png'>\</div><center>"
+          var column = col + f.faceId + ".png'>\</div><center>"
         else 
           var column = col + "unknown_0.png'>\</div><center>"
 
@@ -125,7 +125,8 @@
         column = column + "<br>Unit: " + get_best_unit(f)
         if ('notes' in f)
           column = column + "<br><i>*" + f.notes + "</i>"
-        if ('facenote' in f)
+        fid = f.faceId.split("_")
+        if (fid[0] <= 600)
           column = column + "<br><i>face slightly varies</i>"
 
         column = column + "</center></div></div>"

@@ -139,8 +139,7 @@
 		{
 			"uniqueId":188,
 			"nameId":"staff_name_11_188",
-			"faceId":"361",
-			"facenote":1,
+			"faceId":"361_0",
 			"combat":300,
 			"develop":80,
 			"baseDev":20,
@@ -161,8 +160,7 @@
 		{
 			"uniqueId":189,
 			"nameId":"staff_name_11_189",
-			"faceId":"209",
-			"facenote":1,
+			"faceId":"209_0",
 			"combat":130,
 			"develop":300,
 			"baseDev":80,
@@ -182,8 +180,7 @@
 		{
 			"uniqueId":190,
 			"nameId":"staff_name_11_190",
-			"faceId":"342",
-			"facenote":1,
+			"faceId":"342_0",
 			"combat":185,
 			"develop":130,
 			"baseDev":300,
@@ -203,8 +200,7 @@
 		{
 			"uniqueId":191,
 			"nameId":"staff_name_11_191",
-			"faceId":"188",
-			"facenote":1,
+			"faceId":"188_0",
 			"combat":10,
 			"develop":185,
 			"baseDev":130,
@@ -224,8 +220,7 @@
 		{
 			"uniqueId":192,
 			"nameId":"staff_name_11_192",
-			"faceId":"467",
-			"facenote":1,
+			"faceId":"467_0",
 			"combat":20,
 			"develop":10,
 			"baseDev":185,
@@ -246,8 +241,7 @@
 		{
 			"uniqueId":193,
 			"nameId":"staff_name_11_193",
-			"faceId":"515",
-			"facenote":1,
+			"faceId":"515_0",
 			"combat":80,
 			"develop":20,
 			"baseDev":10,
@@ -268,8 +262,7 @@
 		{
 			"uniqueId":194,
 			"nameId":"staff_name_11_194",
-			"faceId":"192",
-			"facenote":1,
+			"faceId":"192_0",
 			"combat":490,
 			"develop":310,
 			"baseDev":10,
@@ -289,8 +282,7 @@
 		{
 			"uniqueId":195,
 			"nameId":"staff_name_11_195",
-			"faceId":"288",
-			"facenote":1,
+			"faceId":"288_0",
 			"combat":50,
 			"develop":490,
 			"baseDev":310,
@@ -310,8 +302,7 @@
 		{
 			"uniqueId":196,
 			"nameId":"staff_name_11_196",
-			"faceId":"075",
-			"facenote":1,
+			"faceId":"075_0",
 			"combat":10,
 			"develop":50,
 			"baseDev":490,
@@ -331,8 +322,7 @@
 		{
 			"uniqueId":197,
 			"nameId":"staff_name_11_197",
-			"faceId":"372",
-			"facenote":1,
+			"faceId":"372_0",
 			"combat":20,
 			"develop":10,
 			"baseDev":50,
@@ -353,8 +343,7 @@
 		{
 			"uniqueId":198,
 			"nameId":"staff_name_11_198",
-			"faceId":"507",
-			"facenote":1,
+			"faceId":"507_0",
 			"combat":10,
 			"develop":20,
 			"baseDev":10,
@@ -375,8 +364,7 @@
 		{
 			"uniqueId":199,
 			"nameId":"staff_name_11_199",
-			"faceId":"129",
-			"facenote":1,
+			"faceId":"129_0",
 			"combat":310,
 			"develop":10,
 			"baseDev":20,
@@ -396,8 +384,7 @@
 		{
 			"uniqueId":34,
 			"nameId":"staff_name_99_002",
-			"faceId":"222",
-			"facenote":1,
+			"faceId":"222_0",
 			"combat":10,
 			"develop":15,
 			"baseDev":18,
@@ -418,8 +405,7 @@
 		{
 			"uniqueId":5,
 			"nameId":"staff_name_99_003",
-			"faceId":"283",
-			"facenote":1,
+			"faceId":"283_0",
 			"combat":8,
 			"develop":15,
 			"baseDev":10,
@@ -440,8 +426,7 @@
 		{
 			"uniqueId":36,
 			"nameId":"staff_name_99_004",
-			"faceId":"264",
-			"facenote":1,
+			"faceId":"264_0",
 			"combat":21,
 			"develop":18,
 			"baseDev":13,
@@ -462,8 +447,7 @@
 		{
 			"uniqueId":1,
 			"nameId":"staff_name_99_007",
-			"faceId":"252",
-			"facenote":1,
+			"faceId":"252_0",
 			"combat":10,
 			"develop":7,
 			"baseDev":8,
@@ -483,8 +467,7 @@
 		{
 			"uniqueId":45,
 			"nameId":"staff_name_99_012",
-			"faceId":"293",
-			"facenote":1,
+			"faceId":"293_0",
 			"combat":11,
 			"develop":19,
 			"baseDev":11,
@@ -505,8 +488,7 @@
 		{
 			"uniqueId":46,
 			"nameId":"staff_name_99_013",
-			"faceId":"322",
-			"facenote":1,
+			"faceId":"322_0",
 			"combat":5,
 			"develop":15,
 			"baseDev":20,
@@ -527,8 +509,7 @@
 		{
 			"uniqueId":8,
 			"nameId":"staff_name_99_016",
-			"faceId":"124",
-			"facenote":1,
+			"faceId":"124_0",
 			"combat":7,
 			"develop":15,
 			"baseDev":11,
@@ -549,8 +530,7 @@
 		{
 			"uniqueId":7,
 			"nameId":"staff_name_99_022",
-			"faceId":"088",
-			"facenote":1,
+			"faceId":"088_0",
 			"combat":5,
 			"develop":16,
 			"baseDev":5,
@@ -571,8 +551,7 @@
 		{
 			"uniqueId":3,
 			"nameId":"staff_name_99_023",
-			"faceId":"078",
-			"facenote":1,
+			"faceId":"078_0",
 			"combat":5,
 			"develop":17,
 			"baseDev":5,
@@ -593,8 +572,7 @@
 		{
 			"uniqueId":4,
 			"nameId":"staff_name_99_045",
-			"faceId":"200",
-			"facenote":1,
+			"faceId":"200_0",
 			"combat":5,
 			"develop":20,
 			"baseDev":7,
@@ -615,8 +593,7 @@
 		{
 			"uniqueId":9,
 			"nameId":"staff_name_99_052",
-			"faceId":"138",
-			"facenote":1,
+			"faceId":"138_0",
 			"combat":7,
 			"develop":15,
 			"baseDev":10,
@@ -637,8 +614,7 @@
 		{
 			"uniqueId":0,
 			"nameId":"staff_name_99_063",
-			"faceId":"093",
-			"facenote":1,
+			"faceId":"093_0",
 			"combat":5,
 			"develop":5,
 			"baseDev":5,
@@ -658,8 +634,7 @@
 		{
 			"uniqueId":10,
 			"nameId":"staff_name_99_077",
-			"faceId":"169",
-			"facenote":1,
+			"faceId":"169_0",
 			"combat":9,
 			"develop":15,
 			"baseDev":9,
@@ -680,8 +655,7 @@
 		{
 			"uniqueId":6,
 			"nameId":"staff_name_99_080",
-			"faceId":"030",
-			"facenote":1,
+			"faceId":"030_0",
 			"combat":5,
 			"develop":15,
 			"baseDev":8,
@@ -702,8 +676,7 @@
 		{
 			"uniqueId":185,
 			"nameId":"staff_name_99_083",
-			"faceId":"132",
-			"facenote":1,
+			"faceId":"132_0",
 			"combat":45,
 			"develop":92,
 			"baseDev":70,
@@ -724,8 +697,7 @@
 		{
 			"uniqueId":187,
 			"nameId":"staff_name_99_085",
-			"faceId":"167",
-			"facenote":1,
+			"faceId":"167_0",
 			"combat":21,
 			"develop":66,
 			"baseDev":11,
@@ -746,8 +718,7 @@
 		{
 			"uniqueId":209,
 			"nameId":"staff_name_99_086",
-			"faceId":"204",
-			"facenote":1,
+			"faceId":"204_0",
 			"combat":30,
 			"develop":66,
 			"baseDev":48,
@@ -768,8 +739,7 @@
 		{
 			"uniqueId":210,
 			"nameId":"staff_name_99_087",
-			"faceId":"230",
-			"facenote":1,
+			"faceId":"230_0",
 			"combat":50,
 			"develop":30,
 			"baseDev":10,
@@ -791,8 +761,7 @@
 		{
 			"uniqueId":211,
 			"nameId":"staff_name_99_088",
-			"faceId":"290",
-			"facenote":1,
+			"faceId":"290_0",
 			"combat":30,
 			"develop":10,
 			"baseDev":25,
@@ -814,8 +783,7 @@
 		{
 			"uniqueId":212,
 			"nameId":"staff_name_99_089",
-			"faceId":"278",
-			"facenote":1,
+			"faceId":"278_0",
 			"combat":50,
 			"develop":28,
 			"baseDev":48,
@@ -837,8 +805,7 @@
 		{
 			"uniqueId":213,
 			"nameId":"staff_name_99_090",
-			"faceId":"214",
-			"facenote":1,
+			"faceId":"214_0",
 			"combat":47,
 			"develop":47,
 			"baseDev":81,
@@ -860,8 +827,7 @@
 		{
 			"uniqueId":214,
 			"nameId":"staff_name_99_091",
-			"faceId":"277",
-			"facenote":1,
+			"faceId":"277_0",
 			"combat":67,
 			"develop":56,
 			"baseDev":45,
@@ -883,8 +849,7 @@
 		{
 			"uniqueId":215,
 			"nameId":"staff_name_99_092",
-			"faceId":"157",
-			"facenote":1,
+			"faceId":"157_0",
 			"combat":45,
 			"develop":56,
 			"baseDev":67,
@@ -906,7 +871,7 @@
 		{
 			"uniqueId":30,
 			"nameId":"staff_name_99_137",
-			"faceId":"638",
+			"faceId":"638_0",
 			"combat":80,
 			"develop":10,
 			"baseDev":18,
@@ -927,8 +892,7 @@
 		{
 			"uniqueId":217,
 			"nameId":"staff_name_99_094",
-			"faceId":"234",
-			"facenote":1,
+			"faceId":"234_0",
 			"combat":88,
 			"develop":34,
 			"baseDev":45,
@@ -950,8 +914,7 @@
 		{
 			"uniqueId":2,
 			"nameId":"staff_name_99_095",
-			"faceId":"332",
-			"facenote":1,
+			"faceId":"332_0",
 			"combat":7,
 			"develop":10,
 			"baseDev":20,
@@ -971,8 +934,7 @@
 		{
 			"uniqueId":33,
 			"nameId":"staff_name_99_102",
-			"faceId":"213",
-			"facenote":1,
+			"faceId":"213_0",
 			"combat":6,
 			"develop":17,
 			"baseDev":6,
@@ -993,8 +955,7 @@
 		{
 			"uniqueId":35,
 			"nameId":"staff_name_99_104",
-			"faceId":"243",
-			"facenote":1,
+			"faceId":"243_0",
 			"combat":5,
 			"develop":19,
 			"baseDev":13,
@@ -1015,8 +976,7 @@
 		{
 			"uniqueId":224,
 			"nameId":"staff_name_99_112",
-			"faceId":"014",
-			"facenote":1,
+			"faceId":"014_0",
 			"combat":10,
 			"develop":35,
 			"baseDev":35,
@@ -1036,8 +996,7 @@
 		{
 			"uniqueId":219,
 			"nameId":"staff_name_99_113",
-			"faceId":"115",
-			"facenote":1,
+			"faceId":"115_0",
 			"combat":10,
 			"develop":10,
 			"baseDev":10,
@@ -1057,8 +1016,7 @@
 		{
 			"uniqueId":220,
 			"nameId":"staff_name_99_114",
-			"faceId":"142",
-			"facenote":1,
+			"faceId":"142_0",
 			"combat":10,
 			"develop":10,
 			"baseDev":10,
@@ -1078,8 +1036,7 @@
 		{
 			"uniqueId":221,
 			"nameId":"staff_name_99_115",
-			"faceId":"334",
-			"facenote":1,
+			"faceId":"334_0",
 			"combat":10,
 			"develop":10,
 			"baseDev":33,
@@ -1099,7 +1056,7 @@
 		{
 			"uniqueId":29,
 			"nameId":"staff_name_99_148",
-			"faceId":"637",
+			"faceId":"637_0",
 			"combat":79,
 			"develop":20,
 			"baseDev":10,
@@ -1120,8 +1077,7 @@
 		{
 			"uniqueId":222,
 			"nameId":"staff_name_99_119",
-			"faceId":"050",
-			"facenote":1,
+			"faceId":"050_0",
 			"combat":10,
 			"develop":20,
 			"baseDev":20,
@@ -1141,7 +1097,7 @@
 		{
 			"uniqueId":97,
 			"nameId":"staff_name_99_140",
-			"faceId":"368",
+			"faceId":"368_0",
 			"combat":36,
 			"develop":48,
 			"baseDev":40,
@@ -1163,7 +1119,7 @@
 		{
 			"uniqueId":31,
 			"nameId":"staff_name_99_064",
-			"faceId":"639",
+			"faceId":"639_0",
 			"combat":30,
 			"develop":30,
 			"baseDev":30,
@@ -1206,8 +1162,7 @@
 		{
 			"uniqueId":234,
 			"nameId":"staff_name_99_120",
-			"faceId":"063",
-			"facenote":1,
+			"faceId":"063_0",
 			"combat":48,
 			"develop":76,
 			"baseDev":38,
@@ -1248,8 +1203,7 @@
 		{
 			"uniqueId":235,
 			"nameId":"staff_name_99_121",
-			"faceId":"099",
-			"facenote":1,
+			"faceId":"099_0",
 			"combat":10,
 			"develop":48,
 			"baseDev":38,
@@ -1269,8 +1223,7 @@
 		{
 			"uniqueId":236,
 			"nameId":"staff_name_99_122",
-			"faceId":"078",
-			"facenote":1,
+			"faceId":"078_0",
 			"combat":44,
 			"develop":38,
 			"baseDev":72,
@@ -1290,8 +1243,7 @@
 		{
 			"uniqueId":237,
 			"nameId":"staff_name_99_123",
-			"faceId":"036",
-			"facenote":1,
+			"faceId":"036_0",
 			"combat":38,
 			"develop":10,
 			"baseDev":38,
@@ -1311,8 +1263,7 @@
 		{
 			"uniqueId":225,
 			"nameId":"staff_name_99_124",
-			"faceId":"017",
-			"facenote":1,
+			"faceId":"017_0",
 			"combat":10,
 			"develop":51,
 			"baseDev":35,
@@ -1352,7 +1303,7 @@
 		{
 			"uniqueId":16,
 			"nameId":"staff_name_99_099",
-			"faceId":"600",
+			"faceId":"600_0",
 			"combat":80,
 			"develop":20,
 			"baseDev":16,
@@ -1372,8 +1323,7 @@
 		{
 			"uniqueId":226,
 			"nameId":"staff_name_99_125",
-			"faceId":"174",
-			"facenote":1,
+			"faceId":"174_0",
 			"combat":10,
 			"develop":35,
 			"baseDev":35,
@@ -1393,8 +1343,7 @@
 		{
 			"uniqueId":229,
 			"nameId":"staff_name_99_126",
-			"faceId":"320",
-			"facenote":1,
+			"faceId":"320_0",
 			"combat":10,
 			"develop":64,
 			"baseDev":30,
@@ -1414,8 +1363,7 @@
 		{
 			"uniqueId":230,
 			"nameId":"staff_name_99_127",
-			"faceId":"033",
-			"facenote":1,
+			"faceId":"033_0",
 			"combat":30,
 			"develop":48,
 			"baseDev":48,
@@ -1435,8 +1383,7 @@
 		{
 			"uniqueId":231,
 			"nameId":"staff_name_99_128",
-			"faceId":"332",
-			"facenote":1,
+			"faceId":"332_0",
 			"combat":10,
 			"develop":30,
 			"baseDev":68,
@@ -1456,7 +1403,7 @@
 		{
 			"uniqueId":232,
 			"nameId":"staff_name_99_131",
-			"faceId":"625",
+			"faceId":"625_0",
 			"combat":55,
 			"develop":48,
 			"baseDev":30,
@@ -1476,7 +1423,7 @@
 		{
 			"uniqueId":233,
 			"nameId":"staff_name_99_132",
-			"faceId":"626",
+			"faceId":"626_0",
 			"combat":65,
 			"develop":48,
 			"baseDev":48,
@@ -1496,8 +1443,7 @@
 		{
 			"uniqueId":238,
 			"nameId":"staff_name_99_134",
-			"faceId":"008",
-			"facenote":1,
+			"faceId":"008_0",
 			"combat":77,
 			"develop":38,
 			"baseDev":48,
@@ -1517,8 +1463,7 @@
 		{
 			"uniqueId":216,
 			"nameId":"staff_name_99_145",
-			"faceId":"221",
-			"facenote":1,
+			"faceId":"221_0",
 			"combat":88,
 			"develop":45,
 			"baseDev":56,
@@ -1540,7 +1485,7 @@
 		{
 			"uniqueId":88,
 			"nameId":"staff_name_99_055",
-			"faceId":"040",
+			"faceId":"040_0",
 			"combat":20,
 			"develop":32,
 			"baseDev":15,
@@ -1561,8 +1506,7 @@
 		{
 			"uniqueId":218,
 			"nameId":"staff_name_99_146",
-			"faceId":"262",
-			"facenote":1,
+			"faceId":"262_0",
 			"combat":88,
 			"develop":67,
 			"baseDev":23,
@@ -1584,7 +1528,7 @@
 		{
 			"uniqueId":56,
 			"nameId":"staff_name_99_111",
-			"faceId":"635",
+			"faceId":"635_0",
 			"combat":28,
 			"develop":20,
 			"baseDev":7,
@@ -1605,7 +1549,7 @@
 		{
 			"uniqueId":227,
 			"nameId":"unique_staff_eye",
-			"faceId":"627",
+			"faceId":"627_0",
 			"combat":40,
 			"develop":35,
 			"baseDev":35,
@@ -1645,7 +1589,7 @@
 		{
 			"uniqueId":244,
 			"nameId":"unique_staff_f_dd",
-			"faceId":"682",
+			"faceId":"682_0",
 			"combat":30,
 			"develop":48,
 			"baseDev":48,
@@ -1666,7 +1610,7 @@
 		{
 			"uniqueId":246,
 			"nameId":"unique_staff_f_fh",
-			"faceId":"681",
+			"faceId":"681_0",
 			"combat":80,
 			"develop":44,
 			"baseDev":48,
@@ -1687,7 +1631,7 @@
 		{
 			"uniqueId":240,
 			"nameId":"unique_staff_f_fx",
-			"faceId":"685",
+			"faceId":"685_0",
 			"combat":40,
 			"develop":47,
 			"baseDev":40,
@@ -1708,7 +1652,7 @@
 		{
 			"uniqueId":228,
 			"nameId":"unique_staff_finger",
-			"faceId":"628",
+			"faceId":"628_0",
 			"combat":61,
 			"develop":35,
 			"baseDev":35,
@@ -1728,7 +1672,7 @@
 		{
 			"uniqueId":65,
 			"nameId":"staff_name_99_031",
-			"faceId":"613",
+			"faceId":"613_0",
 			"combat":40,
 			"develop":66,
 			"baseDev":11,
@@ -1750,7 +1694,7 @@
 		{
 			"uniqueId":242,
 			"nameId":"unique_staff_f_msf",
-			"faceId":"686",
+			"faceId":"686_0",
 			"combat":54,
 			"develop":32,
 			"baseDev":64,
@@ -1771,7 +1715,7 @@
 		{
 			"uniqueId":110,
 			"nameId":"unique_staff_hideo",
-			"faceId":"622",
+			"faceId":"622_0",
 			"combat":32,
 			"develop":80,
 			"baseDev":64,
@@ -1791,7 +1735,7 @@
 		{
 			"uniqueId":21,
 			"nameId":"staff_name_99_039",
-			"faceId":"617",
+			"faceId":"617_0",
 			"combat":95,
 			"develop":13,
 			"baseDev":10,
@@ -1813,7 +1757,7 @@
 		{
 			"uniqueId":22,
 			"nameId":"staff_name_99_040",
-			"faceId":"618",
+			"faceId":"618_0",
 			"combat":40,
 			"develop":80,
 			"baseDev":32,
@@ -1836,7 +1780,7 @@
 		{
 			"uniqueId":243,
 			"nameId":"unique_staff_m_dd",
-			"faceId":"683",
+			"faceId":"683_0",
 			"combat":48,
 			"develop":30,
 			"baseDev":80,
@@ -1856,7 +1800,7 @@
 		{
 			"uniqueId":245,
 			"nameId":"unique_staff_m_fh",
-			"faceId":"680",
+			"faceId":"680_0",
 			"combat":44,
 			"develop":48,
 			"baseDev":44,
@@ -1876,7 +1820,7 @@
 		{
 			"uniqueId":89,
 			"nameId":"staff_name_99_138",
-			"faceId":"164",
+			"faceId":"164_0",
 			"combat":30,
 			"develop":30,
 			"baseDev":30,
@@ -1897,7 +1841,7 @@
 		{
 			"uniqueId":239,
 			"nameId":"unique_staff_m_fx",
-			"faceId":"684",
+			"faceId":"684_0",
 			"combat":47,
 			"develop":48,
 			"baseDev":45,
@@ -1917,7 +1861,7 @@
 		{
 			"uniqueId":241,
 			"nameId":"unique_staff_m_msf",
-			"faceId":"687",
+			"faceId":"687_0",
 			"combat":55,
 			"develop":32,
 			"baseDev":32,
@@ -1937,7 +1881,7 @@
 		{
 			"uniqueId":15,
 			"nameId":"staff_name_99_001",
-			"faceId":"609",
+			"faceId":"609_0",
 			"combat":55,
 			"develop":48,
 			"baseDev":62,
@@ -1958,7 +1902,7 @@
 		{
 			"uniqueId":37,
 			"nameId":"staff_name_99_005",
-			"faceId":"620",
+			"faceId":"620_0",
 			"combat":20,
 			"develop":34,
 			"baseDev":75,
@@ -2084,7 +2028,7 @@
 		{
 			"uniqueId":48,
 			"nameId":"staff_name_99_015",
-			"faceId":"145",
+			"faceId":"145_0",
 			"combat":64,
 			"develop":11,
 			"baseDev":20,
@@ -2229,7 +2173,7 @@
 		{
 			"uniqueId":58,
 			"nameId":"staff_name_99_025",
-			"faceId":"001",
+			"faceId":"001_0",
 			"combat":48,
 			"develop":88,
 			"baseDev":20,
@@ -2292,7 +2236,7 @@
 		{
 			"uniqueId":61,
 			"nameId":"staff_name_99_028",
-			"faceId":"605",
+			"faceId":"605_0",
 			"combat":40,
 			"develop":20,
 			"baseDev":20,
@@ -2313,7 +2257,7 @@
 		{
 			"uniqueId":20,
 			"nameId":"staff_name_99_029",
-			"faceId":"643",
+			"faceId":"643_0",
 			"combat":40,
 			"develop":66,
 			"baseDev":63,
@@ -2337,7 +2281,7 @@
 		{
 			"uniqueId":63,
 			"nameId":"staff_name_99_030",
-			"faceId":"611",
+			"faceId":"611_0",
 			"combat":11,
 			"develop":70,
 			"baseDev":20,
@@ -2358,7 +2302,7 @@
 		{
 			"uniqueId":64,
 			"nameId":"staff_name_99_032",
-			"faceId":"612",
+			"faceId":"612_0",
 			"combat":30,
 			"develop":64,
 			"baseDev":38,
@@ -2421,7 +2365,7 @@
 		{
 			"uniqueId":68,
 			"nameId":"staff_name_99_035",
-			"faceId":"649",
+			"faceId":"649_0",
 			"combat":110,
 			"develop":38,
 			"baseDev":38,
@@ -2800,7 +2744,7 @@
 		{
 			"uniqueId":93,
 			"nameId":"staff_name_99_060",
-			"faceId":"163",
+			"faceId":"163_0",
 			"combat":11,
 			"develop":30,
 			"baseDev":26,
@@ -2821,7 +2765,7 @@
 		{
 			"uniqueId":94,
 			"nameId":"staff_name_99_061",
-			"faceId":"374",
+			"faceId":"374_0",
 			"combat":30,
 			"develop":35,
 			"baseDev":20,
@@ -3030,7 +2974,7 @@
 		{
 			"uniqueId":19,
 			"nameId":"staff_name_99_073",
-			"faceId":"608",
+			"faceId":"608_0",
 			"combat":57,
 			"develop":16,
 			"baseDev":47,
@@ -3288,7 +3232,7 @@
 		{
 			"uniqueId":49,
 			"nameId":"staff_name_99_108",
-			"faceId":"183",
+			"faceId":"183_0",
 			"combat":32,
 			"develop":80,
 			"baseDev":38,
@@ -3349,7 +3293,7 @@
 		{
 			"uniqueId":27,
 			"nameId":"staff_name_99_116",
-			"faceId":"645",
+			"faceId":"645_0",
 			"combat":120,
 			"develop":20,
 			"baseDev":60,
@@ -3391,7 +3335,7 @@
 		{
 			"uniqueId":62,
 			"nameId":"staff_name_99_118",
-			"faceId":"606",
+			"faceId":"606_0",
 			"combat":64,
 			"develop":38,
 			"baseDev":38,
@@ -3507,7 +3451,7 @@
 		{
 			"uniqueId":96,
 			"nameId":"staff_name_99_139",
-			"faceId":"333",
+			"faceId":"333_0",
 			"combat":48,
 			"develop":66,
 			"baseDev":15,
@@ -3569,7 +3513,7 @@
 		{
 			"uniqueId":12,
 			"nameId":"staff_name_99_143",
-			"faceId":"246",
+			"faceId":"246_0",
 			"combat":20,
 			"develop":78,
 			"baseDev":52,
@@ -3629,7 +3573,7 @@
 		{
 			"uniqueId":18,
 			"nameId":"unique_staff_Malak",
-			"faceId":"607",
+			"faceId":"607_0",
 			"combat":33,
 			"develop":57,
 			"baseDev":15,
@@ -3669,7 +3613,7 @@
 		{
 			"uniqueId":44,
 			"nameId":"unique_staff_Viscount",
-			"faceId":"610",
+			"faceId":"610_0",
 			"combat":21,
 			"develop":40,
 			"baseDev":21,
