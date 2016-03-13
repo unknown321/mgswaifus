@@ -1,259 +1,279 @@
 {
     "missions": [
         {
-            "id": 1,
+            "id": 0,
             "missionId": 10010,
             "name": "Prologue Awekening"
         },
         {
-            "id": 2,
+            "id": 1,
             "missionId": 10020,
             "name": "Phantom Limbs"
         },
         {
-            "id": 3,
+            "id": 2,
             "missionId": 10030,
             "name": "Flashback Diamond Dogs"
         },
         {
-            "id": 4,
+            "id": 3,
             "missionId": 10036,
             "name": "A Heros Way"
         },
         {
-            "id": 5,
+            "id": 4,
             "missionId": 10043,
             "name": "C2W"
         },
         {
-            "id": 6,
+            "id": 5,
             "missionId": 10033,
             "name": "Over the Fence"
         },
         {
-            "id": 7,
+            "id": 6,
             "missionId": 10040,
             "name": "Where Do the Bees Sleep"
         },
         {
-            "id": "08",
+            "id": 7,
             "missionId": 10041,
             "name": "Red Brass"
         },
         {
-            "id": "09",
+            "id": 8,
             "missionId": 10044,
             "name": "Occupation Forces"
         },
         {
-            "id": 10,
+            "id": 9,
             "missionId": 10054,
             "name": "Backup Back Down"
         },
         {
-            "id": 11,
+            "id": 10,
             "missionId": 10052,
             "name": "Angel With Broken Wings"
         },
         {
-            "id": 12,
+            "id": 11,
             "missionId": 10050,
             "name": "Cloaked in Silence"
         },
         {
-            "id": 13,
+            "id": 12,
             "missionId": 10070,
             "name": "Hellbound"
         },
         {
-            "id": 14,
+            "id": 13,
             "missionId": 10080,
             "name": "Pitch Dark"
         },
         {
-            "id": 15,
+            "id": 14,
             "missionId": 10086,
             "name": "Lingua Franca"
         },
         {
-            "id": 16,
+            "id": 15,
             "missionId": 10082,
             "name": "Footprints of Phantoms"
         },
         {
-            "id": 17,
+            "id": 16,
             "missionId": 10090,
             "name": "Traitors Caravan"
         },
         {
-            "id": 18,
+            "id": 17,
             "missionId": 10091,
             "name": "Rescue the Intel Agents"
         },
         {
-            "id": 19,
+            "id": 18,
             "missionId": 10100,
             "name": "Blood Runs Deep"
         },
         {
-            "id": 20,
+            "id": 19,
             "missionId": 10195,
             "name": "On the Trail"
         },
         {
-            "id": 21,
+            "id": 20,
             "missionId": 10110,
             "name": "Voices"
         },
         {
-            "id": 22,
+            "id": 21,
             "missionId": 10121,
             "name": "The War Economy"
         },
         {
-            "id": 23,
+            "id": 22,
             "missionId": 10115,
             "name": "Retake the Platform"
         },
         {
-            "id": 24,
+            "id": 23,
             "missionId": 10120,
             "name": "The White Mamba"
         },
         {
-            "id": 25,
+            "id": 24,
             "missionId": 10085,
             "name": "Close Contact"
         },
         {
-            "id": 26,
+            "id": 25,
             "missionId": 10200,
             "name": "Aim True Ye Vengeful"
         },
         {
-            "id": 27,
+            "id": 26,
             "missionId": 10211,
             "name": "Hunting Down"
         },
         {
-            "id": 28,
+            "id": 27,
             "missionId": 10081,
             "name": "Root Cause"
         },
         {
-            "id": 29,
+            "id": 28,
             "missionId": 10130,
             "name": "Code Talker"
         },
         {
-            "id": 30,
+            "id": 29,
             "missionId": 10140,
             "name": "Metallic Archaea"
         },
         {
-            "id": 31,
+            "id": 30,
             "missionId": 10150,
             "name": "Skull Face"
         },
         {
-            "id": 32,
+            "id": 31,
             "missionId": 10151,
             "name": "Sahelanthropus"
         },
         {
-            "id": 33,
+            "id": 32,
             "missionId": 10045,
             "name": "To Know Too Much"
         },
         {
-            "id": 34,
+            "id": 33,
             "missionId": 11043,
             "name": "Subsistence C2W"
         },
         {
-            "id": 35,
+            "id": 34,
             "missionId": 11054,
             "name": "Extreme Backup, Back Down"
         },
         {
-            "id": 36,
+            "id": 35,
             "missionId": 10093,
             "name": "Cursed Legacy"
         },
         {
-            "id": 37,
+            "id": 36,
             "missionId": 11082,
             "name": "Total Stealth Footprints of Phantoms"
         },
         {
-            "id": 38,
+            "id": 37,
             "missionId": 11090,
             "name": "Extreme Traitors Caravan"
         },
         {
-            "id": 39,
+            "id": 38,
             "missionId": 10156,
             "name": "Extraordinary"
         },
         {
-            "id": 40,
+            "id": 39,
             "missionId": 11033,
             "name": "Total Stealth Over the Fence"
         },
         {
-            "id": 41,
+            "id": 40,
             "missionId": 11050,
             "name": "Extreme Cloaked in Silence"
         },
         {
-            "id": 42,
+            "id": 41,
             "missionId": 10171,
             "name": "Proxy War Without End"
         },
         {
-            "id": 43,
+            "id": 42,
             "missionId": 11140,
             "name": "Extreme Metallic Archaea"
         },
         {
-            "id": 44,
+            "id": 43,
             "missionId": 10240,
             "name": "Shining Lights, Even in Death"
         },
         {
-            "id": 45,
+            "id": 44,
             "missionId": 11080,
             "name": "Total Stealth Pitch Dark"
         },
         {
-            "id": 46,
+            "id": 45,
             "missionId": 10260,
             "name": "A Quiet Exit"
         },
         {
-            "id": 47,
+            "id": 46,
             "missionId": 10280,
             "name": "Truth - The Man Who Sold the World"
         },
         {
-            "id": 48,
+            "id": 47,
             "missionId": 11121,
             "name": "Total Stealth The War Economy"
         },
         {
-            "id": 49,
+            "id": 48,
             "missionId": 11130,
             "name": "Extreme Code Talker"
         },
         {
-            "id": 50,
+            "id": 49,
             "missionId": 11044,
             "name": "Subsistence Occupation Forces"
         },
         {
-            "id": 51,
+            "id": 50,
             "missionId": 11151,
             "name": "Extreme Sahelanthropus"
+        },
+        {
+            "id": -1,
+            "missionId": "msf",
+            "name": "Extract Wandering Mother Base Soldiers"
+        },
+        {
+            "id": -2,
+            "missionId": 0,
+            "name": "No mission attached (sideops?)"
+        },
+        {
+            "id": -3,
+            "missionId": -3,
+            "name": "Promo soldiers"
+        },
+        {
+            "id": -4,
+            "missionId": -4,
+            "name": "Translators sideops"
         }
     ]
 }

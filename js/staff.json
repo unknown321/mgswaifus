@@ -1602,7 +1602,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":-3,
 			"name":"Garnet Canine",
 			"notes": "Phantom Pain Pre-order",
 			"gender":0
@@ -1623,7 +1623,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":-3,
 			"name":"Emerald Hound",
 			"notes": "XBONE Pre-order, DLC",
 			"gender":0
@@ -1644,7 +1644,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":-3,
 			"name":"Amber Fox",
 			"notes": "Ground Zeroes Day One Pre-order",
 			"gender":0
@@ -1707,7 +1707,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":-3,
 			"name":"Ivory Skull",
 			"notes": "Ground Zeroes Jap Pre-order",
 			"gender":0
@@ -1793,7 +1793,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":-3,
 			"name":"Crimson Canine",
 			"notes": "Phantom Pain Pre-order"
 		},
@@ -1813,7 +1813,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":-3,
 			"name":"Viridian Hound",
 			"notes": "XBONE Pre-order, DLC"
 		},
@@ -1854,7 +1854,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":-3,
 			"name":"Gold Fox",
 			"notes": "Ground Zeroes Day One Pre-order"
 		},
@@ -1874,7 +1874,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":-3,
 			"name":"Silver Skull",
 			"notes": "Ground Zeroes Jap Pre-order"
 		},
@@ -2409,7 +2409,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Komodo Dragon",
 			"notes":"Sideops MSF staff #1"
 		},
@@ -2429,7 +2429,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Jackal",
 			"notes":"Sideops MSF staff #2"
 		},
@@ -2449,7 +2449,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Parrot",
 			"notes":"Sideops MSF staff #3"
 		},
@@ -2468,7 +2468,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Raven",
 			"notes":"Sideops MSF staff"
 		},
@@ -2487,7 +2487,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Eagle Ray",
 			"notes":"Sideops MSF staff"
 		},
@@ -2506,7 +2506,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Viper",
 			"notes":"Sideops MSF staff"
 		},
@@ -2525,7 +2525,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Elephant",
 			"notes":"Sideops MSF staff"
 		},
@@ -3252,7 +3252,7 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"lang":"Russian",
-			"missionId":0,
+			"missionId":-4,
 			"name":"Ochre Capybara",
 			"notes":"Sideops Extract interpreter (Russian)"
 		},
@@ -3397,7 +3397,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Falcon",
 			"notes":"Sideops MSF staff"
 		},
@@ -3416,7 +3416,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Ostrich",
 			"notes":"Sideops MSF staff"
 		},
@@ -3453,7 +3453,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"msf",
 			"name":"Rat",
 			"notes":"Sideops MSF staff"
 		},

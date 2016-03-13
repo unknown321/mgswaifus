@@ -34,17 +34,15 @@
     <div class='row'>
       <div class='large-12 columns'>
         <a href="#" class='button' onclick='females_only()'>Females only</a>
+        <a href="#" class='button' onclick='unique_only()'>Unique faces only</a>
       </div>
     </div>
 
     <div class='row' id='staff'>
-      <div class='row' id='staff_0'></div>
     </div>
 
     <div class='row' id='faceless_staff'>
-      <h4>These characters don't have faces attached to them (they are still unique)</h4>
       <p id='faceless_count'></p>
-      <div class='large-12 columns' id='faceless_staff_1'></div>
     </div>
 
     <div class='row' id='names'>
@@ -92,6 +90,12 @@
         $('.soldier-male').toggle()
       }
 
+
+      function unique_only()
+      {
+        $('.non-unique').toggle()
+      }
+
       function append_info(f)
       //create column with info and pic
       {
@@ -101,6 +105,15 @@
           col = col + 'soldier-female'
         else
           col = col + 'soldier-male'
+        if ('faceId' in f)
+        {
+          var fid = f.faceId.split("_")
+          if (fid[0] < 600)
+           col = col + ' non-unique'
+        }
+        else
+          col = col + ' non-unique'
+
         col = col + "'>\
           <div class='media-object'>\
             <div class='media-object-section bottom'>\
@@ -117,11 +130,11 @@
           column = column + "<br>Lang: " + f.lang 
         if (f.skill != 'None')
           column = column + "<br>Skill: " + f.skill 
-        if ('missionId' in f)
-        {
-          if (f.missionId != 0 )
-            column = column + "<br>Mission: " + f.missionName   
-        }
+        // if ('missionId' in f)
+        // {
+        //   if (f.missionId != 0 )
+        //     column = column + "<br>Mission: " + f.missionName   
+        // }
         column = column + "<br>Unit: " + get_best_unit(f)
         if ('notes' in f)
           column = column + "<br><i>*" + f.notes + "</i>"
@@ -130,6 +143,8 @@
           var fid = f.faceId.split("_")
           if (fid[0] < 600)
            column = column + "<br><i>face slightly varies</i>"
+          else
+            column = column + "<br><i>unique face</i>"
         }
         
 
@@ -151,38 +166,67 @@
         }
       }
 
-      $.getJSON('js/staff.json', function(data) {
-        var current_row = 0
-        var faceless_total = 0
-        $.each(data.staff, function(i,f) {
-          var column = append_info(f)
-          if ('faceId' in f)
-          {
-            if ((i%4===0)&&(i!=0))
-            {
-              current_row = i/4
-              $('#staff').append("<div class='row' id='staff_"+current_row+"'></div>")
-            }
-            $('#staff_'+current_row).append(column)
-          } 
-          else 
-          {
-            faceless_total = faceless_total + 1
-            if ((i%4===0)&&(i!=0))
-            {
-              current_row = i/4
-              $('#faceless_staff').append("<div class='row' id='faceless_staff_"+current_row+"'></div>")
-            }
-            $('#faceless_staff_'+current_row).append(column)
-          }
-        })
-        //fix_last_row('staff',current_row)
-        //todo - last raw of staff with faces won't fix itself because current_row is wrong
-        fix_last_row('faceless_staff',current_row)
 
+      var faceless = []
+      var staff
+      $.getJSON('js/staff.json').done(function (data) {staff = data})
+
+      $.getJSON('js/missions.json').done(function (data){
+        $.each(data.missions, function (i,f)
+        {
+          var staff_count = 0
+          var current_row = 0
+          
+          $.map(staff.staff, function(staff_member) {
+            if (!('faceId' in staff_member))
+            {
+                var i
+                var already_here = false
+                for (i=0; i<faceless.length; i++)
+                {
+                  if (faceless[i] == staff_member)
+                    already_here = true
+                }
+                if (already_here === false)
+                  faceless.push(staff_member)
+            }
+
+            if (staff_member.missionId == f.missionId)
+            {
+              staff_count++
+              if (staff_count == 1)
+              {
+                $('#staff').append("<div class='row'><div class='large-12 column'><h2 id='mission_"+f.missionId +"'>Mission " + f.id + ': ' + f.name+"</h1></div></div>")
+                $('#staff').append("<div class='row' id='staff_0_" + f.missionId + "'></div>")
+              }
+
+              var column = append_info(staff_member)
+              $('#staff_'+current_row+'_'+f.missionId).append(column)
+
+              if ( (((staff_count)%4 == 0)&&(staff_count!=0)) )
+              {
+                  current_row = Math.floor(staff_count/4)
+                  $('#staff').append("<div class='row' id='staff_"+current_row+'_' + f.missionId+"'></div>")
+              }
+
+            }
+          })
+
+          if ( (staff_count != 0) && (staff_count%4 > 0) )
+              $('#staff_'+current_row+'_'+f.missionId).append("<div class='large-3 column'></div>")
+
+          if (staff_count > 0)
+            $('#mission_'+f.missionId).append(' (' + staff_count + ')')
+        })
         $("img.lazy").lazyload();
-        $('#faceless_count').html('Faceless staff members: ' + faceless_total)
+        $('#faceless_count').html('Faceless staff members: ' + faceless.length + '; ')
+        $.each(faceless, function (i, staff_member){
+          $('#faceless_count').append(staff_member.name)
+          if (i < faceless.length-1)
+            $('#faceless_count').append(', ')
+        })
       })
+
 
     </script>
   </body>
