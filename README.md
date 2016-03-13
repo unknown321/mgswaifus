@@ -15,3 +15,5 @@ Notes are based on ingame scripts and can be inaccurate.
 You can get pics by extracting them using <a href="https://www.dropbox.com/s/0rtpumx2mxsjaby/MGSV_QAR_Tool.rar?dl=0">MGSV QAR Tool v1.3 by Sergeanur</a> (and convert with <a href="https://github.com/Atvaark/FtexTool">FtexTool</a>) (there was a MEGA link, but github doesn't like it). Or just clone this repository.
 
 Any help finding remaining portraits and info about sidemissions would be appreciated.
+
+If you want to use this website's materials in your own articles/web sites/wherever, please link this repository as a source. Thanks.
