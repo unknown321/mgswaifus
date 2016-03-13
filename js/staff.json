@@ -154,6 +154,7 @@
 			"lang":"English",
 			"missionId":10151,
 			"name":"Flaming Buffalo",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 31)",
 			"gender":0
 		},
@@ -175,6 +176,7 @@
 			"lang":"English",
 			"missionId":10151,
 			"name":"Running Mongoose",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (missions 13, 31)"
 		},
 		{
@@ -195,6 +197,7 @@
 			"lang":"English",
 			"missionId":10151,
 			"name":"Frantic Squirrel",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 31)"
 		},
 		{
@@ -215,6 +218,7 @@
 			"lang":"English",
 			"missionId":10151,
 			"name":"Blazing Mastodon",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 31)"
 		},
 		{
@@ -235,6 +239,7 @@
 			"lang":"English",
 			"missionId":10151,
 			"name":"Biting Tree Frog",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 31)",
 			"gender":0
 		},
@@ -256,6 +261,7 @@
 			"lang":"English",
 			"missionId":10151,
 			"name":"Gray Chameleon",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 31)",
 			"gender":0
 		},
@@ -277,6 +283,7 @@
 			"lang":"English",
 			"missionId":10280,
 			"name":"Razor Hedgehog",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 46)"
 		},
 		{
@@ -297,6 +304,7 @@
 			"lang":"English",
 			"missionId":10280,
 			"name":"Howling Platypus",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 46)"
 		},
 		{
@@ -317,6 +325,7 @@
 			"lang":"English",
 			"missionId":10280,
 			"name":"Blue Salamander",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 46)"
 		},
 		{
@@ -337,6 +346,7 @@
 			"lang":"English",
 			"missionId":10280,
 			"name":"Creeping Buzzard",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 46)",
 			"gender":0
 		},
@@ -358,6 +368,7 @@
 			"lang":"English",
 			"missionId":10280,
 			"name":"Glacier Mongoose",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 46)",
 			"gender":0
 		},
@@ -379,6 +390,7 @@
 			"lang":"English",
 			"missionId":10280,
 			"name":"Spunky Platypus",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 46)"
 		},
 		{
@@ -398,8 +410,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Stone Mastodon",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00009",
 			"notes": "Fulton lesson"
 		},
@@ -420,8 +432,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Dire Barracuda",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00008",
 			"notes": "Fulton lesson"
 		},
@@ -442,8 +454,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Roaring Stallion",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00003",
 			"notes": "Fulton lesson"
 		},
@@ -465,6 +477,7 @@
 			"lang":"English",
 			"missionId":10030,
 			"name":"Sly Harrier",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00016",
 			"notes": "Initial staff member"
 		},
@@ -485,8 +498,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Hunting Harrier",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00002",
 			"notes": "Fulton lesson"
 		},
@@ -507,8 +520,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Growling Harrier",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00001",
 			"notes": "Fulton lesson"
 		},
@@ -529,8 +542,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Night Crocodile",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00011",
 			"notes": "Fulton lesson"
 		},
@@ -551,8 +564,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Roaring Hedgehog",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00013",
 			"notes": "Fulton lesson"
 		},
@@ -573,8 +586,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Brass Armadillo",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00014",
 			"notes": "Fulton lesson"
 		},
@@ -595,8 +608,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Pouncing Wallaby",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00010",
 			"notes": "Fulton lesson"
 		},
@@ -617,8 +630,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Jumping Harrier",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00007",
 			"notes": "Fulton lesson"
 		},
@@ -640,6 +653,7 @@
 			"lang":"English",
 			"missionId":10030,
 			"name":"Jade Tree Frog",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00017",
 			"notes": "Initial staff member"
 		},
@@ -660,8 +674,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Blue Mastodon",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00006",
 			"notes": "Fulton lesson"
 		},
@@ -682,8 +696,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Sadistic Mastiff",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00012",
 			"notes": "Fulton lesson"
 		},
@@ -706,6 +720,7 @@
 			"lang":"Afrikaans",
 			"missionId":10090,
 			"name":"Lonely Buffalo",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 16)"
 		},
 		{
@@ -727,6 +742,7 @@
 			"lang":"Russian",
 			"missionId":10070,
 			"name":"Hungry Squirrel",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 12)"
 		},
 		{
@@ -747,8 +763,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10080,
-			"missionName":"13 Pitch Dark",
-			"name":"Hulking Mastiff"
+			"name":"Hulking Mastiff",
+			"fid_from_scripts":1
 		},
 		{
 			"uniqueId":210,
@@ -768,8 +784,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10086,
-			"missionName":"14 Lingua Franca",
 			"name":"Night Sturgeon",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 14)"
 		},
 		{
@@ -790,8 +806,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10086,
-			"missionName":"14 Lingua Franca",
 			"name":"Raging Buzzard",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 14)"
 		},
 		{
@@ -812,8 +828,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10082,
-			"missionName":"15 Footprints of Phantoms",
 			"name":"Killer Stallion",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 15)"
 		},
 		{
@@ -834,8 +850,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10091,
-			"missionName":"17 Rescue the Intel Agents",
 			"name":"Brutal Tree Frog",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 17)"
 		},
 		{
@@ -856,8 +872,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10195,
-			"missionName":"19 On the Trail",
 			"name":"Bastard Harrier",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 19)"
 		},
 		{
@@ -878,8 +894,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10100,
-			"missionName":"18 Blood Runs Deep",
 			"name":"Green Sturgeon",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 18)"
 		},
 		{
@@ -899,7 +915,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10041,
-			"missionName":"7 Red Brass",
 			"name":"Biting Barracuda",
 			"screenshot":"2016-01-29_00010",
 			"notes":"Village commander"
@@ -922,8 +937,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10110,
-			"missionName":"20 Voices",
 			"name":"Green Tree Frog",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 20)"
 		},
 		{
@@ -944,6 +959,7 @@
 			"lang":"English",
 			"missionId":10030,
 			"name":"White Mastodon",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00015",
 			"notes": "Initial staff member"
 		},
@@ -964,8 +980,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Rumble Tarantula",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00005",
 			"notes": "Fulton lesson"
 		},
@@ -986,8 +1002,8 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10030,
-			"missionName":"2 Flashback Diamond Dogs",
 			"name":"Dire Crocodile",
+			"fid_from_scripts":1,
 			"screenshot":"2016-01-25_00004",
 			"notes": "Fulton lesson"
 		},
@@ -1009,6 +1025,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Gray Wallaby",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1029,6 +1046,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Ochre Chameleon",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1049,6 +1067,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Grizzly Hedgehog",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1069,6 +1088,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Hungry Crocodile",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1088,7 +1108,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10041,
-			"missionName":"7 Red Brass",
 			"name":"Cunning Mastiff",
 			"screenshot":"2016-01-29_00003",
 			"notes":"Commander"
@@ -1111,6 +1130,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Wild Harrier",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1130,7 +1150,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10054,
-			"missionName":"9 Backup Back Down",
 			"name":"Ashen Platypus",
 			"screenshot":"2016-02-23_00006",
 			"notes":"Prisoner",
@@ -1153,7 +1172,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10041,
-			"missionName":"7 Red Brass",
 			"name":"Greedy Armadillo",
 			"screenshot":"2016-01-29_00012",
 			"notes":"Base commander"
@@ -1176,7 +1194,6 @@
 			"lang":"English",
 			"lang":"Russian",
 			"missionId":10033,
-			"missionName":"5 Over the Fence",
 			"name":"Spying Harrier",
 			"notes":"Prisoner"
 		},
@@ -1198,6 +1215,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Night Tree Frog",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1217,7 +1235,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10041,
-			"missionName":"7 Red Brass",
 			"name":"Hungry Barracuda",
 			"screenshot":"2016-01-29_00015",
 			"notes":"Driver"
@@ -1240,6 +1257,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Pirate Capybara",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1260,6 +1278,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Roaring Capybara",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1280,6 +1299,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Bitter Centipede",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1300,6 +1320,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Blue Chameleon",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1339,7 +1360,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10036,
-			"missionName":"3 A Heros Way",
 			"name":"Silent Mastodon",
 			"screenshot":"2016-01-27_00003"
 		},
@@ -1361,6 +1381,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Midnight Mastiff",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1381,6 +1402,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Frigid Mongoose",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1401,6 +1423,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Hunting Stallion",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1421,6 +1444,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Assassin Harrier",
+			"fid_from_scripts":1,
 			"notes":"(?) Prisoner / Volunteer"
 		},
 		{
@@ -1441,6 +1465,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Mad Wallaby",
+			"fid_from_scripts":1,
 			"notes":"(?)Marked as traitor"
 		},
 		{
@@ -1461,6 +1486,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Wild Stallion",
+			"fid_from_scripts":1,
 			"notes":"(?)Marked as mastermind"
 		},
 		{
@@ -1481,6 +1507,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Crying Sturgeon",
+			"fid_from_scripts":1,
 			"notes":"(?) Marked as genome soldier"
 		},
 		{
@@ -1501,8 +1528,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10110,
-			"missionName":"20 Voices",
 			"name":"Scowling Wallaby",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 20)"
 		},
 		{
@@ -1522,7 +1549,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10043,
-			"missionName":"4 C2W",
 			"name":"Steel Kangaroo",
 			"screenshot":"2016-01-27_00006",
 			"notes":"Prisoner"
@@ -1545,8 +1571,8 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10121,
-			"missionName":"21 The War Economy",
 			"name":"Fire Kangaroo",
+			"fid_from_scripts":1,
 			"notes":"Unique volunteer (mission 21)"
 		},
 		{
@@ -1566,7 +1592,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10020,
-			"missionName":"1 Phantom Limbs",
 			"name":"Wild Platypus",
 			"screenshot":"2016-01-27_00002",
 			"notes":"Base commander"
@@ -1589,6 +1614,7 @@
 			"lang":"English",
 			"missionId":10040,
 			"name":"Eye",
+			"fid_from_scripts":1,
 			"notes":"Volunteer after mission 6"
 		},
 		{
@@ -1607,7 +1633,6 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"missionId":10040,
-			"missionName":"6 Where Do the Bees Sleep",
 			"name":"Silent Basilisk",
 			"notes":"Mute Prisoner"
 		},
@@ -1629,6 +1654,7 @@
 			"lang":"English",
 			"missionId":-3,
 			"name":"Garnet Canine",
+			"fid_from_scripts":1,
 			"notes": "Phantom Pain Pre-order",
 			"gender":0
 		},
@@ -1650,6 +1676,7 @@
 			"lang":"English",
 			"missionId":-3,
 			"name":"Emerald Hound",
+			"fid_from_scripts":1,
 			"notes": "XBONE Pre-order, DLC",
 			"gender":0
 		},
@@ -1671,6 +1698,7 @@
 			"lang":"English",
 			"missionId":-3,
 			"name":"Amber Fox",
+			"fid_from_scripts":1,
 			"notes": "Ground Zeroes Day One Pre-order",
 			"gender":0
 		},
@@ -1692,6 +1720,7 @@
 			"lang":"English",
 			"missionId":10040,
 			"name":"Finger",
+			"fid_from_scripts":1,
 			"notes":"Volunteer after mission 6"
 		},
 		{
@@ -1711,7 +1740,6 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10086,
-			"missionName":"14 Lingua Franca",
 			"name":"Laughing Wallaby",
 			"notes":"Prisoner",
 			"gender":0
@@ -1734,6 +1762,7 @@
 			"lang":"English",
 			"missionId":-3,
 			"name":"Ivory Skull",
+			"fid_from_scripts":1,
 			"notes": "Ground Zeroes Jap Pre-order",
 			"gender":0
 		},
@@ -1755,6 +1784,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Hideo",
+			"fid_from_scripts":1,
 			"notes":"Prisoner directed by Hideo Kojima; sideops #112"
 		},
 		{
@@ -1775,7 +1805,6 @@
 			"lang":"English",
 			"lang":"Afrikaans",
 			"missionId":10121,
-			"missionName":"21 The War Economy",
 			"name":"Doom Kangaroo",
 			"notes":"PF Commander"
 		},
@@ -1798,7 +1827,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10121,
-			"missionName":"21 The War Economy",
 			"name":"Grizzly Squirrel",
 			"notes":"Arms dealer"
 		},
@@ -1820,6 +1848,7 @@
 			"lang":"English",
 			"missionId":-3,
 			"name":"Crimson Canine",
+			"fid_from_scripts":1,
 			"notes": "Phantom Pain Pre-order"
 		},
 		{
@@ -1840,6 +1869,7 @@
 			"lang":"English",
 			"missionId":-3,
 			"name":"Viridian Hound",
+			"fid_from_scripts":1,
 			"notes": "XBONE Pre-order, DLC"
 		},
 		{
@@ -1859,7 +1889,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10033,
-			"missionName":"5 Over the Fence",
 			"name":"Spunky Sturgeon",
 			"screenshot":"2016-01-27_00009",
 			"notes":"Prisoner"
@@ -1882,6 +1911,7 @@
 			"lang":"English",
 			"missionId":-3,
 			"name":"Gold Fox",
+			"fid_from_scripts":1,
 			"notes": "Ground Zeroes Day One Pre-order"
 		},
 		{
@@ -1902,6 +1932,7 @@
 			"lang":"English",
 			"missionId":-3,
 			"name":"Silver Skull",
+			"fid_from_scripts":1,
 			"notes": "Ground Zeroes Jap Pre-order"
 		},
 		{
@@ -1922,7 +1953,6 @@
 			"lang":"English",
 			"lang":"Afrikaans",
 			"missionId":10086,
-			"missionName":"14 Lingua Franca",
 			"name":"Raving Mongoose",
 			"screenshot":"2016-02-23_00012"
 		},
@@ -1944,7 +1974,6 @@
 			"lang":"English",
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Panzer Buffalo",
 			"screenshot":"2016-02-24_00015",
 			"notes":"Gun trafficker"
@@ -1967,7 +1996,6 @@
 			"lang":"English",
 			"lang":"Russian",
 			"missionId":10045,
-			"missionName":"32 To Know Too Much",
 			"name":"Rampant Buzzard",
 			"screenshot":"2016-02-26_00002",
 			"notes":"Prisoner"
@@ -1991,7 +2019,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10195,
-			"missionName":"19 On the Trail",
 			"name":"Mad Centipede",
 			"screenshot":"2016-02-23_00026",
 			"notes":"Major (target)"
@@ -2013,7 +2040,6 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":10195,
-			"missionName":"19 On the Trail",
 			"name":"Panzer Mongoose",
 			"screenshot":"2016-02-23_00028",
 			"notes":"Subordinate"
@@ -2034,7 +2060,6 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10200,
-			"missionName":"25 Aim True Ye Vengeful",
 			"name":"Howling Capybara",
 			"notes":"Child commander"
 		},
@@ -2056,7 +2081,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10100,
-			"missionName":"18 Blood Runs Deep",
 			"name":"Sunny Buzzard",
 			"screenshot":"2016-02-23_00025",
 			"notes":"First assassination target (marked as banana target in scripts, stands for 'banana plantation')"
@@ -2078,7 +2102,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10041,
-			"missionName":"7 Red Brass",
 			"name":"Sadistic Buzzard",
 			"screenshot":"2016-01-29_00014",
 			"notes":"Field com bodyguard"
@@ -2100,7 +2123,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10041,
-			"missionName":"7 Red Brass",
 			"name":"Flaming Basilisk",
 			"screenshot":"2016-01-29_00013",
 			"notes":"Base com bodyguard"
@@ -2122,7 +2144,6 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Green Tarantula",
 			"screenshot":"2016-02-24_00011",
 			"notes":"Bodyguard"
@@ -2145,7 +2166,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Bullet Platypus",
 			"screenshot":"2016-02-24_00008",
 			"notes":"Bodyguard"
@@ -2168,7 +2188,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Devil Squirrel",
 			"screenshot":"2016-02-24_00010",
 			"notes":"Bodyguard"
@@ -2190,7 +2209,6 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Sly Mastodon",
 			"screenshot":"2016-02-24_00016",
 			"notes":"Bodyguard"
@@ -2212,7 +2230,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10020,
-			"missionName":"1 Phantom Limbs",
 			"name":"Gray Salamander",
 			"screenshot":"2016-01-27_00001",
 			"notes":"Driver"
@@ -2235,7 +2252,6 @@
 			"lang":"English",
 			"lang":"Russian",
 			"missionId":10054,
-			"missionName":"9 Backup Back Down",
 			"name":"Vile Buffalo",
 			"screenshot":"2016-02-23_00002",
 			"notes":"Prisoner"
@@ -2257,7 +2273,6 @@
 			"lang":"Russian",
 			"lang":"Pashto",
 			"missionId":10040,
-			"missionName":"6 Where Do the Bees Sleep",
 			"name":"Copper Stallion",
 			"notes":"(?) Marked as enemy"
 		},
@@ -2277,7 +2292,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10040,
-			"missionName":"6 Where Do the Bees Sleep",
 			"name":"Blue Kangaroo",
 			"notes":"(?) Marked as enemy"
 		},
@@ -2298,7 +2312,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10040,
-			"missionName":"6 Where Do the Bees Sleep",
 			"name":"Dire Capybara",
 			"screenshot":"2016-01-29_00001",
 			"notes":"(?) Marked as enemy"
@@ -2322,7 +2335,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10085,
-			"missionName":"24 Close Contact",
 			"name":"Silent Crocodile",
 			"screenshot":"2016-02-24_00003",
 			"notes":"Female Prisoner",
@@ -2345,7 +2357,6 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10086,
-			"missionName":"14 Lingua Franca",
 			"name":"Crystal Squirrel",
 			"screenshot":"2016-02-23_00015",
 			"notes":"Prisoner"
@@ -2367,7 +2378,6 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10086,
-			"missionName":"14 Lingua Franca",
 			"name":"Cunning Stallion",
 			"screenshot":"2016-02-23_00013",
 			"notes":"Prisoner"
@@ -2390,7 +2400,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10091,
-			"missionName":"17 Rescue the Intel Agents",
 			"name":"Night Wallaby",
 			"screenshot":"2016-02-23_00024",
 			"notes":"CFA official"
@@ -2413,7 +2422,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10091,
-			"missionName":"17 Rescue the Intel Agents",
 			"name":"Bullet Armadillo",
 			"screenshot":"2016-02-23_00024",
 			"notes":"CFA official"
@@ -2435,7 +2443,6 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":10093,
-			"missionName":"35 Cursed Legacy",
 			"name":"Jade Capybara",
 			"screenshot":"2016-02-26_00007",
 			"notes":"Captain"
@@ -2658,7 +2665,6 @@
 			"lang":"Russian",
 			"lang":"Pashto",
 			"missionId":10052,
-			"missionName":"10 Angel With Broken Wings",
 			"name":"Blazing Buzzard",
 			"screenshot":"2016-02-23_00007"
 		},
@@ -2679,7 +2685,6 @@
 			"lang":"Russian",
 			"lang":"Pashto",
 			"missionId":10052,
-			"missionName":"10 Angel With Broken Wings",
 			"name":"Hungry Stallion"
 		},
 		{
@@ -2698,7 +2703,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10052,
-			"missionName":"10 Angel With Broken Wings",
 			"name":"Copper Buzzard"
 		},
 		{
@@ -2718,7 +2722,6 @@
 			"lang":"Russian",
 			"lang":"Pashto",
 			"missionId":10052,
-			"missionName":"10 Angel With Broken Wings",
 			"name":"Stalking Wallaby"
 		},
 		{
@@ -2738,7 +2741,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10043,
-			"missionName":"4 C2W",
 			"name":"Howling Stallion",
 			"screenshot":"2016-01-27_00004",
 			"notes":"Prisoner"
@@ -2760,7 +2762,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10041,
-			"missionName":"7 Red Brass",
 			"name":"Bitter Platypus",
 			"screenshot":"2016-01-29_00004",
 			"notes":"Prisoner"
@@ -2782,7 +2783,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10041,
-			"missionName":"7 Red Brass",
 			"name":"Ochre Harrier",
 			"screenshot":"2016-01-29_00008",
 			"notes":"Prisoner"
@@ -2804,7 +2804,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10044,
-			"missionName":"8 Occupation Forces",
 			"name":"Bullet Harrier",
 			"screenshot":"2016-02-16_00002",
 			"notes":"Prisoner"
@@ -2826,7 +2825,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10054,
-			"missionName":"9 Backup Back Down",
 			"name":"Blazing Stallion",
 			"screenshot":"2016-02-23_00004",
 			"notes":"Prisoner"
@@ -2848,7 +2846,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10054,
-			"missionName":"9 Backup Back Down",
 			"name":"Black Harrier",
 			"screenshot":"2016-02-23_00001",
 			"notes":"Prisoner",
@@ -2871,7 +2868,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10054,
-			"missionName":"9 Backup Back Down",
 			"name":"Spunky Crocodile",
 			"screenshot":"2016-02-23_00005",
 			"notes":"Prisoner"
@@ -2893,7 +2889,6 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":10082,
-			"missionName":"15 Footprints of Phantoms",
 			"name":"Pouncing Buzzard",
 			"screenshot":"2016-02-23_00016",
 			"notes":"Prisoner"
@@ -2916,7 +2911,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10082,
-			"missionName":"15 Footprints of Phantoms",
 			"name":"Killer Squirrel",
 			"screenshot":"2016-02-23_00017",
 			"notes":"Prisoner"
@@ -2938,7 +2932,6 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":10091,
-			"missionName":"17 Rescue the Intel Agents",
 			"name":"Poison Buffalo",
 			"screenshot":"2016-02-23_00021",
 			"notes":"Prisoner"
@@ -2961,7 +2954,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10091,
-			"missionName":"17 Rescue the Intel Agents",
 			"name":"Bloody Crocodile",
 			"screenshot":"2016-02-23_00022",
 			"notes":"Truck driver"
@@ -2983,7 +2975,6 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":10120,
-			"missionName":"23 The White Mamba",
 			"name":"Pouncing Harrier",
 			"screenshot":"2016-02-24_00002",
 			"notes":"Prisoner",
@@ -3007,7 +2998,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Dizzy Capybara",
 			"screenshot":"2016-02-24_00007",
 			"notes":"Prisoner"
@@ -3029,7 +3019,6 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Brutal Centipede",
 			"screenshot":"2016-02-24_00013",
 			"notes":"Prisoner"
@@ -3052,7 +3041,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Doom Centipede",
 			"screenshot":"2016-02-24_00014",
 			"notes":"Prisoner"
@@ -3074,7 +3062,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10052,
-			"missionName":"10 Angel With Broken Wings",
 			"name":"Wild Chameleon",
 			"screenshot":"2016-02-23_00010",
 			"notes":"Car driver"
@@ -3096,7 +3083,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10045,
-			"missionName":"32 To Know Too Much",
 			"name":"Goblin Squirrel",
 			"screenshot":"2016-02-26_00003",
 			"notes":"Prisoner"
@@ -3118,7 +3104,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10045,
-			"missionName":"32 To Know Too Much",
 			"name":"Vampire Platypus",
 			"screenshot":"2016-02-26_00001",
 			"notes":"Prisoner"
@@ -3141,7 +3126,6 @@
 			"lang":"Russian",
 			"lang":"Pashto",
 			"missionId":10156,
-			"missionName":"38 Extraordinary",
 			"name":"Sky Centipede",
 			"screenshot":"2016-02-26_00009",
 			"notes":"Prisoner"
@@ -3240,7 +3224,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10200,
-			"missionName":"25 Aim True Ye Vengeful",
 			"name":"Ashen Stallion",
 			"screenshot":"2016-02-24_00006",
 			"notes":"Prisoner"
@@ -3281,7 +3264,6 @@
 			"lang":"English",
 			"lang":"Russian",
 			"missionId":10045,
-			"missionName":"32 To Know Too Much",
 			"name":"Gray Stallion",
 			"screenshot":"2016-02-26_00005",
 			"notes":"Executioner"
@@ -3303,7 +3285,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10195,
-			"missionName":"19 On the Trail",
 			"name":"Raving Harrier",
 			"screenshot":"2016-02-23_00027",
 			"notes":"Prisoner"
@@ -3347,7 +3328,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10041,
-			"missionName":"7 Red Brass",
 			"name":"Death Platypus",
 			"screenshot":"2016-01-29_00009",
 			"notes":"Base driver"
@@ -3389,7 +3369,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Sunny Mongoose",
 			"screenshot":"2016-02-24_00009",
 			"notes":"Bodyguard"
@@ -3412,7 +3391,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10171,
-			"missionName":"41 Proxy War Without End",
 			"name":"Sunny Platypus",
 			"screenshot":"2016-02-26_00010",
 			"notes":"Commander in the GUNSHIP"
@@ -3434,7 +3412,6 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10085,
-			"missionName":"24 Close Contact",
 			"name":"Crying Harrier",
 			"screenshot":"2016-02-24_00004",
 			"notes":"Prisoner"
@@ -3456,7 +3433,6 @@
 			"badConditionWeight":3,
 			"lang":"Russian",
 			"missionId":10044,
-			"missionName":"8 Occupation Forces",
 			"name":"Crimson Kangaroo",
 			"screenshot":"2016-02-16_00001",
 			"notes":"VIP"
@@ -3553,7 +3529,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10052,
-			"missionName":"10 Angel With Broken Wings",
 			"name":"Running Harrier",
 			"screenshot":"2016-02-23_00008"
 		},
@@ -3574,7 +3549,6 @@
 			"badConditionWeight":3,
 			"lang":"Pashto",
 			"missionId":10054,
-			"missionName":"9 Backup Back Down",
 			"name":"Killer Hedgehog",
 			"screenshot":"2016-02-23_00003",
 			"notes":"Prisoner"
@@ -3597,7 +3571,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10211,
-			"missionName":"26 Hunting Down",
 			"name":"Running Basilisk",
 			"screenshot":"2016-02-24_00012",
 			"notes":"Prisoner"
@@ -3639,7 +3612,6 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":10080,
-			"missionName":"13 Pitch Dark",
 			"name":"Jade Centipede",
 			"screenshot":"2016-02-23_00011"
 		},
@@ -3680,7 +3652,6 @@
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
 			"missionId":10200,
-			"missionName":"25 Aim True Ye Vengeful",
 			"name":"Brass Squirrel",
 			"screenshot":"2016-02-24_00005",
 			"notes":"Prisoner"
@@ -3702,7 +3673,6 @@
 			"badConditionWeight":7,
 			"lang":"Pashto",
 			"missionId":10052,
-			"missionName":"10 Angel With Broken Wings",
 			"name":"Malak",
 			"screenshot":"2016-02-23_00009"
 		},
@@ -3723,7 +3693,6 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10115,
-			"missionName":"22 Retake the Platform",
 			"name":"Mosquito",
 			"screenshot":"2016-02-24_00001",
 			"notes":"Leader"
@@ -3745,7 +3714,6 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"missionId":10086,
-			"missionName":"14 Lingua Franca",
 			"name":"Viscount",
 			"screenshot":"2016-02-23_00014",
 			"notes":"Prisoner"
