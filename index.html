@@ -142,7 +142,11 @@
         {
           var fid = f.faceId.split("_")
           if (fid[0] < 600)
-           column = column + "<br><i>face slightly varies</i>"
+           column = column + "<br><i>face slightly varies\
+                              (<a href='#!' onClick='change_face(this,\"" + fid[0]+"_0\")'>1</a>,\
+                              <a href='#!' onClick='change_face(this,\"" + fid[0]+"_1\")'>2</a>,\
+                              <a href='#!' onClick='change_face(this,\"" + fid[0]+"_2\")'>3</a>\
+                              )</i>"
           else
             column = column + "<br><i>unique face</i>"
         }
@@ -166,6 +170,13 @@
             count = count -1
           }
         }
+      }
+
+      function change_face(element,faceId)
+      {
+        var column = $(element).parent().parent().parent()
+        var img = $(column).find('img')
+        $(img).attr('src',"img/ui_face_" + faceId + ".png")
       }
 
 
