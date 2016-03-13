@@ -2616,7 +2616,7 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"lang":"Pashto",
-			"missionId":0,
+			"missionId":-4,
 			"name":"Steel Mongoose",
 			"notes":"Sideops Pashto translator"
 		},
@@ -2636,7 +2636,7 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"lang":"Kikongo",
-			"missionId":0,
+			"missionId":-4,
 			"name":"Greedy Barracuda",
 			"notes":"Sideops Kikongo translator"
 		},
@@ -3618,7 +3618,7 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"lang":"Afrikaans",
-			"missionId":0,
+			"missionId":-4,
 			"name":"Iron Harrier",
 			"notes":"Sideops Afrikaans translator"
 		},
