@@ -96,7 +96,7 @@
         $('.non-unique').toggle()
       }
 
-      function append_info(f)
+      function append_info(f, mid)
       //create column with info and pic
       {
         var col = "\
@@ -146,7 +146,9 @@
           else
             column = column + "<br><i>unique face</i>"
         }
-        
+
+        if ('screenshot' in f)
+          column = column + "<br><a href='img/screenshots/" + mid + '/' + f.screenshot + ".jpg'>Screenshot</a>"        
 
         column = column + "</center></div></div>"
         return column
@@ -200,7 +202,7 @@
                 $('#staff').append("<div class='row' id='staff_0_" + f.missionId + "'></div>")
               }
 
-              var column = append_info(staff_member)
+              var column = append_info(staff_member, f.id)
               $('#staff_'+current_row+'_'+f.missionId).append(column)
 
               if ( (((staff_count)%4 == 0)&&(staff_count!=0)) )
