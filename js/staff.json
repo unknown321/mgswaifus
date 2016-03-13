@@ -16,7 +16,7 @@
 			"moraleEnmity":7,
 			"condition":"Normal",
 			"badConditionWeight":3,
-			"missionId":0,
+			"missionId":10050,
 			"name":"Quiet",
 			"gender":0
 		},
@@ -36,7 +36,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10070,
 			"name":"Huey"
 		},
 		{
@@ -55,7 +55,7 @@
 			"condition":"Damaged",
 			"badConditionWeight":7,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10020,
 			"name":"Miller"
 		},
 		{
@@ -74,7 +74,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10130,
 			"name":"Code Talker"
 		},
 		{
@@ -95,7 +95,7 @@
 			"lang":"English",
 			"lang":"Russian",
 			"lang":"Pashto",
-			"missionId":0,
+			"missionId":10020,
 			"name":"Revolver Ocelot"
 		},
 		{
@@ -114,7 +114,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10010,
 			"name":"Big Boss"
 		},
 		{
@@ -133,7 +133,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10010,
 			"name":"Big Boss (your avatar)"
 		},
 		{
@@ -152,7 +152,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10151,
 			"name":"Flaming Buffalo",
 			"notes":"Unique volunteer (mission 31)",
 			"gender":0
@@ -173,7 +173,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10151,
 			"name":"Running Mongoose",
 			"notes":"Unique volunteer (missions 13, 31)"
 		},
@@ -193,7 +193,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10151,
 			"name":"Frantic Squirrel",
 			"notes":"Unique volunteer (mission 31)"
 		},
@@ -213,7 +213,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10151,
 			"name":"Blazing Mastodon",
 			"notes":"Unique volunteer (mission 31)"
 		},
@@ -233,7 +233,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10151,
 			"name":"Biting Tree Frog",
 			"notes":"Unique volunteer (mission 31)",
 			"gender":0
@@ -254,7 +254,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10151,
 			"name":"Gray Chameleon",
 			"notes":"Unique volunteer (mission 31)",
 			"gender":0
@@ -275,7 +275,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10280,
 			"name":"Razor Hedgehog",
 			"notes":"Unique volunteer (mission 46)"
 		},
@@ -295,7 +295,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10280,
 			"name":"Howling Platypus",
 			"notes":"Unique volunteer (mission 46)"
 		},
@@ -315,7 +315,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10280,
 			"name":"Blue Salamander",
 			"notes":"Unique volunteer (mission 46)"
 		},
@@ -335,7 +335,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10280,
 			"name":"Creeping Buzzard",
 			"notes":"Unique volunteer (mission 46)",
 			"gender":0
@@ -356,7 +356,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10280,
 			"name":"Glacier Mongoose",
 			"notes":"Unique volunteer (mission 46)",
 			"gender":0
@@ -377,7 +377,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10280,
 			"name":"Spunky Platypus",
 			"notes":"Unique volunteer (mission 46)"
 		},
@@ -460,7 +460,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10030,
 			"name":"Sly Harrier",
 			"notes": "Initial staff member"
 		},
@@ -627,7 +627,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10030,
 			"name":"Jade Tree Frog",
 			"notes": "Initial staff member"
 		},
@@ -690,7 +690,7 @@
 			"badConditionWeight":3,
 			"lang":"Kikongo",
 			"lang":"Afrikaans",
-			"missionId":0,
+			"missionId":10090,
 			"name":"Lonely Buffalo",
 			"notes":"Unique volunteer (mission 16)"
 		},
@@ -711,7 +711,7 @@
 			"badConditionWeight":3,
 			"lang":"English",
 			"lang":"Russian",
-			"missionId":0,
+			"missionId":10070,
 			"name":"Hungry Squirrel",
 			"notes":"Unique volunteer (mission 12)"
 		},
@@ -927,7 +927,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10030,
 			"name":"White Mastodon",
 			"notes": "Initial staff member"
 		},
@@ -1562,7 +1562,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10040,
 			"name":"Eye",
 			"notes":"Volunteer after mission 6"
 		},
@@ -1665,7 +1665,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10040,
 			"name":"Finger",
 			"notes":"Volunteer after mission 6"
 		},
@@ -1730,7 +1730,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Hideo",
-			"notes":"Prisoner directed by Hideo Kojima"
+			"notes":"Prisoner directed by Hideo Kojima; sideops #112"
 		},
 		{
 			"uniqueId":21,
@@ -3148,7 +3148,7 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":10036,
 			"name":"Dizzy Centipede",
 			"notes":"Unique volunteer (missions 3, 4, 5)"
 		},
