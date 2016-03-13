@@ -1924,6 +1924,7 @@
 		{
 			"uniqueId":38,
 			"nameId":"staff_name_99_006",
+			"faceId":"644_0",
 			"combat":85,
 			"develop":38,
 			"baseDev":45,
@@ -1945,6 +1946,7 @@
 		{
 			"uniqueId":41,
 			"nameId":"staff_name_99_008",
+			"faceId":"614_0",
 			"combat":80,
 			"develop":20,
 			"baseDev":60,
@@ -1967,6 +1969,7 @@
 		{
 			"uniqueId":42,
 			"nameId":"staff_name_99_009",
+			"faceId":"615_0",
 			"combat":63,
 			"develop":70,
 			"baseDev":15,
@@ -2007,6 +2010,7 @@
 		{
 			"uniqueId":26,
 			"nameId":"staff_name_99_011",
+			"faceId":"616_0",
 			"combat":79,
 			"develop":32,
 			"baseDev":20,
@@ -2023,7 +2027,7 @@
 			"missionId":10100,
 			"missionName":"18 Blood Runs Deep",
 			"name":"Sunny Buzzard",
-			"notes":"First assassination target (marked as banana target in scripts, pretty racist)"
+			"notes":"First assassination target (marked as banana target in scripts, stands for 'banana plantation')"
 		},
 		{
 			"uniqueId":48,
@@ -2070,6 +2074,7 @@
 		{
 			"uniqueId":51,
 			"nameId":"staff_name_99_018",
+			"faceId":"030_0",
 			"combat":120,
 			"develop":30,
 			"baseDev":40,
@@ -2090,6 +2095,7 @@
 		{
 			"uniqueId":52,
 			"nameId":"staff_name_99_019",
+			"faceId":"074_0",
 			"combat":77,
 			"develop":52,
 			"baseDev":110,
@@ -2111,6 +2117,7 @@
 		{
 			"uniqueId":53,
 			"nameId":"staff_name_99_020",
+			"faceId":"001_2",
 			"combat":69,
 			"develop":32,
 			"baseDev":26,
@@ -2132,6 +2139,7 @@
 		{
 			"uniqueId":54,
 			"nameId":"staff_name_99_021",
+			"faceId":"002_0",
 			"combat":80,
 			"develop":41,
 			"baseDev":47,
@@ -2323,6 +2331,7 @@
 		{
 			"uniqueId":66,
 			"nameId":"staff_name_99_033",
+			"faceId":"109_0",
 			"combat":64,
 			"develop":26,
 			"baseDev":20,
@@ -2344,6 +2353,7 @@
 		{
 			"uniqueId":67,
 			"nameId":"staff_name_99_034",
+			"faceId":"021_0",
 			"combat":70,
 			"develop":38,
 			"baseDev":38,
@@ -2386,6 +2396,7 @@
 		{
 			"uniqueId":69,
 			"nameId":"staff_name_99_036",
+			"faceId":"085_1",
 			"combat":63,
 			"develop":37,
 			"baseDev":20,
@@ -2400,11 +2411,12 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Komodo Dragon",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #1"
 		},
 		{
 			"uniqueId":70,
 			"nameId":"staff_name_99_037",
+			"faceId":"175_1",
 			"combat":63,
 			"develop":44,
 			"baseDev":20,
@@ -2419,11 +2431,12 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Jackal",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #2"
 		},
 		{
 			"uniqueId":71,
 			"nameId":"staff_name_99_038",
+			"faceId":"208_1",
 			"combat":20,
 			"develop":63,
 			"baseDev":30,
@@ -2438,7 +2451,7 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Parrot",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #3"
 		},
 		{
 			"uniqueId":74,
@@ -2808,6 +2821,7 @@
 		{
 			"uniqueId":98,
 			"nameId":"staff_name_99_065",
+			"faceId":"258_1",
 			"combat":11,
 			"develop":90,
 			"baseDev":40,
@@ -2828,6 +2842,7 @@
 		{
 			"uniqueId":99,
 			"nameId":"staff_name_99_066",
+			"faceId":"231_0",
 			"combat":30,
 			"develop":92,
 			"baseDev":11,
@@ -2849,6 +2864,7 @@
 		{
 			"uniqueId":100,
 			"nameId":"staff_name_99_067",
+			"faceId":"320_2",
 			"combat":55,
 			"develop":83,
 			"baseDev":70,
@@ -2869,6 +2885,7 @@
 		{
 			"uniqueId":101,
 			"nameId":"staff_name_99_068",
+			"faceId":"135_1",
 			"combat":20,
 			"develop":35,
 			"baseDev":79,
@@ -2912,6 +2929,7 @@
 		{
 			"uniqueId":103,
 			"nameId":"staff_name_99_070",
+			"faceId":"227_1",
 			"combat":70,
 			"develop":128,
 			"baseDev":90,
@@ -2933,6 +2951,7 @@
 		{
 			"uniqueId":104,
 			"nameId":"staff_name_99_071",
+			"faceId":"274_0",
 			"combat":70,
 			"develop":80,
 			"baseDev":30,
@@ -2953,6 +2972,7 @@
 		{
 			"uniqueId":105,
 			"nameId":"staff_name_99_072",
+			"faceId":"300_2",
 			"combat":60,
 			"develop":70,
 			"baseDev":120,
@@ -2995,6 +3015,7 @@
 		{
 			"uniqueId":107,
 			"nameId":"staff_name_99_074",
+			"faceId":"176_1",
 			"combat":30,
 			"develop":120,
 			"baseDev":80,
@@ -3015,6 +3036,7 @@
 		{
 			"uniqueId":108,
 			"nameId":"staff_name_99_075",
+			"faceId":"157_1",
 			"combat":50,
 			"develop":110,
 			"baseDev":30,
@@ -3035,6 +3057,7 @@
 		{
 			"uniqueId":109,
 			"nameId":"staff_name_99_076",
+			"faceId":"165_0",
 			"combat":30,
 			"develop":125,
 			"baseDev":50,
@@ -3132,6 +3155,7 @@
 		{
 			"uniqueId":23,
 			"nameId":"staff_name_99_093",
+			"faceId":"619_0",
 			"combat":47,
 			"develop":72,
 			"baseDev":95,
@@ -3171,6 +3195,7 @@
 		{
 			"uniqueId":39,
 			"nameId":"staff_name_99_105",
+			"faceId":"125_0",
 			"combat":125,
 			"develop":51,
 			"baseDev":22,
@@ -3192,7 +3217,7 @@
 		{
 			"uniqueId":43,
 			"nameId":"staff_name_99_106",
-			"combat":20,
+			"faceId":"235_1",
 			"develop":93,
 			"baseDev":80,
 			"support":35,
@@ -3213,6 +3238,7 @@
 		{
 			"uniqueId":14,
 			"nameId":"staff_name_99_107",
+			"faceId":"601_0",
 			"combat":28,
 			"develop":16,
 			"baseDev":8,
@@ -3227,7 +3253,8 @@
 			"lang":"English",
 			"lang":"Russian",
 			"missionId":0,
-			"name":"Ochre Capybara"
+			"name":"Ochre Capybara",
+			"notes":"Sideops Extract interpreter (Russian)"
 		},
 		{
 			"uniqueId":49,
@@ -3272,6 +3299,7 @@
 		{
 			"uniqueId":55,
 			"nameId":"staff_name_99_110",
+			"faceId":"031_0",
 			"combat":80,
 			"develop":12,
 			"baseDev":5,
@@ -3315,6 +3343,7 @@
 		{
 			"uniqueId":28,
 			"nameId":"staff_name_99_117",
+			"faceId":"642_0",
 			"combat":48,
 			"develop":55,
 			"baseDev":30,
@@ -3472,6 +3501,7 @@
 		{
 			"uniqueId":106,
 			"nameId":"staff_name_99_141",
+			"faceId":"206_2",
 			"combat":120,
 			"develop":70,
 			"baseDev":60,
@@ -3552,6 +3582,7 @@
 		{
 			"uniqueId":24,
 			"nameId":"staff_name_99_147",
+			"faceId":"242_0",
 			"combat":60,
 			"develop":110,
 			"baseDev":60,
@@ -3593,6 +3624,7 @@
 		{
 			"uniqueId":40,
 			"nameId":"unique_staff_mosquito",
+			"faceId":"008_0",
 			"combat":128,
 			"develop":28,
 			"baseDev":22,
