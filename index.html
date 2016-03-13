@@ -154,7 +154,10 @@
         }
 
         if ('screenshot' in f)
-          column = column + "<br><a target='_blank' href='img/screenshots/" + mid + '/' + f.screenshot + ".jpg'>Screenshot</a>"        
+          column = column + "<br><a target='_blank' href='img/screenshots/" + mid + '/' + f.screenshot + ".jpg'>Screenshot</a>"
+	
+	if (f.name=='Razor Hedgehog')
+		column = column + "<br><a target='_blank' href='img/razor_hedgehog_bio.png'>Bio</a>"
 
         column = column + "</center></div></div>"
         return column
