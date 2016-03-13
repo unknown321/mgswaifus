@@ -2618,7 +2618,7 @@
 			"lang":"Pashto",
 			"missionId":-4,
 			"name":"Steel Mongoose",
-			"notes":"Sideops Pashto translator"
+			"notes":"Sideops Extract interpreter (Pashto)"
 		},
 		{
 			"uniqueId":81,
@@ -2638,7 +2638,7 @@
 			"lang":"Kikongo",
 			"missionId":-4,
 			"name":"Greedy Barracuda",
-			"notes":"Sideops Kikongo translator"
+			"notes":"Sideops Extract interpreter (Kikongo)"
 		},
 		{
 			"uniqueId":82,
@@ -3620,7 +3620,7 @@
 			"lang":"Afrikaans",
 			"missionId":-4,
 			"name":"Iron Harrier",
-			"notes":"Sideops Afrikaans translator"
+			"notes":"Sideops Extract interpreter (Afrikaans)"
 		},
 		{
 			"uniqueId":12,
