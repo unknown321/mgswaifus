@@ -1466,7 +1466,7 @@
 			"missionId":0,
 			"name":"Mad Wallaby",
 			"fid_from_scripts":1,
-			"notes":"(?)Marked as traitor"
+			"notes":"(?)Marked as traitor; got <u>her</u> in PrisonerExt 02"
 		},
 		{
 			"uniqueId":233,
@@ -2513,6 +2513,7 @@
 		{
 			"uniqueId":74,
 			"nameId":"staff_name_99_041",
+			"faceId":"134_1",
 			"combat":33,
 			"develop":63,
 			"baseDev":30,
@@ -2527,11 +2528,12 @@
 			"lang":"English",
 			"missionId":"msf",
 			"name":"Raven",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #6"
 		},
 		{
 			"uniqueId":75,
 			"nameId":"staff_name_99_042",
+			"faceId":"050_2",
 			"combat":20,
 			"develop":44,
 			"baseDev":33,
@@ -2546,11 +2548,13 @@
 			"lang":"English",
 			"missionId":"msf",
 			"name":"Eagle Ray",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #7",
+			"screenshot":"20160516140710_1"
 		},
 		{
 			"uniqueId":76,
 			"nameId":"staff_name_99_043",
+			"faceId":"009_0",
 			"combat":20,
 			"develop":63,
 			"baseDev":30,
@@ -2565,11 +2569,13 @@
 			"lang":"English",
 			"missionId":"msf",
 			"name":"Viper",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #8",
+			"screenshot":"20160516145333_1"
 		},
 		{
 			"uniqueId":77,
 			"nameId":"staff_name_99_044",
+			"faceId":"000_2",
 			"combat":33,
 			"develop":63,
 			"baseDev":20,
@@ -2584,11 +2590,13 @@
 			"lang":"English",
 			"missionId":"msf",
 			"name":"Elephant",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #9",
+			"screenshot":"20160516154815_1"
 		},
 		{
 			"uniqueId":79,
 			"nameId":"staff_name_99_046",
+			"faceId":"646_0",
 			"combat":11,
 			"develop":95,
 			"baseDev":20,
@@ -2605,11 +2613,13 @@
 			"lang":"Afrikaans",
 			"missionId":0,
 			"name":"Gray Mongoose",
-			"notes":"Gunsmith Sideops"
+			"notes":"Extract Legendary Gunsmith 3",
+			"screenshot":"20160516162449_1"
 		},
 		{
 			"uniqueId":80,
 			"nameId":"staff_name_99_047",
+			"faceId":"647_0",
 			"combat":20,
 			"develop":30,
 			"baseDev":20,
@@ -2625,11 +2635,13 @@
 			"lang":"Pashto",
 			"missionId":-4,
 			"name":"Steel Mongoose",
-			"notes":"Sideops Extract interpreter (Pashto)"
+			"notes":"Sideops Extract interpreter (Pashto)",
+			"screenshot":"20160516155228_1"
 		},
 		{
 			"uniqueId":81,
 			"nameId":"staff_name_99_048",
+			"faceId":"648_0",
 			"combat":44,
 			"develop":11,
 			"baseDev":20,
@@ -2645,7 +2657,8 @@
 			"lang":"Kikongo",
 			"missionId":-4,
 			"name":"Greedy Barracuda",
-			"notes":"Sideops Extract interpreter (Kikongo)"
+			"notes":"Sideops Extract interpreter (Kikongo)",
+			"screenshot":"20160516132718_1"
 		},
 		{
 			"uniqueId":82,
@@ -3231,6 +3244,7 @@
 		{
 			"uniqueId":11,
 			"nameId":"staff_name_99_103",
+			"faceId":"641_0",
 			"combat":55,
 			"develop":68,
 			"baseDev":11,
@@ -3244,7 +3258,9 @@
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
 			"missionId":0,
-			"name":"Devil Chameleon"
+			"name":"Devil Chameleon",
+			"notes":"Extract Legendary Gunsmith 1",
+			"screenshot":"20160516152117_1"
 		},
 		{
 			"uniqueId":39,
@@ -3335,6 +3351,7 @@
 		{
 			"uniqueId":13,
 			"nameId":"staff_name_99_109",
+			"faceId":"640_0",
 			"combat":30,
 			"develop":66,
 			"baseDev":40,
@@ -3349,7 +3366,8 @@
 			"lang":"English",
 			"missionId":0,
 			"name":"Shining Kangaroo",
-			"notes":"Gunsmith Sideops"
+			"notes":"Extract Legendary Gunsmith 2",
+			"screenshot":"20160516161853_1"
 		},
 		{
 			"uniqueId":55,
@@ -3440,6 +3458,7 @@
 		{
 			"uniqueId":72,
 			"nameId":"staff_name_99_129",
+			"faceId":"268_0",
 			"combat":33,
 			"develop":11,
 			"baseDev":20,
@@ -3454,11 +3473,13 @@
 			"lang":"English",
 			"missionId":"msf",
 			"name":"Falcon",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #4",
+			"screenshot":"20160516132158_1"
 		},
 		{
 			"uniqueId":73,
 			"nameId":"staff_name_99_130",
+			"faceId":"072_1",
 			"combat":20,
 			"develop":63,
 			"baseDev":20,
@@ -3473,7 +3494,8 @@
 			"lang":"English",
 			"missionId":"msf",
 			"name":"Ostrich",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #5",
+			"screenshot":"20160516134123_1"
 		},
 		{
 			"uniqueId":223,
@@ -3496,6 +3518,7 @@
 		{
 			"uniqueId":78,
 			"nameId":"staff_name_99_135",
+			"faceId":"016_1",
 			"combat":33,
 			"develop":11,
 			"baseDev":20,
@@ -3510,7 +3533,8 @@
 			"lang":"English",
 			"missionId":"msf",
 			"name":"Rat",
-			"notes":"Sideops MSF staff"
+			"notes":"Sideops MSF staff #10",
+			"screenshot":"20160516160728_1"
 		},
 		{
 			"uniqueId":85,
@@ -3578,6 +3602,7 @@
 		{
 			"uniqueId":184,
 			"nameId":"staff_name_99_142",
+			"faceId":"609_0",
 			"combat":60,
 			"develop":65,
 			"baseDev":55,
@@ -3593,7 +3618,8 @@
 			"lang":"Afrikaans",
 			"missionId":-4,
 			"name":"Iron Harrier",
-			"notes":"Sideops Extract interpreter (Afrikaans)"
+			"notes":"Sideops Extract interpreter (Afrikaans)",
+			"screenshot":"20160516125714_1"
 		},
 		{
 			"uniqueId":12,
@@ -3618,6 +3644,7 @@
 		{
 			"uniqueId":166,
 			"nameId":"staff_name_99_144",
+			"faceId":"277_2",
 			"combat":23,
 			"develop":64,
 			"baseDev":25,
@@ -3632,7 +3659,8 @@
 			"lang":"Afrikaans",
 			"missionId":0,
 			"name":"Dire Armadillo",
-			"notes": "Commander"
+			"notes": "Commander, Unlucky Dog #2",
+			"screenshot":"20160516143021_1"
 		},
 		{
 			"uniqueId":24,

@@ -1,0 +1,1 @@
+Link between number keys and real soldier names was discovered using https://dotnetfiddle.net/?id=mGKGr0 this snippet. Apparently it uses old CityHash realization which doesn't exist in Python (which I use to do stuff).
