@@ -17,3 +17,7 @@ You can get pics by extracting them using <a href="https://www.dropbox.com/s/0rt
 Any help finding remaining portraits and info about sidemissions would be appreciated.
 
 If you want to use this website's materials in your own articles/web sites/wherever, please link this repository as a source. Thanks.
+
+See also: 
+* https://github.com/unknown321/mgsvdump
+* https://github.com/unknown321/mgsmonsterguns
