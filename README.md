@@ -18,6 +18,8 @@ Any help finding remaining portraits and info about sidemissions would be apprec
 
 If you want to use this website's materials in your own articles/web sites/wherever, please link this repository as a source. Thanks.
 
-See also: 
-* https://github.com/unknown321/mgsvdump
-* https://github.com/unknown321/mgsmonsterguns
+I also have other MGSV-related repos:
+
+ * https://github.com/unknown321/mgsmonsterguns - how do the weapons work (and how to make monster guns)
+ * https://github.com/unknown321/mgsv_lua_dump - dump of (probably) all lua files in the game, made for changelogs
+ * https://github.com/unknown321/mgsvdump - dump of lua classes used in the game, useful for modding.
