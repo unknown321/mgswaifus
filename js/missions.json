@@ -274,6 +274,46 @@
             "id": -4,
             "missionId": -4,
             "name": "Translators sideops"
+        },
+        {
+            "id": -5,
+            "missionId": "e20010",
+            "name": "GZ: Ground Zeroes"
+        },
+        {
+            "id": -6,
+            "missionId": "e20015",
+            "name": "GZ: Ground Zeroes"
+        },
+        {
+            "id": -7,
+            "missionId": "e20020",
+            "name": "Eliminate the Renegade Threat"
+        },
+        {
+            "id": -8,
+            "missionId": "e20030",
+            "name": "Classified Intel Acquisition"
+        },
+        {
+            "id": -9,
+            "missionId": "e20040",
+            "name": "Intel Operative Rescue"
+        },
+        {
+            "id": -10,
+            "missionId": "e20050",
+            "name": "Destroy the Anti-Air Emplacements"
+        },
+        {
+            "id": -11,
+            "missionId": "e20060",
+            "name": "Dejavu"
+        },
+        {
+            "id": -12,
+            "missionId": "e20070",
+            "name": "Jamais Vu"
         }
     ]
 }
