@@ -1023,10 +1023,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20010",
 			"name":"Gray Wallaby",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":219,
@@ -1044,10 +1044,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20010",
 			"name":"Ochre Chameleon",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":220,
@@ -1065,10 +1065,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20010",
 			"name":"Grizzly Hedgehog",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":221,
@@ -1086,10 +1086,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20010",
 			"name":"Hungry Crocodile",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":29,
@@ -1128,10 +1128,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20010",
 			"name":"Wild Harrier",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":97,
@@ -1213,10 +1213,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20050",
 			"name":"Night Tree Frog",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":47,
@@ -1255,10 +1255,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20050",
 			"name":"Pirate Capybara",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":236,
@@ -1276,10 +1276,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20050",
 			"name":"Roaring Capybara",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":237,
@@ -1297,10 +1297,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20050",
 			"name":"Bitter Centipede",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":225,
@@ -1318,10 +1318,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20020",
 			"name":"Blue Chameleon",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":111,
@@ -1379,10 +1379,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20020",
 			"name":"Midnight Mastiff",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":229,
@@ -1400,10 +1400,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20030",
 			"name":"Frigid Mongoose",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":230,
@@ -1421,10 +1421,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20030",
 			"name":"Hunting Stallion",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":231,
@@ -1442,10 +1442,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20030",
 			"name":"Assassin Harrier",
 			"fid_from_scripts":1,
-			"notes":"(?) Prisoner / Volunteer"
+			"notes":"Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":232,
@@ -1484,10 +1484,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20030",
 			"name":"Wild Stallion",
 			"fid_from_scripts":1,
-			"notes":"(?)Marked as mastermind"
+			"notes":"Marked as mastermind, special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":238,
@@ -1505,10 +1505,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20060",
 			"name":"Crying Sturgeon",
 			"fid_from_scripts":1,
-			"notes":"(?) Marked as genome soldier"
+			"notes":"Marked as genome soldier, special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":216,
