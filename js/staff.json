@@ -1339,9 +1339,9 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":-13,
 			"name":"Ziang Tan",
-			"notes":"Prisoner from E3 of whatever, google him"
+			"notes":"<a href='https://metalgear.fandom.com/wiki/Ziang_Tan'>Prisoner from E3</a>, sideops Unlucky Dog 01 (#61)"
 		},
 		{
 			"uniqueId":16,
@@ -3658,9 +3658,9 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
-			"missionId":0,
+			"missionId":-13,
 			"name":"Dire Armadillo",
-			"notes": "Commander, Unlucky Dog #2",
+			"notes": "Commander, Unlucky Dog #2 (#62)",
 			"screenshot":"20160516143021_1"
 		},
 		{
