@@ -1463,10 +1463,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20030",
 			"name":"Mad Wallaby",
 			"fid_from_scripts":1,
-			"notes":"(?)Marked as traitor; got <u>her</u> in PrisonerExt 02"
+			"notes":"Marked as traitor; got <u>her</u> in PrisonerExt 02, Special volunteer <a href='https://metalgear.fandom.com/wiki/Mother_Base_Bonus_Staff#Ground_Zeroes_unique_characters'>from GZ</a>"
 		},
 		{
 			"uniqueId":233,
