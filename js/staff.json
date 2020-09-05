@@ -1782,10 +1782,10 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"English",
-			"missionId":0,
+			"missionId":"e20040",
 			"name":"Hideo",
 			"fid_from_scripts":1,
-			"notes":"Prisoner directed by Hideo Kojima; sideops #112"
+			"notes":"Prisoner directed by Hideo Kojima; can also be acquired from sideops #112"
 		},
 		{
 			"uniqueId":21,
