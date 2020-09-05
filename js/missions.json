@@ -314,6 +314,11 @@
             "id": -12,
             "missionId": "e20070",
             "name": "Jamais Vu"
+        },
+        {
+            "id": -13,
+            "missionId": -13,
+            "name": "Unlucky Dog sideops"
         }
     ]
 }
