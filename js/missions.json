@@ -318,7 +318,12 @@
         {
             "id": -13,
             "missionId": -13,
-            "name": "Unlucky Dog sideops"
+            "name": "Unlucky Dog sideops (#61-65)"
+        },
+        {
+            "id": -14,
+            "missionId": -14,
+            "name": "Legendary Gunsmith sideops (#107-109)"
         }
     ]
 }
