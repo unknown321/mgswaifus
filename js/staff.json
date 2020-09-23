@@ -3159,9 +3159,9 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"Russian",
-			"missionId":0,
+			"missionId":-13,
 			"name":"Doom Squirrel",
-			"notes":"(?) Prisoner"
+			"notes":"Prisoner, Unlucky Dog #3 (#63)"
 		},
 		{
 			"uniqueId":177,
@@ -3178,9 +3178,9 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
-			"missionId":0,
+			"missionId":-13,
 			"name":"Cunning Mongoose",
-			"notes":"(?) Prisoner"
+			"notes":"Prisoner, Unlucky Dog #4 (#64)"
 		},
 		{
 			"uniqueId":179,
@@ -3197,9 +3197,9 @@
 			"condition":"Normal",
 			"badConditionWeight":3,
 			"lang":"Afrikaans",
-			"missionId":0,
+			"missionId":-13,
 			"name":"Dancing Mongoose",
-			"notes":"(?) Prisoner"
+			"notes":"Prisoner, Unlucky Dog #5 (#65)"
 		},
 		{
 			"uniqueId":186,
